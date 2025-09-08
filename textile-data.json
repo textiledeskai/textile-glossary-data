@@ -13,4 +13,600 @@
     "tags": ["fiber", "synthetic", "durable"],
     "related": ["nylon", "rayon"]
   }
+},
+"wool": {
+  "english": "A natural fiber obtained from the fleece of sheep and other animals.",
+  "bangla": "উল - ভেড়া এবং অন্যান্য প্রাণীর লোম থেকে প্রাপ্ত প্রাকৃতিক তন্তু।",
+  "category": "natural",
+  "tags": ["fiber", "animal", "warm"],
+  "related": ["alpaca", "cashmere", "mohair"]
+},
+"silk": {
+  "english": "A natural protein fiber produced by silkworms.",
+  "bangla": "রেশম - রেশমকীট দ্বারা উৎপাদিত প্রোটিন তন্তু।",
+  "category": "natural",
+  "tags": ["fiber", "luxury", "shiny"],
+  "related": ["satin", "twill", "chiffon"]
+},
+"linen": {
+  "english": "A textile made from the fibers of the flax plant.",
+  "bangla": "লিনেন - ফ্ল্যাক্স উদ্ভিদের তন্তু থেকে তৈরি কাপড়।",
+  "category": "natural",
+  "tags": ["fiber", "plant", "cool"],
+  "related": ["cotton", "hemp", "ramie"]
+},
+"jute": {
+  "english": "A long, soft, shiny vegetable fiber spun into coarse threads.",
+  "bangla": "পাট - লম্বা, নরম, উজ্জ্বল তন্তু যা মোটা সুতায় কাটা হয়।",
+  "category": "natural",
+  "tags": ["fiber", "plant", "burlap"],
+  "related": ["hemp", "kenaf", "sisal"]
+},
+"hemp": {
+  "english": "A natural fiber from the stalk of the hemp plant.",
+  "bangla": "শণ - শণ গাছের কান্ড থেকে প্রাপ্ত তন্তু।",
+  "category": "natural",
+  "tags": ["fiber", "plant", "durable"],
+  "related": ["linen", "jute", "cotton"]
+},
+"alpaca": {
+  "english": "A soft, luxurious fiber obtained from the alpaca animal.",
+  "bangla": "আল্পাকা - আল্পাকা প্রাণী থেকে প্রাপ্ত বিলাসবহুল নরম তন্তু।",
+  "category": "natural",
+  "tags": ["fiber", "animal", "warm"],
+  "related": ["wool", "cashmere", "llama"]
+},
+"cashmere": {
+  "english": "A fine, soft wool obtained from cashmere goats.",
+  "bangla": "কাশ্মীরি উল - কাশ্মীরি ছাগল থেকে প্রাপ্ত সূক্ষ্ম ও নরম উল।",
+  "category": "natural",
+  "tags": ["fiber", "animal", "luxury"],
+  "related": ["wool", "alpaca", "mohair"]
+},
+"mohair": {
+  "english": "A silk-like fiber obtained from the Angora goat.",
+  "bangla": "মোহেয়ার - অ্যাঙ্গোরা ছাগল থেকে প্রাপ্ত রেশম-সদৃশ তন্তু।",
+  "category": "natural",
+  "tags": ["fiber", "animal", "silky"],
+  "related": ["wool", "cashmere", "alpaca"]
+},
+"angora": {
+  "english": "A soft fiber from Angora rabbits.",
+  "bangla": "অ্যাঙ্গোরা - অ্যাঙ্গোরা খরগোশ থেকে প্রাপ্ত নরম তন্তু।",
+  "category": "natural",
+  "tags": ["fiber", "animal", "soft"],
+  "related": ["wool", "cashmere", "alpaca"]
+},
+"ramie": {
+  "english": "A strong natural fiber from the stalks of the ramie plant.",
+  "bangla": "রামি - রামি গাছের কান্ড থেকে প্রাপ্ত শক্ত তন্তু।",
+  "category": "natural",
+  "tags": ["fiber", "plant", "lustrous"],
+  "related": ["linen", "hemp", "jute"]
+},
+"nylon": {
+  "english": "A synthetic fiber known for its strength and elasticity.",
+  "bangla": "নাইলন - শক্তি এবং স্থিতিস্থাপকতার জন্য পরিচিত কৃত্রিম তন্তু।",
+  "category": "synthetic",
+  "tags": ["fiber", "synthetic", "elastic"],
+  "related": ["polyester", "spandex", "acrylic"]
+},
+"acrylic": {
+  "english": "A synthetic fiber made from acrylonitrile, often used as a wool substitute.",
+  "bangla": "অ্যাক্রিলিক - অ্যাক্রাইলোনাইট্রাইল থেকে তৈরি কৃত্রিম তন্তু, উলের বিকল্প হিসেবে ব্যবহৃত।",
+  "category": "synthetic",
+  "tags": ["fiber", "synthetic", "wool-like"],
+  "related": ["nylon", "polyester", "olefin"]
+},
+"spandex": {
+  "english": "A synthetic fiber known for exceptional elasticity.",
+  "bangla": "স্প্যানডেক্স - অসাধারণ স্থিতিস্থাপকতার জন্য পরিচিত কৃত্রিম তন্তু।",
+  "category": "synthetic",
+  "tags": ["fiber", "synthetic", "stretch"],
+  "related": ["lycra", "nylon", "polyester"]
+},
+"viscose": {
+  "english": "A semi-synthetic fiber made from regenerated cellulose.",
+  "bangla": "ভিসকোজ - পুনর্জীবিত সেলুলোজ থেকে তৈরি আধা-কৃত্রিম তন্তু।",
+  "category": "semi-synthetic",
+  "tags": ["fiber", "cellulose", "soft"],
+  "related": ["rayon", "modal", "lyocell"]
+},
+"rayon": {
+  "english": "A regenerated cellulose fiber, often used as a silk substitute.",
+  "bangla": "রেয়ন - পুনর্জীবিত সেলুলোজ তন্তু, প্রায়শই রেশমের বিকল্প হিসাবে ব্যবহৃত।",
+  "category": "semi-synthetic",
+  "tags": ["fiber", "semi-synthetic", "lustrous"],
+  "related": ["viscose", "modal", "acetate"]
+},
+"modal": {
+  "english": "A type of rayon made from beech tree pulp.",
+  "bangla": "মডাল - বিচ গাছের পাল্প থেকে তৈরি রেয়নের একটি প্রকার।",
+  "category": "semi-synthetic",
+  "tags": ["fiber", "soft", "breathable"],
+  "related": ["viscose", "rayon", "lyocell"]
+},
+"lyocell": {
+  "english": "A sustainable fiber made from wood pulp through a closed-loop process.",
+  "bangla": "লায়োসেল - কাঠের পাল্প থেকে ক্লোজড-লুপ প্রক্রিয়ায় তৈরি টেকসই তন্তু।",
+  "category": "semi-synthetic",
+  "tags": ["fiber", "eco-friendly", "soft"],
+  "related": ["modal", "viscose", "tencel"]
+},
+"tencel": {
+  "english": "A brand name for lyocell, an eco-friendly regenerated fiber.",
+  "bangla": "টেনসেল - লায়োসেল তন্তুর একটি ব্র্যান্ড নাম।",
+  "category": "semi-synthetic",
+  "tags": ["fiber", "eco-friendly", "regenerated"],
+  "related": ["lyocell", "modal", "viscose"]
+},
+"acetate": {
+  "english": "A synthetic fiber made from cellulose acetate, used in linings and drapes.",
+  "bangla": "অ্যাসিটেট - সেলুলোজ অ্যাসিটেট থেকে তৈরি কৃত্রিম তন্তু, আস্তরণ ও পর্দায় ব্যবহৃত।",
+  "category": "semi-synthetic",
+  "tags": ["fiber", "semi-synthetic", "lustrous"],
+  "related": ["rayon", "viscose", "triacetate"]
+},
+"triacetate": {
+  "english": "A manufactured fiber made from cellulose triacetate, resistant to heat and shrinkage.",
+  "bangla": "ট্রাইঅ্যাসিটেট - সেলুলোজ ট্রাইঅ্যাসিটেট থেকে তৈরি একটি কৃত্রিম তন্তু, যা তাপ ও সঙ্কোচন প্রতিরোধী।",
+  "category": "semi-synthetic",
+  "tags": ["fiber", "semi-synthetic", "durable"],
+  "related": ["acetate", "rayon", "viscose"]
+},
+"denim": {
+  "english": "A sturdy cotton twill fabric, typically used for jeans.",
+  "bangla": "ডেনিম - একটি মজবুত তুলার টুইল কাপড়, সাধারণত জিন্সে ব্যবহৃত হয়।",
+  "category": "fabric",
+  "tags": ["fabric", "cotton", "twill"],
+  "related": ["twill", "jeans", "canvas"]
+},
+"chiffon": {
+  "english": "A lightweight, sheer fabric made from silk, nylon, or polyester.",
+  "bangla": "শিফন - হালকা ও স্বচ্ছ কাপড়, যা রেশম, নাইলন বা পলিয়েস্টার থেকে তৈরি।",
+  "category": "fabric",
+  "tags": ["fabric", "lightweight", "sheer"],
+  "related": ["georgette", "organza", "silk"]
+},
+"georgette": {
+  "english": "A lightweight, crinkled fabric usually made of silk or synthetic fibers.",
+  "bangla": "জর্জেট - হালকা, কুঁচকানো কাপড় যা সাধারণত রেশম বা কৃত্রিম তন্তু থেকে তৈরি।",
+  "category": "fabric",
+  "tags": ["fabric", "lightweight", "flowy"],
+  "related": ["chiffon", "crepe", "silk"]
+},
+"satin": {
+  "english": "A fabric with a glossy surface and a dull back, made using a satin weave.",
+  "bangla": "স্যাটিন - চকচকে উপরের অংশ এবং নিস্তেজ পেছনের অংশযুক্ত কাপড়, সাটিন বুনন দ্বারা তৈরি।",
+  "category": "fabric",
+  "tags": ["fabric", "luxury", "shiny"],
+  "related": ["silk", "charmeuse", "taffeta"]
+},
+"taffeta": {
+  "english": "A crisp, smooth fabric made from silk or synthetic fibers.",
+  "bangla": "টাফেটা - মসৃণ ও খসখসে কাপড়, যা রেশম বা কৃত্রিম তন্তু থেকে তৈরি।",
+  "category": "fabric",
+  "tags": ["fabric", "crisp", "shiny"],
+  "related": ["satin", "organza", "silk"]
+},
+"organza": {
+  "english": "A thin, plain weave fabric made from silk or synthetic fibers, often used in evening wear.",
+  "bangla": "অরগাঞ্জা - পাতলা, সাধারণ বুনন কাপড়, যা প্রায়শই রেশম বা কৃত্রিম তন্তু থেকে তৈরি এবং পার্টি পোশাকে ব্যবহৃত হয়।",
+  "category": "fabric",
+  "tags": ["fabric", "lightweight", "sheer"],
+  "related": ["chiffon", "taffeta", "georgette"]
+},
+"velvet": {
+  "english": "A soft, luxurious fabric with a dense pile, giving it a rich texture.",
+  "bangla": "ভেলভেট - ঘন পাইলযুক্ত একটি নরম বিলাসবহুল কাপড়, যা সমৃদ্ধ টেক্সচার দেয়।",
+  "category": "fabric",
+  "tags": ["fabric", "luxury", "pile"],
+  "related": ["velour", "corduroy", "plush"]
+},
+"velour": {
+  "english": "A plush, knitted fabric similar to velvet but stretchier.",
+  "bangla": "ভেলোর - ভেলভেটের মতো একটি নরম বোনা কাপড়, তবে আরও প্রসারণশীল।",
+  "category": "fabric",
+  "tags": ["fabric", "pile", "stretchy"],
+  "related": ["velvet", "plush", "terrycloth"]
+},
+"corduroy": {
+  "english": "A durable fabric with parallel ridges (wales), usually made from cotton.",
+  "bangla": "কর্ডুরয় - তুলা দিয়ে তৈরি একটি মজবুত কাপড়, যেখানে সমান্তরাল দাগ থাকে।",
+  "category": "fabric",
+  "tags": ["fabric", "cotton", "textured"],
+  "related": ["velvet", "denim", "twill"]
+},
+"twill": {
+  "english": "A type of textile weave with a diagonal rib pattern.",
+  "bangla": "টুইল - এক ধরনের বুনন, যেখানে তির্যক দাগ থাকে।",
+  "category": "weave",
+  "tags": ["weave", "diagonal", "fabric"],
+  "related": ["denim", "gabardine", "serge"]
+},
+"plain weave": {
+  "english": "The simplest and most common textile weave pattern.",
+  "bangla": "সাধারণ বুনন - সবচেয়ে সহজ এবং প্রচলিত বুনন প্যাটার্ন।",
+  "category": "weave",
+  "tags": ["weave", "basic", "common"],
+  "related": ["basket weave", "twill", "satin weave"]
+},
+"satin weave": {
+  "english": "A weave pattern that produces a smooth, shiny surface.",
+  "bangla": "সাটিন বুনন - একটি বুনন প্যাটার্ন যা মসৃণ ও চকচকে পৃষ্ঠ তৈরি করে।",
+  "category": "weave",
+  "tags": ["weave", "shiny", "smooth"],
+  "related": ["satin", "taffeta", "charmeuse"]
+},
+"basket weave": {
+  "english": "A variation of plain weave that looks like a basket pattern.",
+  "bangla": "ঝুড়ি বুনন - সাধারণ বুননের একটি রূপ, যা ঝুড়ির মতো দেখতে।",
+  "category": "weave",
+  "tags": ["weave", "textured", "pattern"],
+  "related": ["plain weave", "twill", "hopsack"]
+},
+"jacquard": {
+  "english": "An intricate fabric woven on a jacquard loom, often with complex patterns.",
+  "bangla": "জ্যাকোয়ার্ড - জ্যাকোয়ার্ড তাঁতে বোনা জটিল নকশাযুক্ত কাপড়।",
+  "category": "weave",
+  "tags": ["weave", "patterned", "complex"],
+  "related": ["brocade", "damask", "tapestry"]
+},
+"brocade": {
+  "english": "A rich fabric woven with a raised design, often using gold or silver threads.",
+  "bangla": "ব্রোকেড - সোনার বা রূপার সুতার সাথে উঁচু নকশা বোনা সমৃদ্ধ কাপড়।",
+  "category": "fabric",
+  "tags": ["fabric", "luxury", "patterned"],
+  "related": ["jacquard", "damask", "tapestry"]
+},
+"damask": {
+  "english": "A reversible patterned fabric made using a jacquard loom.",
+  "bangla": "ড্যামাস্ক - জ্যাকোয়ার্ড তাঁতে তৈরি উল্টানো যায় এমন নকশাযুক্ত কাপড়।",
+  "category": "fabric",
+  "tags": ["fabric", "patterned", "reversible"],
+  "related": ["brocade", "jacquard", "tapestry"]
+},
+"tapestry": {
+  "english": "A heavy fabric with elaborate pictorial designs, often used for wall hangings.",
+  "bangla": "ট্যাপেস্ট্রি - জটিল ছবিযুক্ত ভারী কাপড়, যা প্রায়শই দেয়ালে ঝোলানো হয়।",
+  "category": "fabric",
+  "tags": ["fabric", "decorative", "woven"],
+  "related": ["brocade", "damask", "jacquard"]
+},
+"gabardine": {
+  "english": "A tough, tightly woven fabric used for suits and coats.",
+  "bangla": "গ্যাবারডিন - শক্ত, ঘন বোনা কাপড়, যা স্যুট ও কোটে ব্যবহৃত হয়।",
+  "category": "fabric",
+  "tags": ["fabric", "durable", "wool"],
+  "related": ["twill", "serge", "worsted"]
+},
+"serge": {
+  "english": "A durable fabric with a twill weave, often used in military uniforms.",
+  "bangla": "সার্জ - টুইল বুননের একটি মজবুত কাপড়, যা প্রায়শই সামরিক পোশাকে ব্যবহৃত হয়।",
+  "category": "fabric",
+  "tags": ["fabric", "twill", "durable"],
+  "related": ["gabardine", "twill", "worsted"]
+},
+"worsted": {
+  "english": "A smooth, fine wool yarn or fabric made from long-staple fibers.",
+  "bangla": "ওরস্টেড - দীর্ঘ তন্তু থেকে তৈরি মসৃণ ও সূক্ষ্ম উল সূতা বা কাপড়।",
+  "category": "fabric",
+  "tags": ["fabric", "wool", "smooth"],
+  "related": ["gabardine", "serge", "flannel"]
+},
+"flannel": {
+  "english": "A soft woven fabric, typically made of wool or cotton, often brushed for extra softness.",
+  "bangla": "ফ্লানেল - একটি নরম বোনা কাপড়, সাধারণত উল বা তুলা থেকে তৈরি হয়।",
+  "category": "fabric",
+  "tags": ["fabric", "soft", "warm"],
+  "related": ["wool", "tweed", "brushed cotton"]
+},
+"tweed": {
+  "english": "A rough, woolen fabric often woven with a twill structure, popular in jackets.",
+  "bangla": "টুইড - খসখসে উলের কাপড়, যা প্রায়শই টুইল বুননে তৈরি হয় এবং জ্যাকেটে জনপ্রিয়।",
+  "category": "fabric",
+  "tags": ["fabric", "wool", "twill"],
+  "related": ["flannel", "serge", "harris tweed"]
+},
+"harris tweed": {
+  "english": "A handwoven tweed cloth made from pure virgin wool in the Outer Hebrides of Scotland.",
+  "bangla": "হ্যারিস টুইড - স্কটল্যান্ডের আউটার হেব্রাইডসে খাঁটি উল দিয়ে হাতে বোনা টুইড কাপড়।",
+  "category": "traditional",
+  "tags": ["fabric", "wool", "handwoven"],
+  "related": ["tweed", "wool", "flannel"]
+},
+"linen": {
+  "english": "A natural fiber fabric made from the flax plant, strong and breathable.",
+  "bangla": "লিনেন - ফ্ল্যাক্স গাছ থেকে তৈরি প্রাকৃতিক তন্তুর কাপড়, যা শক্ত ও বায়ু চলাচলযোগ্য।",
+  "category": "natural",
+  "tags": ["fiber", "plant", "breathable"],
+  "related": ["cotton", "hemp", "ramie"]
+},
+"ramie": {
+  "english": "A natural fiber made from the stalks of the ramie plant, similar to linen.",
+  "bangla": "রামি - রামি গাছের ডাঁটা থেকে তৈরি প্রাকৃতিক তন্তু, যা লিনেনের মতো।",
+  "category": "natural",
+  "tags": ["fiber", "plant", "linen-like"],
+  "related": ["linen", "hemp", "jute"]
+},
+"jute": {
+  "english": "A coarse natural fiber obtained from the jute plant, commonly used for sacks and ropes.",
+  "bangla": "পাট - জুট গাছ থেকে প্রাপ্ত প্রাকৃতিক তন্তু, যা সাধারণত বস্তা ও দড়িতে ব্যবহৃত হয়।",
+  "category": "natural",
+  "tags": ["fiber", "plant", "coarse"],
+  "related": ["hemp", "coir", "sisal"]
+},
+"hemp": {
+  "english": "A strong natural fiber from the stalk of the hemp plant, durable and eco-friendly.",
+  "bangla": "শণ - শণ গাছের ডাঁটা থেকে প্রাপ্ত শক্ত প্রাকৃতিক তন্তু।",
+  "category": "natural",
+  "tags": ["fiber", "plant", "eco-friendly"],
+  "related": ["jute", "linen", "ramie"]
+},
+"coir": {
+  "english": "A natural fiber extracted from the husk of coconuts, used in mats and ropes.",
+  "bangla": "নারিকেলের ছোবড়া থেকে প্রাপ্ত প্রাকৃতিক তন্তু, যা মাদুর ও দড়িতে ব্যবহৃত হয়।",
+  "category": "natural",
+  "tags": ["fiber", "plant", "coarse"],
+  "related": ["jute", "sisal", "hemp"]
+},
+"sisal": {
+  "english": "A stiff fiber from the agave plant, used for ropes, mats, and brushes.",
+  "bangla": "সিসাল - আগাভে গাছ থেকে প্রাপ্ত শক্ত তন্তু, যা দড়ি, মাদুর ও ব্রাশে ব্যবহৃত হয়।",
+  "category": "natural",
+  "tags": ["fiber", "plant", "durable"],
+  "related": ["coir", "jute", "hemp"]
+},
+"alpaca": {
+  "english": "A soft, luxurious natural fiber from the alpaca animal, similar to wool.",
+  "bangla": "আল্পাকা - আলপাকা প্রাণী থেকে প্রাপ্ত নরম ও বিলাসবহুল প্রাকৃতিক তন্তু।",
+  "category": "natural",
+  "tags": ["fiber", "animal", "soft"],
+  "related": ["wool", "cashmere", "llama"]
+},
+"cashmere": {
+  "english": "A fine, soft fiber obtained from the undercoat of cashmere goats.",
+  "bangla": "কাশ্মিরি উল - কাশ্মিরি ছাগলের নরম তলা-লোম থেকে প্রাপ্ত সূক্ষ্ম তন্তু।",
+  "category": "natural",
+  "tags": ["fiber", "animal", "luxury"],
+  "related": ["wool", "alpaca", "mohair"]
+},
+"mohair": {
+  "english": "A silky fiber made from the hair of the Angora goat.",
+  "bangla": "মোহেয়ার - আঙ্গোরা ছাগলের লোম থেকে তৈরি সিল্কি তন্তু।",
+  "category": "natural",
+  "tags": ["fiber", "animal", "silky"],
+  "related": ["cashmere", "alpaca", "wool"]
+},
+"angora": {
+  "english": "A fine, fluffy fiber obtained from Angora rabbits.",
+  "bangla": "অ্যাঙ্গোরা - আঙ্গোরা খরগোশ থেকে প্রাপ্ত নরম তন্তু।",
+  "category": "natural",
+  "tags": ["fiber", "animal", "soft"],
+  "related": ["wool", "mohair", "cashmere"]
+},
+"yak wool": {
+  "english": "A warm and durable natural fiber obtained from the undercoat of yaks.",
+  "bangla": "ইয়াক উল - ইয়াক প্রাণীর তলা-লোম থেকে প্রাপ্ত উষ্ণ ও মজবুত তন্তু।",
+  "category": "natural",
+  "tags": ["fiber", "animal", "warm"],
+  "related": ["wool", "alpaca", "camel hair"]
+},
+"camel hair": {
+  "english": "A soft, insulating fiber obtained from camels, used in coats and blankets.",
+  "bangla": "উটের লোম - উট থেকে প্রাপ্ত নরম তন্তু, যা কোট ও কম্বলে ব্যবহৃত হয়।",
+  "category": "natural",
+  "tags": ["fiber", "animal", "insulating"],
+  "related": ["yak wool", "wool", "alpaca"]
+},
+"vicuna": {
+  "english": "A rare, luxurious fiber from the vicuña, the wild relative of the llama.",
+  "bangla": "ভিকুনা - লামার আত্মীয় ভিকুনা প্রাণী থেকে প্রাপ্ত বিরল বিলাসবহুল তন্তু।",
+  "category": "natural",
+  "tags": ["fiber", "animal", "luxury"],
+  "related": ["alpaca", "cashmere", "wool"]
+},
+"silk": {
+  "english": "A natural protein fiber produced by silkworms, known for its luster and softness.",
+  "bangla": "রেশম - রেশমকীট দ্বারা উৎপাদিত প্রাকৃতিক প্রোটিন তন্তু, যা উজ্জ্বলতা ও নরমতার জন্য পরিচিত।",
+  "category": "natural",
+  "tags": ["fiber", "animal", "luxury"],
+  "related": ["mulberry silk", "tussar silk", "muga silk"]
+},
+"mulberry silk": {
+  "english": "The most common type of silk, produced by silkworms fed on mulberry leaves.",
+  "bangla": "মালবেরি রেশম - মুলবেরি পাতায় খাওয়ানো রেশমকীট দ্বারা উৎপাদিত সবচেয়ে সাধারণ রেশম।",
+  "category": "natural",
+  "tags": ["fiber", "silk", "luxury"],
+  "related": ["silk", "tussar silk", "muga silk"]
+}
+,
+"tussar silk": {
+  "english": "A type of wild silk with a rich texture and natural golden color.",
+  "bangla": "তসর রেশম - একটি প্রাকৃতিক সোনালি রঙ ও সমৃদ্ধ টেক্সচারযুক্ত বন্য রেশম।",
+  "category": "natural",
+  "tags": ["fiber", "silk", "wild"],
+  "related": ["silk", "mulberry silk", "muga silk"]
+},
+"muga silk": {
+  "english": "A rare silk from Assam, India, known for its natural golden sheen.",
+  "bangla": "মুগা রেশম - আসামের একটি বিরল রেশম, যা প্রাকৃতিক সোনালি উজ্জ্বলতার জন্য পরিচিত।",
+  "category": "natural",
+  "tags": ["fiber", "silk", "luxury"],
+  "related": ["tussar silk", "mulberry silk", "eri silk"]
+},
+"eri silk": {
+  "english": "Also known as peace silk, produced without killing silkworms.",
+  "bangla": "এরি রেশম - শান্তির রেশম নামেও পরিচিত, যেখানে রেশমকীট হত্যা করা হয় না।",
+  "category": "natural",
+  "tags": ["fiber", "silk", "ethical"],
+  "related": ["silk", "tussar silk", "mulberry silk"]
+},
+"crepe": {
+  "english": "A lightweight fabric with a crinkled surface, made from silk, wool, or synthetics.",
+  "bangla": "ক্রেপ - হালকা কাপড় যার কুঁচকানো পৃষ্ঠ থাকে, যা রেশম, উল বা কৃত্রিম তন্তু থেকে তৈরি।",
+  "category": "fabric",
+  "tags": ["fabric", "textured", "lightweight"],
+  "related": ["georgette", "chiffon", "silk"]
+},
+"charmeuse": {
+  "english": "A lightweight fabric with a satin weave, glossy front and dull back.",
+  "bangla": "চারমিউজ - হালকা কাপড়, যার সামনে চকচকে ও পেছনে নিস্তেজ পৃষ্ঠ থাকে।",
+  "category": "fabric",
+  "tags": ["fabric", "luxury", "satin weave"],
+  "related": ["satin", "silk", "taffeta"]
+},
+"pongee": {
+  "english": "A lightweight, plain weave silk fabric with a slightly rough texture.",
+  "bangla": "পঞ্জি - হালকা, সাধারণ বুননের রেশম কাপড় যার টেক্সচার খানিকটা খসখসে।",
+  "category": "fabric",
+  "tags": ["fabric", "silk", "lightweight"],
+  "related": ["taffeta", "organza", "chiffon"]
+},
+"batiste": {
+  "english": "A fine, soft, semi-sheer fabric made of cotton or linen.",
+  "bangla": "ব্যাটিস্ট - সূক্ষ্ম, নরম, আধা-স্বচ্ছ কাপড়, সাধারণত তুলা বা লিনেন দিয়ে তৈরি।",
+  "category": "fabric",
+  "tags": ["fabric", "lightweight", "soft"],
+  "related": ["voile", "lawn", "muslin"]
+},
+"voile": {
+  "english": "A lightweight, sheer fabric made from cotton or wool.",
+  "bangla": "ভোয়েল - হালকা, স্বচ্ছ কাপড়, যা তুলা বা উল দিয়ে তৈরি।",
+  "category": "fabric",
+  "tags": ["fabric", "sheer", "lightweight"],
+  "related": ["batiste", "lawn", "organza"]
+},
+"lawn": {
+  "english": "A fine plain weave fabric, usually made of cotton, smooth and lightweight.",
+  "bangla": "লন - সূক্ষ্ম সাধারণ বুননের কাপড়, সাধারণত তুলা দিয়ে তৈরি, মসৃণ ও হালকা।",
+  "category": "fabric",
+  "tags": ["fabric", "cotton", "lightweight"],
+  "related": ["batiste", "muslin", "voile"]
+},
+"muslin": {
+  "english": "A lightweight cotton fabric of plain weave, historically from Bengal.",
+  "bangla": "মসলিন - হালকা তুলার কাপড়, যা বাংলার ঐতিহ্য থেকে এসেছে।",
+  "category": "traditional",
+  "tags": ["fabric", "cotton", "plain weave"],
+  "related": ["lawn", "voile", "cambric"]
+},
+"cambric": {
+  "english": "A lightweight, closely woven cotton or linen fabric.",
+  "bangla": "ক্যামব্রিক - হালকা ও ঘন বোনা তুলা বা লিনেন কাপড়।",
+  "category": "fabric",
+  "tags": ["fabric", "cotton", "woven"],
+  "related": ["batiste", "lawn", "muslin"]
+},
+"poplin": {
+  "english": "A strong plain weave fabric with fine crosswise ribs.",
+  "bangla": "পপলিন - শক্ত সাধারণ বুননের কাপড়, যেখানে সূক্ষ্ম আড়াআড়ি দাগ থাকে।",
+  "category": "fabric",
+  "tags": ["fabric", "cotton", "plain weave"],
+  "related": ["broadcloth", "oxford cloth", "muslin"]
+},
+"broadcloth": {
+  "english": "A dense, plain woven fabric, originally made of wool but now often cotton.",
+  "bangla": "ব্রডক্লথ - ঘন সাধারণ বোনা কাপড়, যা মূলত উল দিয়ে তৈরি হত কিন্তু এখন তুলা দিয়েও হয়।",
+  "category": "fabric",
+  "tags": ["fabric", "cotton", "dense"],
+  "related": ["poplin", "oxford cloth", "lawn"]
+},
+"oxford cloth": {
+  "english": "A durable cotton fabric with a basket weave, often used in shirts.",
+  "bangla": "অক্সফোর্ড কাপড় - মজবুত তুলার কাপড়, যা ঝুড়ি বুননে তৈরি এবং শার্টে ব্যবহৃত হয়।",
+  "category": "fabric",
+  "tags": ["fabric", "cotton", "durable"],
+  "related": ["poplin", "broadcloth", "chambray"]
+},
+"chambray": {
+  "english": "A lightweight cotton fabric with a colored warp and white weft.",
+  "bangla": "শ্যাম্ব্রে - হালকা তুলার কাপড়, যেখানে রঙিন উর্দ্ধসূতা ও সাদা আড়াসূতা থাকে।",
+  "category": "fabric",
+  "tags": ["fabric", "cotton", "lightweight"],
+  "related": ["denim", "oxford cloth", "lawn"]
+},
+"seersucker": {
+  "english": "A lightweight cotton fabric with a puckered, crinkled surface.",
+  "bangla": "সিয়ারসাকার - হালকা তুলার কাপড়, যার পৃষ্ঠ খানিকটা কুঁচকানো।",
+  "category": "fabric",
+  "tags": ["fabric", "cotton", "textured"],
+  "related": ["chambray", "gingham", "lawn"]
+},
+"gingham": {
+  "english": "A lightweight plain-woven cotton fabric, usually checked or plaid.",
+  "bangla": "গিংগাম - হালকা সাধারণ বোনা তুলার কাপড়, সাধারণত চেক বা প্লেড নকশাযুক্ত।",
+  "category": "fabric",
+  "tags": ["fabric", "cotton", "checked"],
+  "related": ["seersucker", "chambray", "plaid"]
+},
+"plaid": {
+  "english": "A fabric woven or printed with crossbars in two or more colors.",
+  "bangla": "প্লেড - একাধিক রঙে আড়াআড়ি দাগযুক্ত বোনা বা ছাপা কাপড়।",
+  "category": "fabric",
+  "tags": ["fabric", "patterned", "checked"],
+  "related": ["gingham", "tartan", "check"]
+},
+"tartan": {
+  "english": "A patterned fabric consisting of crisscrossed horizontal and vertical bands in multiple colors, traditional to Scotland.",
+  "bangla": "টার্টান - স্কটল্যান্ডের ঐতিহ্যবাহী নকশাযুক্ত কাপড়, যেখানে আড়াআড়ি ও উল্লম্ব দাগ থাকে।",
+  "category": "traditional",
+  "tags": ["fabric", "patterned", "checked"],
+  "related": ["plaid", "gingham", "tweed"]
+},
+"houndstooth": {
+  "english": "A duotone textile pattern characterized by broken checks or abstract four-pointed shapes.",
+  "bangla": "হাউন্ডস্টুথ - ভাঙা চেক বা চারকোনা নকশাযুক্ত একটি টেক্সটাইল প্যাটার্ন।",
+  "category": "fabric",
+  "tags": ["fabric", "pattern", "checked"],
+  "related": ["plaid", "tartan", "gingham"]
+},
+"herringbone": {
+  "english": "A V-shaped weaving pattern resembling fish bones, used in twill fabrics.",
+  "bangla": "হেরিংবোন - একটি ভি-আকৃতির বুনন প্যাটার্ন, যা মাছের কাঁটার মতো দেখতে।",
+  "category": "weave",
+  "tags": ["weave", "pattern", "twill"],
+  "related": ["twill", "chevron", "serge"]
+},
+"chevron": {
+  "english": "A zigzag or V-shaped pattern often seen in woven fabrics.",
+  "bangla": "শেভরন - জিগজ্যাগ বা ভি-আকৃতির নকশা, যা প্রায়শই বোনা কাপড়ে দেখা যায়।",
+  "category": "pattern",
+  "tags": ["pattern", "zigzag", "weave"],
+  "related": ["herringbone", "twill", "ikat"]
+},
+"ikat": {
+  "english": "A dyeing technique where yarns are tie-dyed before weaving to create patterns.",
+  "bangla": "ইকাত - একটি রঞ্জন কৌশল যেখানে সুতাকে বুননের আগে টাই-ডাই করা হয়।",
+  "category": "traditional",
+  "tags": ["dyeing", "pattern", "weave"],
+  "related": ["tie-dye", "batik", "ikat weaving"]
+},
+"batik": {
+  "english": "A dyeing method using wax to create patterns on fabric.",
+  "bangla": "বাটিক - মোম ব্যবহার করে কাপড়ে নকশা তৈরি করার রঞ্জন পদ্ধতি।",
+  "category": "dyeing",
+  "tags": ["dyeing", "wax", "pattern"],
+  "related": ["tie-dye", "ikat", "block print"]
+},
+"tie-dye": {
+  "english": "A dyeing technique where fabric is tied in sections before being dyed to create patterns.",
+  "bangla": "টাই-ডাই - একটি রঞ্জন কৌশল যেখানে কাপড় বেঁধে রঙ করা হয় নকশা তৈরির জন্য।",
+  "category": "dyeing",
+  "tags": ["dyeing", "pattern", "colorful"],
+  "related": ["batik", "ikat", "shibori"]
+},
+"shibori": {
+  "english": "A Japanese manual resist dyeing technique that produces patterns on fabric.",
+  "bangla": "শিবোরি - একটি জাপানি হস্তচালিত রঞ্জন কৌশল, যা কাপড়ে নকশা তৈরি করে।",
+  "category": "traditional",
+  "tags": ["dyeing", "pattern", "resist"],
+  "related": ["tie-dye", "batik", "ikat"]
+},
+"block print": {
+  "english": "A printing technique where wooden blocks are carved with designs and stamped on fabric.",
+  "bangla": "ব্লক প্রিন্ট - একটি প্রিন্টিং কৌশল যেখানে কাঠের ব্লকে নকশা খোদাই করে কাপড়ে ছাপানো হয়।",
+  "category": "printing",
+  "tags": ["printing", "handmade", "pattern"],
+  "related": ["screen print", "digital print", "batik"]
 }
