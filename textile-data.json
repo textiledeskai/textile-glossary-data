@@ -1,0 +1,16 @@
+{
+  "cotton": {
+    "english": "A soft, white fibrous substance obtained from the cotton plant.",
+    "bangla": "তুলা - তুলা গাছের বীজের চারপাশে গঠিত নরম তন্তু।",
+    "category": "natural",
+    "tags": ["fiber", "plant", "breathable"],
+    "related": ["linen", "hemp", "jute"]
+  },
+  "polyester": {
+    "english": "A synthetic fiber made from petroleum-based products.",
+    "bangla": "পলিয়েস্টার - এক ধরনের কৃত্রিম তন্তু যা পেট্রোলিয়াম থেকে তৈরি।",
+    "category": "synthetic",
+    "tags": ["fiber", "synthetic", "durable"],
+    "related": ["nylon", "rayon"]
+  }
+}
