@@ -467,5 +467,2153 @@
     "category": "fabric",
     "tags": ["fabric", "cotton", "lightweight"],
     "related": ["denim", "oxford", "poplin"]
+  },
+"seersucker": {
+  "english": "A lightweight, puckered fabric usually made of cotton, often striped or checkered.",
+  "bangla": "সিয়ারসাকার - একটি হালকা, কুঁচকানো তুলার কাপড়, সাধারণত ডোরা কাটা বা চেক নকশায়।",
+  "category": "fabric",
+  "tags": ["fabric", "cotton", "puckered"],
+  "related": ["gingham", "madras", "chambray"]
+},
+"gingham": {
+  "english": "A lightweight, plain-woven cotton fabric, typically checked in white and a bold color.",
+  "bangla": "গিঙ্গহ্যাম - একটি হালকা সাধারণ বুননের তুলার কাপড়, সাধারণত সাদা ও গাঢ় রঙের চেক নকশায়।",
+  "category": "fabric",
+  "tags": ["fabric", "cotton", "checked"],
+  "related": ["seersucker", "madras", "chambray"]
+},
+"madras": {
+  "english": "A lightweight cotton fabric with colorful plaid patterns, originating from India.",
+  "bangla": "মাদ্রাজ - রঙিন প্লেড নকশাযুক্ত হালকা তুলার কাপড়, ভারতের উৎপত্তি।",
+  "category": "fabric",
+  "tags": ["fabric", "cotton", "plaid"],
+  "related": ["gingham", "seersucker", "chambray"]
+},
+"khadi": {
+  "english": "A hand-spun and hand-woven cotton fabric, historically significant in India.",
+  "bangla": "খাদি - হাতে কাটা ও হাতে বোনা তুলার কাপড়, ভারতের ঐতিহাসিক গুরুত্ব রয়েছে।",
+  "category": "traditional",
+  "tags": ["fabric", "handwoven", "cotton"],
+  "related": ["muslin", "khaki", "handloom"]
+},
+"khaki": {
+  "english": "A durable cotton or wool fabric, usually in a light brown shade, used in uniforms.",
+  "bangla": "খাকি - একটি টেকসই তুলা বা উলের কাপড়, সাধারণত হালকা বাদামি রঙে, ইউনিফর্মে ব্যবহৃত হয়।",
+  "category": "fabric",
+  "tags": ["fabric", "durable", "uniform"],
+  "related": ["drill", "gabardine", "serge"]
+},
+"tulle": {
+  "english": "A fine net fabric made from silk, nylon, or rayon, often used in veils and gowns.",
+  "bangla": "টিউল - সূক্ষ্ম জাল কাপড়, রেশম, নাইলন বা রেয়ন দিয়ে তৈরি, সাধারণত ওড়না ও গাউনে ব্যবহৃত।",
+  "category": "fabric",
+  "tags": ["fabric", "net", "lightweight"],
+  "related": ["net", "lace", "organza"]
+},
+"lace": {
+  "english": "A delicate openwork fabric made by looping, twisting, or knitting threads.",
+  "bangla": "লেস - একটি সূক্ষ্ম খোলা কাজের কাপড়, যা সুতা পাকানো, গিঁট দেওয়া বা বোনা দ্বারা তৈরি হয়।",
+  "category": "fabric",
+  "tags": ["fabric", "decorative", "openwork"],
+  "related": ["tulle", "crochet", "embroidery"]
+},
+"net": {
+  "english": "A fabric with open spaces between yarns, resembling a mesh, used in garments and accessories.",
+  "bangla": "নেট - সুতা দিয়ে তৈরি জাল আকৃতির কাপড়, যা পোশাক ও আনুষঙ্গে ব্যবহৃত হয়।",
+  "category": "fabric",
+  "tags": ["fabric", "mesh", "lightweight"],
+  "related": ["tulle", "lace", "mesh"]
+},
+"mesh": {
+  "english": "A loosely woven or knitted fabric with evenly spaced holes, often synthetic.",
+  "bangla": "মেশ - ঢিলেঢালা বোনা বা বোনা কাপড়, সমানভাবে ফাঁকা জায়গা সহ, প্রায়শই কৃত্রিম।",
+  "category": "fabric",
+  "tags": ["fabric", "openwork", "synthetic"],
+  "related": ["net", "tulle", "lace"]
+},
+"damour": {
+  "english": "A lustrous cotton or silk fabric with woven stripes or patterns.",
+  "bangla": "ডামুর - উজ্জ্বল তুলা বা রেশম কাপড়, যাতে ডোরা বা নকশা বোনা থাকে।",
+  "category": "fabric",
+  "tags": ["fabric", "patterned", "woven"],
+  "related": ["damask", "brocade", "jacquard"]
+},
+"cheviot": {
+  "english": "A coarse woolen fabric, named after the Cheviot sheep of Scotland.",
+  "bangla": "শেভিয়ট - একটি মোটা উলের কাপড়, স্কটল্যান্ডের শেভিয়ট ভেড়া থেকে নামকরণ।",
+  "category": "fabric",
+  "tags": ["fabric", "wool", "coarse"],
+  "related": ["tweed", "serge", "flannel"]
+},
+"donegal": {
+  "english": "A tweed fabric from Ireland, characterized by colorful flecks.",
+  "bangla": "ডোনেগাল - আয়ারল্যান্ডের একটি টুইড কাপড়, রঙিন ফোঁটার জন্য পরিচিত।",
+  "category": "traditional",
+  "tags": ["fabric", "wool", "tweed"],
+  "related": ["tweed", "harris tweed", "cheviot"]
+},
+"piqué": {
+  "english": "A woven cotton fabric with a raised, corded surface, often used for polo shirts.",
+  "bangla": "পিকে - উঁচু দড়ি সদৃশ পৃষ্ঠযুক্ত তুলার কাপড়, সাধারণত পোলো শার্টে ব্যবহৃত হয়।",
+  "category": "fabric",
+  "tags": ["fabric", "cotton", "textured"],
+  "related": ["jersey", "interlock", "rib knit"]
+},
+"jersey": {
+  "english": "A soft, stretchy knit fabric made from cotton, wool, or synthetics.",
+  "bangla": "জার্সি - একটি নরম ও প্রসারযোগ্য বোনা কাপড়, তুলা, উল বা কৃত্রিম তন্তু দিয়ে তৈরি।",
+  "category": "fabric",
+  "tags": ["fabric", "knit", "stretch"],
+  "related": ["piqué", "interlock", "rib knit"]
+},
+"interlock": {
+  "english": "A type of double-knit fabric that is thicker and more stable than jersey.",
+  "bangla": "ইন্টারলক - ডাবল-নিট কাপড়ের একটি ধরন, যা জার্সির চেয়ে পুরু ও স্থিতিশীল।",
+  "category": "fabric",
+  "tags": ["fabric", "knit", "durable"],
+  "related": ["jersey", "piqué", "rib knit"]
+},
+"rib knit": {
+  "english": "A knitted fabric with vertical ribs, offering elasticity and stretch.",
+  "bangla": "রিব নিট - উল্লম্ব দাগযুক্ত বোনা কাপড়, যা স্থিতিস্থাপকতা ও প্রসারণ দেয়।",
+  "category": "fabric",
+  "tags": ["fabric", "knit", "elastic"],
+  "related": ["jersey", "interlock", "piqué"]
+},
+"tricot": {
+  "english": "A warp-knit fabric with a smooth face and textured back, used in lingerie and sportswear.",
+  "bangla": "ট্রাইকট - একটি ওয়ার্প-নিট কাপড়, যার সামনে মসৃণ এবং পিছনে টেক্সচার থাকে, লঞ্জারি ও স্পোর্টসওয়্যারে ব্যবহৃত।",
+  "category": "fabric",
+  "tags": ["fabric", "knit", "lightweight"],
+  "related": ["jersey", "warp knit", "weft knit"]
+},
+"warp knit": {
+  "english": "A type of knit fabric where loops run lengthwise, making it stable and less stretchy.",
+  "bangla": "ওয়ার্প নিট - এক ধরনের বোনা কাপড় যেখানে লুপগুলি দৈর্ঘ্য বরাবর চলে, যা স্থিতিশীল ও কম প্রসারণযোগ্য।",
+  "category": "weave",
+  "tags": ["knit", "warp", "stable"],
+  "related": ["weft knit", "tricot", "raschel"]
+},
+"weft knit": {
+  "english": "A knit fabric where loops run horizontally, giving high stretch and softness.",
+  "bangla": "ওয়েফ্ট নিট - এক ধরনের বোনা কাপড় যেখানে লুপগুলি আড়াআড়ি চলে, যা নরম ও প্রসারণযোগ্য।",
+  "category": "weave",
+  "tags": ["knit", "weft", "stretch"],
+  "related": ["warp knit", "jersey", "interlock"]
+},
+"raschel": {
+  "english": "A type of warp-knit fabric with an open, lace-like structure.",
+  "bangla": "রাসচেল - একটি ওয়ার্প-নিট কাপড় যার খোলা, লেসের মতো গঠন থাকে।",
+  "category": "fabric",
+  "tags": ["fabric", "warp knit", "openwork"],
+  "related": ["tricot", "lace", "warp knit"]
+},
+"organdy": {
+  "english": "A thin, plain weave cotton fabric that is stiffened and transparent.",
+  "bangla": "অর্গান্ডি - পাতলা, সাধারণ বুননের তুলার কাপড়, যা শক্ত করা হয় এবং স্বচ্ছ থাকে।",
+  "category": "fabric",
+  "tags": ["fabric", "cotton", "transparent"],
+  "related": ["organzine", "muslin", "voile"]
+},
+"organzine": {
+  "english": "A strong silk yarn made by twisting two or more threads together, used for warp.",
+  "bangla": "অর্গানজিন - শক্তিশালী রেশম সুতা, দুটি বা ততোধিক সুতাকে পাকিয়ে তৈরি করা হয়, ওয়ার্পে ব্যবহৃত।",
+  "category": "fiber",
+  "tags": ["silk", "yarn", "warp"],
+  "related": ["silk", "filament", "organza"]
+},
+"organza": {
+  "english": "A thin, plain weave fabric made of silk or synthetic fibers, crisp and sheer.",
+  "bangla": "অর্গাঞ্জা - রেশম বা কৃত্রিম তন্তু দিয়ে তৈরি পাতলা, শক্ত ও স্বচ্ছ কাপড়।",
+  "category": "fabric",
+  "tags": ["fabric", "silk", "sheer"],
+  "related": ["organdy", "chiffon", "tulle"]
+},
+"voile": {
+  "english": "A lightweight, sheer fabric made of cotton or wool, used in summer clothing.",
+  "bangla": "ভয়েল - হালকা, স্বচ্ছ কাপড়, তুলা বা উল দিয়ে তৈরি, গ্রীষ্মকালীন পোশাকে ব্যবহৃত।",
+  "category": "fabric",
+  "tags": ["fabric", "sheer", "lightweight"],
+  "related": ["muslin", "organdy", "chiffon"]
+},
+"batiste": {
+  "english": "A fine, soft, lightweight plain weave fabric, often used in handkerchiefs and blouses.",
+  "bangla": "ব্যাটিস্ট - সূক্ষ্ম, নরম, হালকা সাধারণ বুননের কাপড়, প্রায়শই রুমাল ও ব্লাউজে ব্যবহৃত।",
+  "category": "fabric",
+  "tags": ["fabric", "lightweight", "plain weave"],
+  "related": ["voile", "muslin", "cambric"]
+},
+"cambric": {
+  "english": "A lightweight, closely woven white linen or cotton fabric.",
+  "bangla": "ক্যামব্রিক - হালকা, ঘনভাবে বোনা সাদা লিনেন বা তুলার কাপড়।",
+  "category": "fabric",
+  "tags": ["fabric", "cotton", "lightweight"],
+  "related": ["batiste", "voile", "lawn"]
+},
+"lawn": {
+  "english": "A fine plain weave fabric made of cotton or linen, smooth and crisp.",
+  "bangla": "লন - সূক্ষ্ম সাধারণ বুননের কাপড়, তুলা বা লিনেন দিয়ে তৈরি, মসৃণ ও শক্ত।",
+  "category": "fabric",
+  "tags": ["fabric", "cotton", "plain weave"],
+  "related": ["cambric", "batiste", "voile"]
+},
+"buckram": {
+  "english": "A stiff cotton or linen fabric, often used for bookbinding and hats.",
+  "bangla": "বাকরাম - শক্ত তুলা বা লিনেন কাপড়, প্রায়শই বই বাঁধাই ও টুপিতে ব্যবহৃত হয়।",
+  "category": "fabric",
+  "tags": ["fabric", "stiff", "cotton"],
+  "related": ["canvas", "tarpaulin", "drill"]
+},
+"drill": {
+  "english": "A strong cotton fabric with a diagonal weave, used for uniforms and workwear.",
+  "bangla": "ড্রিল - শক্ত তুলার কাপড়, তির্যক বুনন সহ, ইউনিফর্ম ও কাজের পোশাকে ব্যবহৃত।",
+  "category": "fabric",
+  "tags": ["fabric", "cotton", "durable"],
+  "related": ["khaki", "gabardine", "denim"]
+},
+"gabardine": {
+  "english": "A tightly woven fabric with a twill weave, durable and water-resistant.",
+  "bangla": "গ্যাবার্ডিন - ঘনভাবে বোনা টুইল কাপড়, টেকসই ও জল প্রতিরোধক।",
+  "category": "fabric",
+  "tags": ["fabric", "twill", "durable"],
+  "related": ["serge", "drill", "khaki"]
+},
+"serge": {
+  "english": "A strong twill fabric made of wool or cotton, often used in suits and uniforms.",
+  "bangla": "সার্জ - শক্ত টুইল কাপড়, উল বা তুলা দিয়ে তৈরি, প্রায়শই স্যুট ও ইউনিফর্মে ব্যবহৃত।",
+  "category": "fabric",
+  "tags": ["fabric", "twill", "durable"],
+  "related": ["gabardine", "tweed", "flannel"]
+},
+"tweed": {
+  "english": "A rough woolen fabric with a soft, open weave, often in earthy colors.",
+  "bangla": "টুইড - একটি খসখসে উলের কাপড়, নরম খোলা বুনন সহ, প্রায়শই মাটির রঙে।",
+  "category": "fabric",
+  "tags": ["fabric", "wool", "traditional"],
+  "related": ["serge", "cheviot", "donegal"]
+},
+"flannel": {
+  "english": "A soft woven fabric made of wool or cotton, often brushed for a fuzzy surface.",
+  "bangla": "ফ্ল্যানেল - নরম বোনা কাপড়, উল বা তুলা দিয়ে তৈরি, প্রায়শই ফাজি পৃষ্ঠ তৈরি করা হয়।",
+  "category": "fabric",
+  "tags": ["fabric", "soft", "wool"],
+  "related": ["serge", "tweed", "cheviot"]
+},
+"velour": {
+  "english": "A plush knitted fabric resembling velvet, usually made of cotton or synthetics.",
+  "bangla": "ভেলুর - একটি নরম বোনা কাপড়, ভেলভেটের মতো, সাধারণত তুলা বা কৃত্রিম তন্তু দিয়ে তৈরি।",
+  "category": "fabric",
+  "tags": ["fabric", "plush", "knit"],
+  "related": ["velvet", "terry", "corduroy"]
+},
+"corduroy": {
+  "english": "A durable fabric with vertical ridges (cords), usually cotton.",
+  "bangla": "কর্ডুরয় - টেকসই কাপড়, উল্লম্ব দাগ বা কর্ড সহ, সাধারণত তুলা।",
+  "category": "fabric",
+  "tags": ["fabric", "cotton", "textured"],
+  "related": ["velvet", "velour", "moleskin"]
+},
+"moleskin": {
+  "english": "A heavy cotton fabric with a soft brushed surface, resembling suede.",
+  "bangla": "মোলস্কিন - ভারী তুলার কাপড়, নরম ব্রাশ করা পৃষ্ঠ সহ, যা সুয়েডের মতো।",
+  "category": "fabric",
+  "tags": ["fabric", "cotton", "brushed"],
+  "related": ["corduroy", "velvet", "drill"]
+},
+"velvet": {
+  "english": "A luxurious fabric with a dense pile, made from silk, cotton, or synthetics.",
+  "bangla": "ভেলভেট - একটি বিলাসবহুল কাপড়, ঘন পশমযুক্ত, রেশম, তুলা বা কৃত্রিম তন্তু দিয়ে তৈরি।",
+  "category": "fabric",
+  "tags": ["fabric", "pile", "luxury"],
+  "related": ["velour", "corduroy", "plush"]
+},
+"terry": {
+  "english": "A fabric with looped pile on one or both sides, highly absorbent, used for towels.",
+  "bangla": "টেরি - লুপযুক্ত পশম সহ কাপড়, এক বা দুই পাশে, অত্যন্ত শোষক, তোয়ালে তৈরিতে ব্যবহৃত।",
+  "category": "fabric",
+  "tags": ["fabric", "absorbent", "cotton"],
+  "related": ["terrycloth", "toweling", "velour"]
+},
+"toweling": {
+  "english": "A fabric woven or knitted specifically for making towels, absorbent and durable.",
+  "bangla": "টোয়েলিং - তোয়ালে তৈরির জন্য বিশেষভাবে বোনা বা বোনা কাপড়, শোষক ও টেকসই।",
+  "category": "fabric",
+  "tags": ["fabric", "absorbent", "cotton"],
+  "related": ["terry", "terrycloth", "pile fabric"]
+},
+"chenille": {
+  "english": "A fuzzy yarn or fabric with a caterpillar-like appearance, soft and decorative.",
+  "bangla": "শেনিল - একটি ফাজি সুতা বা কাপড়, শুঁয়োপোকার মতো আকৃতি, নরম ও সজ্জাসংক্রান্ত।",
+  "category": "fabric",
+  "tags": ["fabric", "soft", "decorative"],
+  "related": ["velvet", "plush", "pile fabric"]
+},
+"alpaca": {
+  "english": "A soft, silky natural fiber obtained from the alpaca animal, warmer than wool.",
+  "bangla": "আল্পাকা - আল্পাকা প্রাণী থেকে প্রাপ্ত নরম ও মসৃণ প্রাকৃতিক তন্তু, উলের চেয়ে উষ্ণ।",
+  "category": "fiber",
+  "tags": ["fiber", "wool", "natural"],
+  "related": ["wool", "cashmere", "mohair"]
+},
+"angora": {
+  "english": "A luxurious fiber from the Angora rabbit, known for its fluffiness and softness.",
+  "bangla": "অ্যাঙ্গোরা - অ্যাঙ্গোরা খরগোশ থেকে প্রাপ্ত বিলাসবহুল তন্তু, ফ্লাফি ও নরম হওয়ার জন্য পরিচিত।",
+  "category": "fiber",
+  "tags": ["fiber", "wool", "luxury"],
+  "related": ["cashmere", "alpaca", "mohair"]
+},
+"cashmere": {
+  "english": "A fine, soft fiber obtained from the undercoat of cashmere goats.",
+  "bangla": "কাশ্মির - কাশ্মিরী ছাগলের নীচের লোম থেকে প্রাপ্ত সূক্ষ্ম ও নরম তন্তু।",
+  "category": "fiber",
+  "tags": ["fiber", "luxury", "wool"],
+  "related": ["alpaca", "angora", "mohair"]
+},
+"mohair": {
+  "english": "A silky fiber from the Angora goat, durable with a natural sheen.",
+  "bangla": "মোহেয়ার - অ্যাঙ্গোরা ছাগল থেকে প্রাপ্ত মসৃণ তন্তু, টেকসই ও প্রাকৃতিক উজ্জ্বলতা সহ।",
+  "category": "fiber",
+  "tags": ["fiber", "silky", "durable"],
+  "related": ["alpaca", "cashmere", "wool"]
+},
+"camel hair": {
+  "english": "A soft, warm fiber obtained from the undercoat of camels, often tan in color.",
+  "bangla": "ক্যামেল হেয়ার - উটের নীচের লোম থেকে প্রাপ্ত নরম ও উষ্ণ তন্তু, সাধারণত ট্যান রঙে।",
+  "category": "fiber",
+  "tags": ["fiber", "wool", "natural"],
+  "related": ["alpaca", "mohair", "wool"]
+},
+"yak wool": {
+  "english": "A warm and durable fiber obtained from the undercoat of yaks.",
+  "bangla": "ইয়াক উল - ইয়াকের নীচের লোম থেকে প্রাপ্ত উষ্ণ ও টেকসই তন্তু।",
+  "category": "fiber",
+  "tags": ["fiber", "wool", "durable"],
+  "related": ["wool", "camel hair", "alpaca"]
+},
+"llama wool": {
+  "english": "A natural fiber from the llama, coarser than alpaca but warm and strong.",
+  "bangla": "ল্লামা উল - ল্লামা প্রাণী থেকে প্রাপ্ত প্রাকৃতিক তন্তু, আল্পাকার চেয়ে মোটা তবে উষ্ণ ও শক্তিশালী।",
+  "category": "fiber",
+  "tags": ["fiber", "wool", "coarse"],
+  "related": ["alpaca", "camel hair", "yak wool"]
+},
+"vicuna": {
+  "english": "A rare and luxurious fiber from the vicuña, the finest of all camelid fibers.",
+  "bangla": "ভিকুনা - বিরল ও বিলাসবহুল তন্তু, ভিকুনা প্রাণী থেকে প্রাপ্ত, সব ক্যামেলিড তন্তুর মধ্যে সবচেয়ে সূক্ষ্ম।",
+  "category": "fiber",
+  "tags": ["fiber", "luxury", "rare"],
+  "related": ["alpaca", "llama wool", "cashmere"]
+},
+"qiviut": {
+  "english": "An exceptionally warm, soft fiber from the undercoat of the musk ox.",
+  "bangla": "কিভিয়ুট - মস্ক অক্সের নীচের লোম থেকে প্রাপ্ত অত্যন্ত উষ্ণ ও নরম তন্তু।",
+  "category": "fiber",
+  "tags": ["fiber", "luxury", "rare"],
+  "related": ["yak wool", "camel hair", "wool"]
+},
+"linen": {
+  "english": "A natural fiber made from the stalks of the flax plant, strong and breathable.",
+  "bangla": "লিনেন - ফ্ল্যাক্স উদ্ভিদের কান্ড থেকে তৈরি প্রাকৃতিক তন্তু, শক্তিশালী ও বায়ু চলাচলযোগ্য।",
+  "category": "fiber",
+  "tags": ["fiber", "plant", "natural"],
+  "related": ["cotton", "ramie", "hemp"]
+},
+"ramie": {
+  "english": "A strong, lustrous plant fiber obtained from the nettle family.",
+  "bangla": "রেমি - নেটল পরিবারের উদ্ভিদ থেকে প্রাপ্ত শক্তিশালী ও উজ্জ্বল তন্তু।",
+  "category": "fiber",
+  "tags": ["fiber", "plant", "lustrous"],
+  "related": ["linen", "hemp", "jute"]
+},
+"hemp": {
+  "english": "A coarse, strong plant fiber used in ropes, canvas, and eco-friendly fabrics.",
+  "bangla": "হেম্প - একটি মোটা, শক্ত উদ্ভিজ্জ তন্তু, দড়ি, ক্যানভাস ও পরিবেশবান্ধব কাপড়ে ব্যবহৃত।",
+  "category": "fiber",
+  "tags": ["fiber", "plant", "eco-friendly"],
+  "related": ["jute", "linen", "ramie"]
+},
+"jute": {
+  "english": "A long, soft, shiny plant fiber used to make burlap, sacks, and rugs.",
+  "bangla": "পাট - দীর্ঘ, নরম, উজ্জ্বল উদ্ভিজ্জ তন্তু, যা বস্তা, বুরল্যাপ ও গালিচা তৈরিতে ব্যবহৃত হয়।",
+  "category": "fiber",
+  "tags": ["fiber", "plant", "eco-friendly"],
+  "related": ["hemp", "sisal", "coir"]
+},
+"sisal": {
+  "english": "A stiff fiber from the leaves of the agave plant, used in mats and ropes.",
+  "bangla": "সিসাল - আগাভ উদ্ভিদের পাতার থেকে প্রাপ্ত শক্ত তন্তু, মাদুর ও দড়িতে ব্যবহৃত।",
+  "category": "fiber",
+  "tags": ["fiber", "plant", "stiff"],
+  "related": ["jute", "coir", "hemp"]
+},
+"coir": {
+  "english": "A coarse, stiff fiber from coconut husks, used in mats, brushes, and ropes.",
+  "bangla": "নারিকেলের ছোবড়া থেকে প্রাপ্ত মোটা ও শক্ত তন্তু, মাদুর, ব্রাশ ও দড়িতে ব্যবহৃত।",
+  "category": "fiber",
+  "tags": ["fiber", "plant", "coarse"],
+  "related": ["sisal", "jute", "hemp"]
+},
+"kapok": {
+  "english": "A silky fiber from the seed pods of the kapok tree, light and buoyant.",
+  "bangla": "কাপোক - কাপোক গাছের বীজের শুঁটি থেকে প্রাপ্ত মসৃণ তন্তু, হালকা ও ভাসমান।",
+  "category": "fiber",
+  "tags": ["fiber", "plant", "lightweight"],
+  "related": ["cotton", "silk cotton", "floss"]
+},
+"silk cotton": {
+  "english": "A soft, fluffy plant fiber from the bombax tree, used for stuffing and insulation.",
+  "bangla": "সিল্ক কটন - বোম্ব্যাক্স গাছ থেকে প্রাপ্ত নরম, ফ্লাফি তন্তু, ভরাট ও ইনসুলেশনে ব্যবহৃত।",
+  "category": "fiber",
+  "tags": ["fiber", "plant", "fluffy"],
+  "related": ["kapok", "cotton", "floss"]
+},
+"floss silk": {
+  "english": "A soft, untwisted silk fiber used in embroidery and decoration.",
+  "bangla": "ফ্লস সিল্ক - নরম, পাকানো নয় এমন রেশম তন্তু, সূচিকর্ম ও অলঙ্করণে ব্যবহৃত।",
+  "category": "fiber",
+  "tags": ["fiber", "silk", "embroidery"],
+  "related": ["mulberry silk", "tussar silk", "spun silk"]
+},
+"mulberry silk": {
+  "english": "The most common silk fiber, obtained from silkworms fed on mulberry leaves.",
+  "bangla": "মালবেরি সিল্ক - সবচেয়ে সাধারণ রেশম তন্তু, শুঁয়োপোকা থেকে প্রাপ্ত, যা তুঁত পাতায় খাওয়ানো হয়।",
+  "category": "fiber",
+  "tags": ["fiber", "silk", "luxury"],
+  "related": ["tussar silk", "eri silk", "muga silk"]
+},
+"tussar silk": {
+  "english": "A type of silk made from wild silkworms, slightly coarser and golden in color.",
+  "bangla": "টসার সিল্ক - বন্য শুঁয়োপোকা থেকে প্রাপ্ত রেশম, সামান্য মোটা ও সোনালি রঙের।",
+  "category": "fiber",
+  "tags": ["fiber", "silk", "natural"],
+  "related": ["mulberry silk", "eri silk", "muga silk"]
+},
+"eri silk": {
+  "english": "A type of silk made from domesticated silkworms that are not killed during production, often called 'peace silk'.",
+  "bangla": "এরি সিল্ক - একটি রেশমের ধরন, গৃহপালিত শুঁয়োপোকা থেকে তৈরি হয় এবং উৎপাদনে তাদের মারা হয় না, প্রায়শই 'শান্তি রেশম' বলা হয়।",
+  "category": "fiber",
+  "tags": ["fiber", "silk", "ethical"],
+  "related": ["mulberry silk", "tussar silk", "muga silk"]
+},
+"muga silk": {
+  "english": "A rare golden-yellow silk native to Assam, India, known for durability and natural sheen.",
+  "bangla": "মুগা সিল্ক - আসামের একটি বিরল সোনালি-হলুদ রেশম, টেকসই ও প্রাকৃতিক উজ্জ্বলতার জন্য পরিচিত।",
+  "category": "fiber",
+  "tags": ["fiber", "silk", "luxury"],
+  "related": ["eri silk", "tussar silk", "mulberry silk"]
+},
+"spun silk": {
+  "english": "Silk made from short fibers or waste silk, less lustrous but soft and versatile.",
+  "bangla": "স্পান সিল্ক - ছোট তন্তু বা অবশিষ্ট রেশম থেকে তৈরি রেশম, কম উজ্জ্বল তবে নরম ও বহুমুখী।",
+  "category": "fiber",
+  "tags": ["fiber", "silk", "spun"],
+  "related": ["floss silk", "mulberry silk", "tussar silk"]
+},
+"peace silk": {
+  "english": "Silk produced without killing the silkworm, often synonymous with eri silk.",
+  "bangla": "পিস সিল্ক - শুঁয়োপোকা না মেরে তৈরি রেশম, প্রায়শই এরি সিল্কের সমার্থক।",
+  "category": "fiber",
+  "tags": ["fiber", "silk", "ethical"],
+  "related": ["eri silk", "spun silk", "mulberry silk"]
+},
+"mercerization": {
+  "english": "A finishing treatment for cotton that increases luster, strength, and dye affinity.",
+  "bangla": "মার্সারাইজেশন - তুলার জন্য একটি ফিনিশিং প্রক্রিয়া, যা উজ্জ্বলতা, শক্তি ও রঙ গ্রহণ ক্ষমতা বৃদ্ধি করে।",
+  "category": "finishing",
+  "tags": ["finishing", "cotton", "treatment"],
+  "related": ["singeing", "bleaching", "calendering"]
+},
+"singeing": {
+  "english": "A finishing process where fabrics are passed over a flame or heated surface to remove loose fibers.",
+  "bangla": "সিঞ্জিং - একটি ফিনিশিং প্রক্রিয়া যেখানে কাপড়কে আগুন বা গরম পৃষ্ঠের উপর দিয়ে নেওয়া হয় ঢিলা তন্তু সরাতে।",
+  "category": "finishing",
+  "tags": ["finishing", "cotton", "surface"],
+  "related": ["mercerization", "scouring", "bleaching"]
+},
+"scouring": {
+  "english": "A pretreatment process to remove natural waxes, oils, and impurities from fabrics.",
+  "bangla": "স্কাউরিং - একটি প্রাক-প্রক্রিয়া যা কাপড় থেকে প্রাকৃতিক মোম, তেল ও অশুদ্ধি দূর করে।",
+  "category": "finishing",
+  "tags": ["pretreatment", "cleaning", "finishing"],
+  "related": ["bleaching", "singeing", "desizing"]
+},
+"desizing": {
+  "english": "A textile process that removes size materials applied to yarns before weaving.",
+  "bangla": "ডিসাইজিং - একটি টেক্সটাইল প্রক্রিয়া, যা বুননের আগে সুতোয় প্রয়োগ করা সাইজ পদার্থ সরিয়ে দেয়।",
+  "category": "finishing",
+  "tags": ["pretreatment", "finishing", "cleaning"],
+  "related": ["scouring", "bleaching", "singeing"]
+},
+"bleaching": {
+  "english": "A finishing process that whitens fabrics by removing natural color and impurities.",
+  "bangla": "ব্লিচিং - একটি ফিনিশিং প্রক্রিয়া যা কাপড়ের প্রাকৃতিক রঙ ও অশুদ্ধি সরিয়ে সাদা করে।",
+  "category": "finishing",
+  "tags": ["finishing", "whitening", "pretreatment"],
+  "related": ["scouring", "singeing", "mercerization"]
+},
+"calendering": {
+  "english": "A finishing process where fabric is passed through rollers to produce smoothness or luster.",
+  "bangla": "ক্যালেন্ডারিং - একটি ফিনিশিং প্রক্রিয়া যেখানে কাপড়কে রোলারের মধ্যে দিয়ে নেওয়া হয় মসৃণতা বা উজ্জ্বলতা দেওয়ার জন্য।",
+  "category": "finishing",
+  "tags": ["finishing", "smoothness", "luster"],
+  "related": ["mercerization", "sanforization", "pressing"]
+},
+"sanforization": {
+  "english": "A controlled compressive shrinkage process to prevent further shrinkage of fabrics.",
+  "bangla": "স্যানফোরাইজেশন - একটি নিয়ন্ত্রিত সংকোচন প্রক্রিয়া, যা কাপড়কে ভবিষ্যতে সংকোচন থেকে রক্ষা করে।",
+  "category": "finishing",
+  "tags": ["finishing", "shrink-resistant", "treatment"],
+  "related": ["calendering", "mercerization", "heat setting"]
+},
+"heat setting": {
+  "english": "A thermal treatment for synthetic fabrics to stabilize dimensions and reduce shrinkage.",
+  "bangla": "হিট সেটিং - কৃত্রিম কাপড়ের জন্য একটি তাপ প্রক্রিয়া, যা আকার স্থিতিশীল করে ও সংকোচন কমায়।",
+  "category": "finishing",
+  "tags": ["finishing", "synthetic", "treatment"],
+  "related": ["sanforization", "calendering", "thermofixation"]
+},
+"thermofixation": {
+  "english": "A heat treatment applied to fabrics to set dyes and finishes permanently.",
+  "bangla": "থার্মোফিক্সেশন - একটি তাপ প্রক্রিয়া, যা কাপড়ে রঙ ও ফিনিশ স্থায়ী করে।",
+  "category": "finishing",
+  "tags": ["finishing", "heat", "fixation"],
+  "related": ["heat setting", "curing", "sanforization"]
+},
+"curing": {
+  "english": "A finishing process where resins or chemicals are heat-set to impart properties like crease resistance.",
+  "bangla": "কিউরিং - একটি ফিনিশিং প্রক্রিয়া যেখানে রেজিন বা রাসায়নিককে তাপে স্থায়ী করা হয়, যেমন ভাঁজ প্রতিরোধ ক্ষমতা দেওয়ার জন্য।",
+  "category": "finishing",
+  "tags": ["finishing", "chemical", "treatment"],
+  "related": ["thermofixation", "heat setting", "resin finish"]
+},
+"resin finish": {
+  "english": "A chemical finishing treatment applied to fabrics to improve crease resistance and durability.",
+  "bangla": "রেজিন ফিনিশ - একটি রাসায়নিক ফিনিশিং প্রক্রিয়া, যা কাপড়কে ভাঁজ প্রতিরোধক ও টেকসই করে।",
+  "category": "finishing",
+  "tags": ["finishing", "resin", "durable"],
+  "related": ["curing", "chemical finish", "permanent press"]
+},
+"permanent press": {
+  "english": "A finish that makes fabrics resistant to wrinkling and requires little or no ironing.",
+  "bangla": "পার্মানেন্ট প্রেস - একটি ফিনিশ যা কাপড়কে ভাঁজ প্রতিরোধক করে এবং সামান্য বা কোনো ইস্ত্রি প্রয়োজন হয় না।",
+  "category": "finishing",
+  "tags": ["finishing", "wrinkle-free", "durable"],
+  "related": ["resin finish", "durable press", "crease-resistant finish"]
+},
+"crease-resistant finish": {
+  "english": "A chemical treatment applied to fabrics to resist wrinkling and maintain smoothness.",
+  "bangla": "ক্রিজ-রেসিস্ট্যান্ট ফিনিশ - একটি রাসায়নিক প্রক্রিয়া, যা কাপড়কে ভাঁজ প্রতিরোধী করে ও মসৃণতা বজায় রাখে।",
+  "category": "finishing",
+  "tags": ["finishing", "chemical", "wrinkle-free"],
+  "related": ["permanent press", "resin finish", "durable press"]
+},
+"durable press": {
+  "english": "A finishing treatment that provides wrinkle resistance and crease retention in fabrics.",
+  "bangla": "ডিউরেবল প্রেস - একটি ফিনিশিং প্রক্রিয়া, যা কাপড়ে ভাঁজ প্রতিরোধ ও ভাঁজ ধরে রাখার ক্ষমতা প্রদান করে।",
+  "category": "finishing",
+  "tags": ["finishing", "durable", "wrinkle-free"],
+  "related": ["permanent press", "crease-resistant finish", "resin finish"]
+},
+"anti-pilling finish": {
+  "english": "A fabric treatment that reduces the formation of small fiber balls (pills) on the surface.",
+  "bangla": "অ্যান্টি-পিলিং ফিনিশ - একটি কাপড়ের প্রক্রিয়া, যা কাপড়ের উপর ছোট ছোট তন্তুর বল (পিল) তৈরি কমায়।",
+  "category": "finishing",
+  "tags": ["finishing", "surface", "treatment"],
+  "related": ["enzyme wash", "softening finish", "abrasion resistant finish"]
+},
+"enzyme wash": {
+  "english": "A finishing technique using enzymes to soften fabrics and reduce fuzziness or pilling.",
+  "bangla": "এনজাইম ওয়াশ - একটি ফিনিশিং কৌশল, যেখানে এনজাইম ব্যবহার করা হয় কাপড়কে নরম করতে এবং ফাজিনেস বা পিলিং কমাতে।",
+  "category": "finishing",
+  "tags": ["finishing", "enzyme", "softening"],
+  "related": ["stone wash", "bio-polish", "anti-pilling finish"]
+},
+"vat dyeing": {
+  "english": "A dyeing method using insoluble vat dyes that become soluble in alkaline solution and are later oxidized to develop color.",
+  "bangla": "ভ্যাট ডাইং - একটি রঞ্জন প্রক্রিয়া যেখানে অদ্রবণীয় ভ্যাট ডাই ক্ষারীয় দ্রবণে দ্রবীভূত হয় এবং পরে অক্সিডাইজ হয়ে রঙ তৈরি করে।",
+  "category": "dyeing",
+  "tags": ["dyeing", "vat dye", "oxidation"],
+  "related": ["reactive dyeing", "indigo dyeing", "sulfur dyeing"]
+},
+"reactive dyeing": {
+  "english": "A dyeing process where reactive dyes form covalent bonds with fibers, giving bright and wash-fast colors.",
+  "bangla": "রিঅ্যাক্টিভ ডাইং - একটি রঞ্জন প্রক্রিয়া যেখানে রিঅ্যাক্টিভ ডাই তন্তুর সাথে কোভ্যালেন্ট বন্ধন তৈরি করে, উজ্জ্বল ও ধোয়া-সহনশীল রঙ দেয়।",
+  "category": "dyeing",
+  "tags": ["dyeing", "reactive dye", "wash-fast"],
+  "related": ["vat dyeing", "direct dyeing", "disperse dyeing"]
+},
+"direct dyeing": {
+  "english": "A simple dyeing process using direct dyes that are water-soluble and applied directly to fibers.",
+  "bangla": "ডাইরেক্ট ডাইং - একটি সহজ রঞ্জন প্রক্রিয়া যেখানে জল-দ্রবণীয় ডাই সরাসরি তন্তুতে প্রয়োগ করা হয়।",
+  "category": "dyeing",
+  "tags": ["dyeing", "direct dye", "cellulosic"],
+  "related": ["reactive dyeing", "basic dyeing", "acid dyeing"]
+},
+"acid dyeing": {
+  "english": "A dyeing process for protein fibers like wool and silk, using acid dyes in acidic conditions.",
+  "bangla": "অ্যাসিড ডাইং - একটি রঞ্জন প্রক্রিয়া যা উল ও রেশমের মতো প্রোটিন তন্তুর জন্য ব্যবহৃত হয়, অ্যাসিড ডাই ব্যবহার করে।",
+  "category": "dyeing",
+  "tags": ["dyeing", "acid dye", "protein fibers"],
+  "related": ["basic dyeing", "reactive dyeing", "direct dyeing"]
+},
+"basic dyeing": {
+  "english": "A dyeing process where basic dyes are applied to acrylic and cationic-modified fibers.",
+  "bangla": "বেসিক ডাইং - একটি রঞ্জন প্রক্রিয়া যেখানে বেসিক ডাই অ্যাক্রিলিক ও ক্যাটায়নিক পরিবর্তিত তন্তুতে প্রয়োগ করা হয়।",
+  "category": "dyeing",
+  "tags": ["dyeing", "basic dye", "synthetic fibers"],
+  "related": ["acid dyeing", "direct dyeing", "cationic dyeing"]
+},
+"disperse dyeing": {
+  "english": "A dyeing process used for hydrophobic synthetic fibers like polyester, using disperse dyes.",
+  "bangla": "ডিসপার্স ডাইং - একটি রঞ্জন প্রক্রিয়া যা জল-ভীতু সিন্থেটিক তন্তুর জন্য ব্যবহৃত হয়, যেমন পলিয়েস্টার।",
+  "category": "dyeing",
+  "tags": ["dyeing", "disperse dye", "synthetic fibers"],
+  "related": ["vat dyeing", "reactive dyeing", "pigment printing"]
+},
+"sulfur dyeing": {
+  "english": "A dyeing process using sulfur dyes, mainly for cotton, giving dark shades like black and navy.",
+  "bangla": "সালফার ডাইং - একটি রঞ্জন প্রক্রিয়া যেখানে সালফার ডাই ব্যবহার করা হয়, প্রধানত তুলার জন্য, গাঢ় রঙ যেমন কালো ও নেভি দেয়।",
+  "category": "dyeing",
+  "tags": ["dyeing", "sulfur dye", "cotton"],
+  "related": ["vat dyeing", "reactive dyeing", "indigo dyeing"]
+},
+"indigo dyeing": {
+  "english": "A traditional dyeing method using indigo, known for denim’s characteristic blue shade.",
+  "bangla": "ইন্ডিগো ডাইং - একটি ঐতিহ্যবাহী রঞ্জন প্রক্রিয়া যেখানে ইন্ডিগো ব্যবহার করা হয়, ডেনিমের স্বাভাবিক নীল রঙের জন্য পরিচিত।",
+  "category": "dyeing",
+  "tags": ["dyeing", "indigo", "denim"],
+  "related": ["vat dyeing", "sulfur dyeing", "natural dyeing"]
+},
+"natural dyeing": {
+  "english": "Dyeing with colors obtained from natural sources such as plants, insects, or minerals.",
+  "bangla": "ন্যাচারাল ডাইং - প্রাকৃতিক উৎস যেমন উদ্ভিদ, কীটপতঙ্গ বা খনিজ থেকে প্রাপ্ত রঙ ব্যবহার করে রঞ্জন।",
+  "category": "dyeing",
+  "tags": ["dyeing", "natural dye", "sustainable"],
+  "related": ["indigo dyeing", "madder dyeing", "synthetic dyeing"]
+},
+"madder dyeing": {
+  "english": "A natural dyeing method using madder root to produce red shades.",
+  "bangla": "ম্যাডার ডাইং - একটি প্রাকৃতিক রঞ্জন প্রক্রিয়া যেখানে ম্যাডার শিকড় ব্যবহার করে লাল রঙ তৈরি করা হয়।",
+  "category": "dyeing",
+  "tags": ["dyeing", "natural dye", "red shades"],
+  "related": ["natural dyeing", "indigo dyeing", "turmeric dyeing"]
+},
+"turmeric dyeing": {
+  "english": "A natural dyeing method using turmeric to give yellow color.",
+  "bangla": "হলুদ ডাইং - একটি প্রাকৃতিক রঞ্জন প্রক্রিয়া যেখানে হলুদ ব্যবহার করে হলুদ রঙ তৈরি করা হয়।",
+  "category": "dyeing",
+  "tags": ["dyeing", "natural dye", "yellow"],
+  "related": ["natural dyeing", "madder dyeing", "indigo dyeing"]
+},
+"pigment printing": {
+  "english": "A printing method where pigments are applied on the fabric surface with a binder instead of penetrating fibers.",
+  "bangla": "পিগমেন্ট প্রিন্টিং - একটি প্রিন্টিং পদ্ধতি যেখানে রঙিন পিগমেন্ট তন্তুর মধ্যে প্রবেশ না করে বাইন্ডার দিয়ে কাপড়ের উপর প্রয়োগ করা হয়।",
+  "category": "printing",
+  "tags": ["printing", "pigment", "surface"],
+  "related": ["disperse dyeing", "reactive printing", "block printing"]
+},
+"reactive printing": {
+  "english": "A printing method where reactive dyes chemically bond with fibers, producing bright and wash-fast prints.",
+  "bangla": "রিঅ্যাক্টিভ প্রিন্টিং - একটি প্রিন্টিং পদ্ধতি যেখানে রিঅ্যাক্টিভ ডাই তন্তুর সাথে রাসায়নিক বন্ধন তৈরি করে, উজ্জ্বল ও ধোয়া-সহনশীল প্রিন্ট দেয়।",
+  "category": "printing",
+  "tags": ["printing", "reactive dye", "wash-fast"],
+  "related": ["pigment printing", "direct printing", "discharge printing"]
+},
+"direct printing": {
+  "english": "A method where dyes are directly applied to produce colored patterns on fabric.",
+  "bangla": "ডাইরেক্ট প্রিন্টিং - একটি প্রক্রিয়া যেখানে রঙ সরাসরি কাপড়ে প্রয়োগ করে নকশা তৈরি করা হয়।",
+  "category": "printing",
+  "tags": ["printing", "direct dye", "patterns"],
+  "related": ["reactive printing", "block printing", "roller printing"]
+},
+"discharge printing": {
+  "english": "A method where a discharge agent removes dye from dyed fabric to create patterns.",
+  "bangla": "ডিসচার্জ প্রিন্টিং - একটি প্রক্রিয়া যেখানে একটি রাসায়নিক এজেন্ট কাপড় থেকে রঙ সরিয়ে নকশা তৈরি করে।",
+  "category": "printing",
+  "tags": ["printing", "discharge", "patterning"],
+  "related": ["reactive printing", "resist printing", "pigment printing"]
+},
+"resist printing": {
+  "english": "A printing technique where parts of the fabric are treated to resist dye, creating patterns.",
+  "bangla": "রেজিস্ট প্রিন্টিং - একটি প্রিন্টিং কৌশল যেখানে কাপড়ের কিছু অংশকে রঙ প্রতিরোধী করা হয়, ফলে নকশা তৈরি হয়।",
+  "category": "printing",
+  "tags": ["printing", "resist", "patterns"],
+  "related": ["discharge printing", "ikat", "batik"]
+},
+"ikat": {
+  "english": "A resist dyeing technique where yarns are tie-dyed before weaving, producing blurred patterns.",
+  "bangla": "ইকাত - একটি রেজিস্ট রঞ্জন কৌশল যেখানে সুতো বুননের আগে টাই-ডাই করা হয়, ফলে ঝাপসা নকশা তৈরি হয়।",
+  "category": "dyeing",
+  "tags": ["dyeing", "ikat", "resist"],
+  "related": ["resist printing", "tie-dye", "batik"]
+},
+"batik": {
+  "english": "A resist dyeing technique using wax to cover fabric areas before dyeing.",
+  "bangla": "বাটিক - একটি রেজিস্ট রঞ্জন কৌশল যেখানে রঞ্জনের আগে কাপড়ের কিছু অংশ মোম দিয়ে ঢেকে রাখা হয়।",
+  "category": "dyeing",
+  "tags": ["dyeing", "batik", "resist"],
+  "related": ["ikat", "tie-dye", "resist printing"]
+},
+"tie-dye": {
+  "english": "A resist dyeing technique where fabric is tied and dyed to create patterns.",
+  "bangla": "টাই-ডাই - একটি রেজিস্ট রঞ্জন কৌশল যেখানে কাপড়কে বেঁধে রঙ করা হয় নকশা তৈরির জন্য।",
+  "category": "dyeing",
+  "tags": ["dyeing", "tie-dye", "resist"],
+  "related": ["ikat", "batik", "resist printing"]
+},
+"block printing": {
+  "english": "A traditional printing method where carved wooden blocks are used to stamp designs onto fabric.",
+  "bangla": "ব্লক প্রিন্টিং - একটি ঐতিহ্যবাহী প্রিন্টিং পদ্ধতি যেখানে খোদাই করা কাঠের ব্লক ব্যবহার করে কাপড়ে নকশা মুদ্রিত হয়।",
+  "category": "printing",
+  "tags": ["printing", "handcrafted", "traditional"],
+  "related": ["roller printing", "digital printing", "screen printing"]
+},
+"roller printing": {
+  "english": "A machine printing method using engraved rollers to apply continuous patterns on fabric.",
+  "bangla": "রোলার প্রিন্টিং - একটি মেশিন প্রিন্টিং পদ্ধতি যেখানে খোদাই করা রোলার ব্যবহার করে কাপড়ে ধারাবাহিক নকশা মুদ্রিত হয়।",
+  "category": "printing",
+  "tags": ["printing", "mechanical", "continuous"],
+  "related": ["block printing", "screen printing", "digital printing"]
+},
+"screen printing": {
+  "english": "A printing method where designs are transferred through a mesh screen using ink or dye.",
+  "bangla": "স্ক্রিন প্রিন্টিং - একটি প্রিন্টিং পদ্ধতি যেখানে নকশা একটি জাল স্ক্রিনের মাধ্যমে রঙ বা ডাই দিয়ে কাপড়ে স্থানান্তরিত হয়।",
+  "category": "printing",
+  "tags": ["printing", "screen", "pattern"],
+  "related": ["digital printing", "roller printing", "block printing"]
+},
+"digital printing": {
+  "english": "A modern printing technique where computer-controlled inkjet printers apply designs directly onto fabric.",
+  "bangla": "ডিজিটাল প্রিন্টিং - একটি আধুনিক প্রিন্টিং পদ্ধতি যেখানে কম্পিউটার-নিয়ন্ত্রিত ইঙ্কজেট প্রিন্টার দিয়ে সরাসরি কাপড়ে নকশা করা হয়।",
+  "category": "printing",
+  "tags": ["printing", "digital", "modern"],
+  "related": ["screen printing", "roller printing", "heat transfer printing"]
+},
+"heat transfer printing": {
+  "english": "A method where designs are printed on paper and then transferred to fabric using heat and pressure.",
+  "bangla": "হিট ট্রান্সফার প্রিন্টিং - একটি প্রক্রিয়া যেখানে নকশা কাগজে মুদ্রিত হয় এবং পরে তাপ ও চাপ ব্যবহার করে কাপড়ে স্থানান্তরিত হয়।",
+  "category": "printing",
+  "tags": ["printing", "heat", "transfer"],
+  "related": ["sublimation printing", "digital printing", "flock printing"]
+},
+"sublimation printing": {
+  "english": "A heat-based printing method where sublimation inks turn into gas and bond with polyester fibers.",
+  "bangla": "সাবলিমেশন প্রিন্টিং - একটি তাপ-ভিত্তিক প্রিন্টিং পদ্ধতি যেখানে সাবলিমেশন কালি গ্যাসে রূপান্তরিত হয়ে পলিয়েস্টার তন্তুর সাথে বন্ধন তৈরি করে।",
+  "category": "printing",
+  "tags": ["printing", "sublimation", "polyester"],
+  "related": ["heat transfer printing", "digital printing", "screen printing"]
+},
+"flock printing": {
+  "english": "A printing technique where short fibers are applied to adhesive-coated fabric to create a velvet-like surface.",
+  "bangla": "ফ্লক প্রিন্টিং - একটি প্রিন্টিং কৌশল যেখানে আঠা-লেপা কাপড়ে ছোট তন্তু প্রয়োগ করা হয়, ফলে মখমলের মতো পৃষ্ঠ তৈরি হয়।",
+  "category": "printing",
+  "tags": ["printing", "flock", "texture"],
+  "related": ["burn-out printing", "digital printing", "heat transfer printing"]
+},
+"burn-out printing": {
+  "english": "A method where chemicals dissolve specific fibers in a blended fabric to create patterns.",
+  "bangla": "বার্ন-আউট প্রিন্টিং - একটি পদ্ধতি যেখানে রাসায়নিক ব্যবহার করে মিশ্রিত কাপড়ের নির্দিষ্ট তন্তু দ্রবীভূত করে নকশা তৈরি করা হয়।",
+  "category": "printing",
+  "tags": ["printing", "chemical", "patterns"],
+  "related": ["flock printing", "discharge printing", "laser cutting"]
+},
+"photo printing": {
+  "english": "A digital printing technique that reproduces photographic images on fabric with high resolution.",
+  "bangla": "ফটো প্রিন্টিং - একটি ডিজিটাল প্রিন্টিং কৌশল যা কাপড়ে উচ্চ রেজোলিউশনে আলোকচিত্র মুদ্রণ করে।",
+  "category": "printing",
+  "tags": ["printing", "digital", "photo"],
+  "related": ["digital printing", "sublimation printing", "heat transfer printing"]
+},
+"foil printing": {
+  "english": "A decorative printing method where metallic foils are transferred onto fabric using heat and adhesive.",
+  "bangla": "ফয়েল প্রিন্টিং - একটি অলঙ্কৃত প্রিন্টিং পদ্ধতি যেখানে ধাতব ফয়েল তাপ ও আঠা ব্যবহার করে কাপড়ে স্থানান্তরিত হয়।",
+  "category": "printing",
+  "tags": ["printing", "foil", "decorative"],
+  "related": ["heat transfer printing", "digital printing", "flock printing"]
+},
+"waterproof finish": {
+  "english": "A chemical treatment that makes fabric resistant to water penetration.",
+  "bangla": "ওয়াটারপ্রুফ ফিনিশ - একটি রাসায়নিক প্রক্রিয়া যা কাপড়কে পানির অনুপ্রবেশ প্রতিরোধী করে।",
+  "category": "finishing",
+  "tags": ["finishing", "waterproof", "protective"],
+  "related": ["water-repellent finish", "oil-repellent finish", "stain-resistant finish"]
+},
+"water-repellent finish": {
+  "english": "A finish that resists water to some extent but allows air permeability.",
+  "bangla": "ওয়াটার-রেপেলেন্ট ফিনিশ - একটি ফিনিশ যা কিছুটা পানি প্রতিরোধ করে কিন্তু বাতাস প্রবাহিত হতে দেয়।",
+  "category": "finishing",
+  "tags": ["finishing", "water-repellent", "protective"],
+  "related": ["waterproof finish", "oil-repellent finish", "stain-resistant finish"]
+},
+"oil-repellent finish": {
+  "english": "A chemical treatment that prevents oils and greasy substances from penetrating fabric.",
+  "bangla": "অয়েল-রেপেলেন্ট ফিনিশ - একটি রাসায়নিক প্রক্রিয়া যা কাপড়ে তেল ও চর্বিযুক্ত পদার্থ প্রবেশ করতে বাধা দেয়।",
+  "category": "finishing",
+  "tags": ["finishing", "oil-repellent", "protective"],
+  "related": ["stain-resistant finish", "water-repellent finish", "soil-release finish"]
+},
+"stain-resistant finish": {
+  "english": "A finish that prevents stains from easily adhering to fabric.",
+  "bangla": "স্টেইন-রেসিস্ট্যান্ট ফিনিশ - একটি ফিনিশ যা দাগকে সহজে কাপড়ে লেগে থাকতে বাধা দেয়।",
+  "category": "finishing",
+  "tags": ["finishing", "stain-resistant", "protective"],
+  "related": ["oil-repellent finish", "waterproof finish", "soil-release finish"]
+},
+"soil-release finish": {
+  "english": "A finish that makes stains and dirt easier to remove during laundering.",
+  "bangla": "সয়েল-রিলিজ ফিনিশ - একটি ফিনিশ যা কাপড় থেকে দাগ ও ময়লা ধোয়ার সময় সহজে সরাতে সাহায্য করে।",
+  "category": "finishing",
+  "tags": ["finishing", "soil-release", "laundering"],
+  "related": ["stain-resistant finish", "oil-repellent finish", "antimicrobial finish"]
+},
+"antimicrobial finish": {
+  "english": "A fabric treatment that inhibits the growth of bacteria, fungi, and odors.",
+  "bangla": "অ্যান্টিমাইক্রোবিয়াল ফিনিশ - একটি কাপড়ের প্রক্রিয়া যা ব্যাকটেরিয়া, ছত্রাক ও দুর্গন্ধের বৃদ্ধি প্রতিরোধ করে।",
+  "category": "finishing",
+  "tags": ["finishing", "antimicrobial", "hygiene"],
+  "related": ["antibacterial finish", "antifungal finish", "odor-control finish"]
+},
+"flame-retardant finish": {
+  "english": "A chemical treatment that reduces the flammability of fabrics.",
+  "bangla": "ফ্লেম-রিটারডেন্ট ফিনিশ - একটি রাসায়নিক প্রক্রিয়া যা কাপড়ের দাহ্যতা কমায়।",
+  "category": "finishing",
+  "tags": ["finishing", "flame-retardant", "safety"],
+  "related": ["fireproof finish", "antistatic finish", "heat-resistant finish"]
+},
+"antistatic finish": {
+  "english": "A treatment that reduces static electricity build-up in synthetic fabrics.",
+  "bangla": "অ্যান্টিস্ট্যাটিক ফিনিশ - একটি প্রক্রিয়া যা কৃত্রিম কাপড়ে স্ট্যাটিক বিদ্যুতের জমা কমায়।",
+  "category": "finishing",
+  "tags": ["finishing", "antistatic", "synthetic"],
+  "related": ["antimicrobial finish", "flame-retardant finish", "soil-release finish"]
+},
+"ultraviolet-protective finish": {
+  "english": "A finish that improves fabric’s ability to block harmful UV rays.",
+  "bangla": "আল্ট্রাভায়োলেট-প্রোটেক্টিভ ফিনিশ - একটি ফিনিশ যা কাপড়ের ক্ষতিকর ইউভি রশ্মি আটকানোর ক্ষমতা বাড়ায়।",
+  "category": "finishing",
+  "tags": ["finishing", "UV-protection", "safety"],
+  "related": ["antimicrobial finish", "flame-retardant finish", "stain-resistant finish"]
+},
+"phase-change material (PCM)": {
+  "english": "A material that absorbs, stores, and releases heat to regulate fabric temperature.",
+  "bangla": "ফেজ-চেঞ্জ ম্যাটেরিয়াল (PCM) - একটি পদার্থ যা তাপ শোষণ, সংরক্ষণ ও মুক্ত করে কাপড়ের তাপমাত্রা নিয়ন্ত্রণ করে।",
+  "category": "smart textiles",
+  "tags": ["temperature-regulation", "performance", "innovation"],
+  "related": ["thermochromic fabric", "moisture-management fabric", "coolmax"]
+},
+"thermochromic fabric": {
+  "english": "A smart fabric that changes color in response to temperature variations.",
+  "bangla": "থার্মোক্রোমিক ফ্যাব্রিক - একটি স্মার্ট কাপড় যা তাপমাত্রার পরিবর্তনে রঙ পরিবর্তন করে।",
+  "category": "smart textiles",
+  "tags": ["color-change", "temperature", "innovation"],
+  "related": ["photochromic fabric", "PCM", "nano-coating"]
+},
+"photochromic fabric": {
+  "english": "Fabric that changes color when exposed to light, especially UV radiation.",
+  "bangla": "ফটোক্রোমিক ফ্যাব্রিক - কাপড় যা আলোতে, বিশেষ করে ইউভি রশ্মিতে, রঙ পরিবর্তন করে।",
+  "category": "smart textiles",
+  "tags": ["color-change", "UV", "innovation"],
+  "related": ["thermochromic fabric", "UV-protective finish", "nano-coating"]
+},
+"conductive textiles": {
+  "english": "Fabrics integrated with conductive fibers or coatings that can carry electricity.",
+  "bangla": "কনডাকটিভ টেক্সটাইল - কাপড় যেখানে বিদ্যুৎ পরিবাহী তন্তু বা প্রলেপ ব্যবহার করা হয়।",
+  "category": "smart textiles",
+  "tags": ["electronics", "innovation", "wearable"],
+  "related": ["e-textiles", "nanotechnology textiles", "antistatic finish"]
+},
+"e-textiles": {
+  "english": "Electronic textiles that embed sensors, circuits, or conductive threads into fabrics.",
+  "bangla": "ই-টেক্সটাইল - ইলেকট্রনিক টেক্সটাইল যেখানে সেন্সর, সার্কিট বা পরিবাহী সুতা সংযুক্ত থাকে।",
+  "category": "smart textiles",
+  "tags": ["electronics", "smart", "wearable"],
+  "related": ["conductive textiles", "nano-textiles", "phase-change material (PCM)"]
+},
+"nano-textiles": {
+  "english": "Fabrics enhanced with nanotechnology for added properties like water-repellency, stain resistance, or UV protection.",
+  "bangla": "ন্যানো-টেক্সটাইল - ন্যানোপ্রযুক্তি ব্যবহার করে তৈরি কাপড় যা পানি প্রতিরোধ, দাগ প্রতিরোধ বা ইউভি সুরক্ষা প্রদান করে।",
+  "category": "smart textiles",
+  "tags": ["nanotechnology", "innovation", "performance"],
+  "related": ["nano-coating", "antimicrobial finish", "UV-protective finish"]
+},
+"nano-coating": {
+  "english": "A thin protective layer applied using nanotechnology to improve fabric durability and functionality.",
+  "bangla": "ন্যানো-কোটিং - ন্যানোপ্রযুক্তি ব্যবহার করে প্রয়োগকৃত একটি পাতলা প্রতিরক্ষামূলক স্তর যা কাপড়ের টেকসইতা ও কার্যকারিতা বাড়ায়।",
+  "category": "finishing",
+  "tags": ["nanotechnology", "coating", "protective"],
+  "related": ["nano-textiles", "stain-resistant finish", "antimicrobial finish"]
+},
+"moisture-management fabric": {
+  "english": "Fabric engineered to wick away sweat and moisture from the body.",
+  "bangla": "ময়েশ্চার-ম্যানেজমেন্ট ফ্যাব্রিক - এমন কাপড় যা শরীর থেকে ঘাম ও আর্দ্রতা দূর করার জন্য তৈরি।",
+  "category": "performance textiles",
+  "tags": ["wicking", "sportswear", "comfort"],
+  "related": ["coolmax", "breathable fabric", "quick-dry fabric"]
+},
+"coolmax": {
+  "english": "A branded polyester fabric designed for moisture-wicking and quick drying.",
+  "bangla": "কুলম্যাক্স - একটি ব্র্যান্ডেড পলিয়েস্টার কাপড় যা আর্দ্রতা শোষণ ও দ্রুত শুকানোর জন্য তৈরি।",
+  "category": "performance textiles",
+  "tags": ["moisture-wicking", "sportswear", "polyester"],
+  "related": ["moisture-management fabric", "dry-fit fabric", "breathable fabric"]
+},
+"dry-fit fabric": {
+  "english": "A stretchable, moisture-wicking fabric commonly used in sportswear.",
+  "bangla": "ড্রাই-ফিট ফ্যাব্রিক - একটি প্রসারযোগ্য, আর্দ্রতা-শোষণকারী কাপড় যা সাধারণত খেলাধুলার পোশাকে ব্যবহৃত হয়।",
+  "category": "performance textiles",
+  "tags": ["sportswear", "moisture-wicking", "stretch"],
+  "related": ["coolmax", "moisture-management fabric", "breathable fabric"]
+},
+"breathable fabric": {
+  "english": "A fabric that allows moisture vapor to pass through while blocking liquid water.",
+  "bangla": "ব্রিদেবল ফ্যাব্রিক - এমন কাপড় যা আর্দ্রতার বাষ্পকে পাস করতে দেয় কিন্তু তরল পানি আটকে রাখে।",
+  "category": "performance textiles",
+  "tags": ["breathable", "comfort", "sportswear"],
+  "related": ["moisture-management fabric", "quick-dry fabric", "membrane fabric"]
+},
+"quick-dry fabric": {
+  "english": "A fabric that dries rapidly after getting wet, often used in outdoor clothing.",
+  "bangla": "কুইক-ড্রাই ফ্যাব্রিক - এমন কাপড় যা ভিজে গেলে দ্রুত শুকিয়ে যায়, সাধারণত আউটডোর পোশাকে ব্যবহৃত হয়।",
+  "category": "performance textiles",
+  "tags": ["quick-dry", "outdoor", "comfort"],
+  "related": ["dry-fit fabric", "coolmax", "breathable fabric"]
+},
+"membrane fabric": {
+  "english": "Fabric made with microporous membranes to provide waterproof yet breathable properties.",
+  "bangla": "মেমব্রেন ফ্যাব্রিক - মাইক্রোপোরাস মেমব্রেন দিয়ে তৈরি কাপড় যা ওয়াটারপ্রুফ কিন্তু ব্রিদেবল।",
+  "category": "performance textiles",
+  "tags": ["waterproof", "breathable", "outdoor"],
+  "related": ["gore-tex", "laminated fabric", "coated fabric"]
+},
+"gore-tex": {
+  "english": "A high-performance fabric membrane known for waterproof, windproof, and breathable properties.",
+  "bangla": "গোর-টেক্স - একটি উচ্চ কার্যক্ষম মেমব্রেন কাপড় যা ওয়াটারপ্রুফ, উইন্ডপ্রুফ ও ব্রিদেবল।",
+  "category": "performance textiles",
+  "tags": ["waterproof", "breathable", "windproof"],
+  "related": ["membrane fabric", "coated fabric", "laminated fabric"]
+},
+"laminated fabric": {
+  "english": "A fabric made by bonding two or more layers together, often for waterproofing.",
+  "bangla": "লামিনেটেড ফ্যাব্রিক - দুটি বা তার বেশি স্তর একত্রে যুক্ত করে তৈরি কাপড়, সাধারণত ওয়াটারপ্রুফ করার জন্য।",
+  "category": "technical textiles",
+  "tags": ["laminated", "waterproof", "protective"],
+  "related": ["membrane fabric", "coated fabric", "gore-tex"]
+},
+"coated fabric": {
+  "english": "Fabric treated with a surface coating to enhance properties such as waterproofing or durability.",
+  "bangla": "কোটেড ফ্যাব্রিক - একটি কাপড় যা ওয়াটারপ্রুফ বা টেকসই করার জন্য উপরের দিকে প্রলেপ দেওয়া হয়।",
+  "category": "technical textiles",
+  "tags": ["coated", "durable", "protective"],
+  "related": ["laminated fabric", "gore-tex", "membrane fabric"]
+},
+"infrared-reflective fabric": {
+  "english": "A fabric designed to reflect infrared radiation, helping regulate body heat.",
+  "bangla": "ইনফ্রারেড-রিফ্লেক্টিভ ফ্যাব্রিক - একটি কাপড় যা ইনফ্রারেড বিকিরণ প্রতিফলিত করে, শরীরের তাপ নিয়ন্ত্রণে সাহায্য করে।",
+  "category": "smart textiles",
+  "tags": ["infrared", "temperature-control", "innovation"],
+  "related": ["phase-change material (PCM)", "thermal insulation", "nano-coating"]
+},
+"thermal insulation fabric": {
+  "english": "Fabric designed to trap air and provide warmth in cold conditions.",
+  "bangla": "থার্মাল ইনসুলেশন ফ্যাব্রিক - কাপড় যা বাতাস আটকে রেখে ঠান্ডায় উষ্ণতা প্রদান করে।",
+  "category": "performance textiles",
+  "tags": ["thermal", "insulation", "warmth"],
+  "related": ["infrared-reflective fabric", "wool", "polar fleece"]
+},
+"polar fleece": {
+  "english": "A synthetic insulating fabric made of polyester, lightweight yet warm.",
+  "bangla": "পোলার ফ্লিস - একটি সিন্থেটিক ইনসুলেটিং কাপড় যা পলিয়েস্টার দিয়ে তৈরি, হালকা কিন্তু উষ্ণ।",
+  "category": "performance textiles",
+  "tags": ["fleece", "polyester", "insulation"],
+  "related": ["thermal insulation fabric", "wool", "synthetic fiber"]
+},
+"organza": {
+  "english": "A thin, plain weave fabric made from silk or synthetic fibers, known for its crisp and sheer texture.",
+  "bangla": "অর্গানজা - একটি পাতলা, প্লেইন বুনন কাপড় যা সিল্ক বা কৃত্রিম তন্তু দিয়ে তৈরি হয়, যার খসখসে ও স্বচ্ছ গঠন রয়েছে।",
+  "category": "luxury fabrics",
+  "tags": ["sheer", "silk", "dressmaking"],
+  "related": ["voile", "chiffon", "tulle"]
+},
+"voile": {
+  "english": "A lightweight, semi-sheer fabric made from cotton or polyester, used in dresses and curtains.",
+  "bangla": "ভয়েল - একটি হালকা, আধা-স্বচ্ছ কাপড় যা সাধারণত কটন বা পলিয়েস্টার দিয়ে তৈরি হয়, পোশাক ও পর্দায় ব্যবহৃত হয়।",
+  "category": "luxury fabrics",
+  "tags": ["lightweight", "sheer", "cotton"],
+  "related": ["organza", "lawn", "chiffon"]
+},
+"gabardine": {
+  "english": "A durable twill-weave fabric, usually made of wool or cotton, often used in suits and uniforms.",
+  "bangla": "গ্যাবারডিন - একটি টেকসই টুইল বুনন কাপড়, সাধারণত উল বা কটন দিয়ে তৈরি, স্যুট ও ইউনিফর্মে ব্যবহৃত হয়।",
+  "category": "fashion fabrics",
+  "tags": ["twill", "durable", "suits"],
+  "related": ["twill", "denim", "serge"]
+},
+"brocade": {
+  "english": "A rich decorative fabric with woven patterns, often using gold or silver threads.",
+  "bangla": "ব্রোকেড - একটি সমৃদ্ধ অলঙ্কৃত কাপড়, যেখানে সোনালী বা রূপালী সুতা দিয়ে নকশা বোনা হয়।",
+  "category": "luxury fabrics",
+  "tags": ["decorative", "woven", "luxury"],
+  "related": ["jacquard", "damask", "tapestry"]
+},
+"damask": {
+  "english": "A reversible figured fabric made with jacquard weaving, featuring intricate floral or geometric designs.",
+  "bangla": "ড্যামাস্ক - একটি উল্টানো যায় এমন নকশাযুক্ত কাপড় যা জ্যাককার্ড বুননে তৈরি হয়, জটিল ফুলেল বা জ্যামিতিক নকশা থাকে।",
+  "category": "luxury fabrics",
+  "tags": ["jacquard", "woven", "decorative"],
+  "related": ["brocade", "tapestry", "jacquard weave"]
+},
+"tapestry": {
+  "english": "A thick, decorative woven fabric often used for wall hangings or upholstery.",
+  "bangla": "ট্যাপেস্ট্রি - একটি মোটা অলঙ্কৃত বোনা কাপড় যা প্রায়শই দেওয়ালের ঝোলানো বা আসবাবপত্রে ব্যবহৃত হয়।",
+  "category": "luxury fabrics",
+  "tags": ["decorative", "woven", "upholstery"],
+  "related": ["brocade", "damask", "jacquard"]
+},
+"chiffon": {
+  "english": "A lightweight, sheer fabric made from silk or synthetic fibers, commonly used in evening wear.",
+  "bangla": "শিফন - একটি হালকা, স্বচ্ছ কাপড় যা সিল্ক বা কৃত্রিম তন্তু দিয়ে তৈরি হয়, সাধারণত পার্টি পোশাকে ব্যবহৃত হয়।",
+  "category": "luxury fabrics",
+  "tags": ["sheer", "silk", "fashion"],
+  "related": ["organza", "voile", "georgette"]
+},
+"georgette": {
+  "english": "A sheer, lightweight, crinkled fabric made from silk or polyester.",
+  "bangla": "জর্জেট - একটি স্বচ্ছ, হালকা, কুঁচকানো কাপড় যা সিল্ক বা পলিয়েস্টার দিয়ে তৈরি হয়।",
+  "category": "luxury fabrics",
+  "tags": ["sheer", "lightweight", "silk"],
+  "related": ["chiffon", "organza", "voile"]
+},
+"tulle": {
+  "english": "A fine net fabric often used in veils, tutus, and gowns.",
+  "bangla": "টুল - একটি সূক্ষ্ম জালের মতো কাপড় যা সাধারণত ওড়না, টুটু এবং গাউনে ব্যবহৃত হয়।",
+  "category": "luxury fabrics",
+  "tags": ["net", "sheer", "decorative"],
+  "related": ["organza", "chiffon", "lace"]
+},
+"lace": {
+  "english": "A delicate openwork fabric made by looping, braiding, or twisting threads.",
+  "bangla": "লেইস - একটি সূক্ষ্ম খোলা কাজের কাপড় যা সুতা বোনা, পাকানো বা গিঁট দিয়ে তৈরি হয়।",
+  "category": "luxury fabrics",
+  "tags": ["delicate", "decorative", "openwork"],
+  "related": ["tulle", "embroidery", "crochet"]
+},
+"velvet": {
+  "english": "A luxurious fabric with a dense pile, giving it a soft, rich texture.",
+  "bangla": "ভেলভেট - একটি বিলাসবহুল কাপড় যার ঘন পাইল রয়েছে, ফলে এটি নরম ও সমৃদ্ধ অনুভূতি দেয়।",
+  "category": "luxury fabrics",
+  "tags": ["pile", "luxury", "soft"],
+  "related": ["velour", "corduroy", "plush"]
+},
+"velour": {
+  "english": "A plush knitted fabric similar to velvet but stretchier and used in casual clothing.",
+  "bangla": "ভেলোর - একটি প্লাশ নিট কাপড় যা ভেলভেটের মতো কিন্তু আরও প্রসারযোগ্য, সাধারণ পোশাকে ব্যবহৃত হয়।",
+  "category": "fashion fabrics",
+  "tags": ["knit", "pile", "soft"],
+  "related": ["velvet", "corduroy", "plush"]
+},
+"corduroy": {
+  "english": "A durable fabric with raised ridges (wales) running lengthwise.",
+  "bangla": "কর্ডুরয় - একটি টেকসই কাপড় যার লম্বালম্বি উঁচু দাগ (ওয়েল) থাকে।",
+  "category": "fashion fabrics",
+  "tags": ["ridges", "durable", "cotton"],
+  "related": ["velvet", "velour", "twill"]
+},
+"plush": {
+  "english": "A fabric with an even longer and softer pile than velvet, often used in toys and upholstery.",
+  "bangla": "প্লাশ - একটি কাপড় যার পাইল ভেলভেটের তুলনায় লম্বা ও নরম, সাধারণত খেলনা ও আসবাবপত্রে ব্যবহৃত হয়।",
+  "category": "luxury fabrics",
+  "tags": ["pile", "soft", "upholstery"],
+  "related": ["velvet", "velour", "faux fur"]
+},
+"faux fur": {
+  "english": "A synthetic fabric made to resemble animal fur.",
+  "bangla": "ফক্স ফার - একটি কৃত্রিম কাপড় যা পশমের মতো দেখানোর জন্য তৈরি করা হয়।",
+  "category": "fashion fabrics",
+  "tags": ["synthetic", "pile", "luxury"],
+  "related": ["plush", "velvet", "fur"]
+},
+"fur": {
+  "english": "Animal skin with hair still attached, traditionally used in luxury garments.",
+  "bangla": "ফার - পশুর চামড়া যার লোম অক্ষত থাকে, ঐতিহ্যগতভাবে বিলাসবহুল পোশাকে ব্যবহৃত হয়।",
+  "category": "luxury fabrics",
+  "tags": ["animal", "pile", "luxury"],
+  "related": ["faux fur", "plush", "velvet"]
+},
+"satin": {
+  "english": "A smooth, glossy fabric with a characteristic sheen, usually made from silk or polyester.",
+  "bangla": "স্যাটিন - একটি মসৃণ, চকচকে কাপড় যার বিশেষ উজ্জ্বলতা রয়েছে, সাধারণত সিল্ক বা পলিয়েস্টার দিয়ে তৈরি হয়।",
+  "category": "luxury fabrics",
+  "tags": ["glossy", "silk", "fashion"],
+  "related": ["silk", "charmeuse", "duchesse satin"]
+},
+"charmeuse": {
+  "english": "A lightweight, satin-weave silk fabric with a glossy front and dull back.",
+  "bangla": "শারমিউজ - একটি হালকা, সাটিন-বুনন সিল্ক কাপড় যার সামনের দিক চকচকে ও পিছনের দিক ম্লান।",
+  "category": "luxury fabrics",
+  "tags": ["silk", "satin", "glossy"],
+  "related": ["satin", "silk", "duchesse satin"]
+},
+"duchesse satin": {
+  "english": "A luxurious heavy satin fabric with a high thread count, often used in bridal gowns.",
+  "bangla": "ডাচেস সাটিন - একটি বিলাসবহুল ভারী সাটিন কাপড় যার থ্রেড কাউন্ট বেশি, সাধারণত ব্রাইডাল গাউনে ব্যবহৃত হয়।",
+  "category": "luxury fabrics",
+  "tags": ["satin", "luxury", "bridal"],
+  "related": ["satin", "charmeuse", "silk"]
+},
+  "geotextile": {
+    "english": "A permeable textile used in civil engineering for soil stabilization, drainage, and erosion control.",
+    "bangla": "জিওটেক্সটাইল - একটি পরিস্রাবণযোগ্য কাপড় যা মাটি স্থিতিশীলতা, নিষ্কাশন এবং ক্ষয় নিয়ন্ত্রণে ব্যবহৃত হয়।",
+    "category": "technical",
+    "tags": ["engineering", "soil", "stabilization"],
+    "related": ["nonwoven", "woven geotextile", "geomembrane"]
+  },
+  "woven geotextile": {
+    "english": "A geotextile made by weaving fibers, used for reinforcement and separation in construction projects.",
+    "bangla": "ওভেন জিওটেক্সটাইল - ফাইবার বুননের মাধ্যমে তৈরি কাপড়, যা নির্মাণকাজে শক্তিবৃদ্ধি ও আলাদা করার জন্য ব্যবহৃত হয়।",
+    "category": "technical",
+    "tags": ["woven", "construction", "reinforcement"],
+    "related": ["geotextile", "nonwoven geotextile", "geomembrane"]
+  },
+  "nonwoven geotextile": {
+    "english": "A geotextile produced by bonding fibers mechanically or chemically, mainly used for filtration and drainage.",
+    "bangla": "ননওভেন জিওটেক্সটাইল - ফাইবার যান্ত্রিক বা রাসায়নিকভাবে সংযুক্ত করে তৈরি কাপড়, যা প্রধানত পরিস্রাবণ ও নিষ্কাশনে ব্যবহৃত হয়।",
+    "category": "technical",
+    "tags": ["nonwoven", "drainage", "filtration"],
+    "related": ["geotextile", "woven geotextile", "geomembrane"]
+  },
+  "geomembrane": {
+    "english": "An impermeable membrane used in geotechnical applications to control fluid migration in soil.",
+    "bangla": "জিওমেমব্রেন - একটি অপ্রবেশ্য স্তর যা মাটিতে তরল নিয়ন্ত্রণের জন্য ব্যবহৃত হয়।",
+    "category": "technical",
+    "tags": ["impermeable", "barrier", "soil"],
+    "related": ["geotextile", "woven geotextile", "nonwoven geotextile"]
+  },
+  "ballistic nylon": {
+    "english": "A thick, tough synthetic fabric originally developed for military use in World War II.",
+    "bangla": "ব্যালিস্টিক নাইলন - একটি ঘন, শক্ত কৃত্রিম কাপড় যা মূলত দ্বিতীয় বিশ্বযুদ্ধে সামরিক কাজে তৈরি করা হয়েছিল।",
+    "category": "technical",
+    "tags": ["durable", "military", "protective"],
+    "related": ["kevlar", "cordura", "aramid"]
+  },
+  "kevlar": {
+    "english": "A heat-resistant, strong synthetic fiber used in protective clothing and armor.",
+    "bangla": "কেভলার - একটি তাপ-প্রতিরোধী শক্তিশালী কৃত্রিম তন্তু, যা সুরক্ষামূলক পোশাক ও বর্মে ব্যবহৃত হয়।",
+    "category": "technical",
+    "tags": ["aramid", "protective", "strong"],
+    "related": ["nomex", "aramid", "ballistic nylon"]
+  },
+  "nomex": {
+    "english": "A flame-resistant aramid fiber used in firefighter and industrial protective clothing.",
+    "bangla": "নোমেক্স - একটি আগুন প্রতিরোধী অ্যারামিড তন্তু, যা অগ্নিনির্বাপক ও শিল্প সুরক্ষামূলক পোশাকে ব্যবহৃত হয়।",
+    "category": "technical",
+    "tags": ["fire-resistant", "protective", "aramid"],
+    "related": ["kevlar", "aramid", "ballistic nylon"]
+  },
+  "aramid": {
+    "english": "A class of heat-resistant synthetic fibers used in aerospace and military applications.",
+    "bangla": "অ্যারামিড - একটি তাপ প্রতিরোধী কৃত্রিম তন্তু শ্রেণী, যা মহাকাশ ও সামরিক কাজে ব্যবহৃত হয়।",
+    "category": "synthetic",
+    "tags": ["fiber", "heat-resistant", "strong"],
+    "related": ["kevlar", "nomex", "ballistic nylon"]
+  },
+  "cordura": {
+    "english": "A collection of durable fabrics made of nylon, often used in luggage, backpacks, and military wear.",
+    "bangla": "কর্ডুরা - নাইলন দিয়ে তৈরি টেকসই কাপড়ের একটি সংগ্রহ, যা ব্যাগ, ব্যাকপ্যাক এবং সামরিক পোশাকে ব্যবহৃত হয়।",
+    "category": "technical",
+    "tags": ["nylon", "durable", "protective"],
+    "related": ["ballistic nylon", "kevlar", "corduroy"]
+  },
+  "ripstop": {
+    "english": "A woven fabric with reinforcement threads that resist tearing and ripping.",
+    "bangla": "রিপস্টপ - একটি বোনা কাপড় যাতে শক্তিশালী সুতা থাকে, যা ছিঁড়ে যাওয়া প্রতিরোধ করে।",
+    "category": "fabric",
+    "tags": ["woven", "durable", "protective"],
+    "related": ["ballistic nylon", "cordura", "kevlar"]
+  },
+  "microfiber": {
+    "english": "An extremely fine synthetic fiber used for cleaning cloths, apparel, and upholstery.",
+    "bangla": "মাইক্রোফাইবার - একটি অত্যন্ত সূক্ষ্ম কৃত্রিম তন্তু, যা পরিষ্কারের কাপড়, পোশাক এবং আসবাবপত্রে ব্যবহৃত হয়।",
+    "category": "synthetic",
+    "tags": ["fiber", "synthetic", "fine"],
+    "related": ["polyester", "nylon", "ultrasuede"]
+  },
+  "ultrasuede": {
+    "english": "A soft, microfiber fabric that resembles suede leather, used in fashion and interiors.",
+    "bangla": "আল্ট্রাসুয়েড - একটি নরম মাইক্রোফাইবার কাপড়, যা সুয়েড চামড়ার মতো, ফ্যাশন ও অভ্যন্তর সাজসজ্জায় ব্যবহৃত হয়।",
+    "category": "synthetic",
+    "tags": ["fabric", "synthetic", "soft"],
+    "related": ["microfiber", "suede", "faux leather"]
+  },
+  "faux leather": {
+    "english": "A synthetic material made to look like leather, used in upholstery and accessories.",
+    "bangla": "ফক্স লেদার - একটি কৃত্রিম উপাদান যা চামড়ার মতো দেখতে তৈরি, আসবাবপত্র ও অ্যাক্সেসরিজে ব্যবহৃত হয়।",
+    "category": "synthetic",
+    "tags": ["leather", "synthetic", "upholstery"],
+    "related": ["leather", "ultrasuede", "pleather"]
+  },
+  "pleather": {
+    "english": "A colloquial term for plastic leather, a cheaper alternative to real leather.",
+    "bangla": "প্লেদার - প্লাস্টিক চামড়ার একটি প্রচলিত নাম, যা আসল চামড়ার সস্তা বিকল্প।",
+    "category": "synthetic",
+    "tags": ["leather", "synthetic", "affordable"],
+    "related": ["faux leather", "vinyl", "ultrasuede"]
+  },
+  "vinyl": {
+    "english": "A synthetic plastic polymer fabric often used for upholstery, raincoats, and flooring.",
+    "bangla": "ভিনাইল - একটি কৃত্রিম প্লাস্টিক পলিমার কাপড়, যা আসবাবপত্র, রেইনকোট এবং মেঝেতে ব্যবহৃত হয়।",
+    "category": "synthetic",
+    "tags": ["plastic", "synthetic", "durable"],
+    "related": ["pleather", "faux leather", "PVC"]
+  },
+  "PVC": {
+    "english": "Polyvinyl chloride, a versatile plastic polymer used in coated fabrics and waterproof clothing.",
+    "bangla": "পিভিসি - পলিভিনাইল ক্লোরাইড, একটি বহুমুখী প্লাস্টিক পলিমার যা প্রলেপযুক্ত কাপড় ও জলরোধী পোশাকে ব্যবহৃত হয়।",
+    "category": "synthetic",
+    "tags": ["plastic", "coated", "durable"],
+    "related": ["vinyl", "pleather", "faux leather"]
+  },
+  "gore-tex": {
+    "english": "A waterproof, breathable fabric membrane used in outdoor clothing and gear.",
+    "bangla": "গোর-টেক্স - একটি জলরোধী, বাতাস প্রবেশযোগ্য কাপড়ের স্তর, যা আউটডোর পোশাক ও সরঞ্জামে ব্যবহৃত হয়।",
+    "category": "technical",
+    "tags": ["waterproof", "breathable", "outdoor"],
+    "related": ["sympatex", "eVent", "membrane fabric"]
+  },
+  "sympatex": {
+    "english": "A waterproof, windproof, and breathable textile membrane similar to Gore-Tex.",
+    "bangla": "সিমপাটেক্স - একটি জলরোধী, বাতাস প্রতিরোধী ও শ্বাসযোগ্য কাপড়ের স্তর, যা গোর-টেক্সের মতো।",
+    "category": "technical",
+    "tags": ["waterproof", "breathable", "outdoor"],
+    "related": ["gore-tex", "eVent", "membrane fabric"]
+  },
+  "eVent": {
+    "english": "A waterproof and breathable fabric technology used in outdoor gear and apparel.",
+    "bangla": "ইভেন্ট - একটি জলরোধী ও শ্বাসযোগ্য কাপড় প্রযুক্তি, যা আউটডোর সরঞ্জাম ও পোশাকে ব্যবহৃত হয়।",
+    "category": "technical",
+    "tags": ["waterproof", "breathable", "outdoor"],
+    "related": ["gore-tex", "sympatex", "membrane fabric"]
+  },
+  "felted wool": {
+    "english": "Wool fabric that has been matted and pressed to create a dense, warm textile.",
+    "bangla": "ফেল্টেড উল - উল কাপড় যা গেঁথে চাপ দিয়ে ঘন ও উষ্ণ কাপড়ে পরিণত করা হয়েছে।",
+    "category": "fabric",
+    "tags": ["wool", "felted", "warm"],
+    "related": ["felt", "wool", "flannel"]
+  },
+  "bouclé": {
+    "english": "A fabric with looped yarns that create a textured, curly surface.",
+    "bangla": "বুকলে - একটি কাপড় যার সুতা লুপ আকারে থাকে, যা টেক্সচারড ও কার্লি পৃষ্ঠ তৈরি করে।",
+    "category": "fabric",
+    "tags": ["textured", "looped", "decorative"],
+    "related": ["tweed", "chenille", "loop pile"]
+  },
+  "chenille": {
+    "english": "A fabric with a fuzzy pile made from short lengths of yarn, soft and velvety.",
+    "bangla": "চেনিল - একটি কাপড় যার ছোট সুতা দিয়ে নরম ও মসৃণ পাইল তৈরি হয়।",
+    "category": "fabric",
+    "tags": ["soft", "pile", "velvety"],
+    "related": ["bouclé", "velvet", "terrycloth"]
+  },
+  "herringbone": {
+    "english": "A distinctive V-shaped weaving pattern often found in wool fabrics.",
+    "bangla": "হেরিংবোন - একটি স্বতন্ত্র ভি-আকৃতির বুনন নকশা, যা প্রায়শই উলের কাপড়ে দেখা যায়।",
+    "category": "weave",
+    "tags": ["patterned", "twill", "decorative"],
+    "related": ["twill", "chevron", "herringbone tweed"]
+  },
+  "chevron": {
+    "english": "A fabric pattern characterized by inverted V shapes, similar to herringbone.",
+    "bangla": "শেভরন - একটি কাপড়ের নকশা, যা উল্টো ভি আকৃতির এবং হেরিংবোনের মতো।",
+    "category": "weave",
+    "tags": ["patterned", "decorative", "twill"],
+    "related": ["herringbone", "twill", "herringbone tweed"]
+  },
+  "oxford weave": {
+    "english": "A basket weave structure used in cotton shirts, giving a slightly textured surface.",
+    "bangla": "অক্সফোর্ড বুনন - তুলার শার্টে ব্যবহৃত ঝুড়ি বুননের গঠন, যা খানিকটা টেক্সচারড পৃষ্ঠ প্রদান করে।",
+    "category": "weave",
+    "tags": ["cotton", "basket weave", "textured"],
+    "related": ["oxford", "poplin", "broadcloth"]
+  },
+  "basket weave": {
+    "english": "A weaving technique resembling a woven basket, creating a checkerboard-like texture.",
+    "bangla": "বাস্কেট বুনন - একটি বুনন কৌশল যা ঝুড়ি বুননের মতো দেখায়, চেকারবোর্ডের মতো টেক্সচার তৈরি করে।",
+    "category": "weave",
+    "tags": ["weave", "patterned", "textured"],
+    "related": ["oxford weave", "plain weave", "twill"]
+  },
+  "plain weave": {
+    "english": "The simplest weaving technique where warp and weft threads cross alternately.",
+    "bangla": "সাধারণ বুনন - সবচেয়ে সহজ বুনন কৌশল যেখানে ওয়ার্প এবং ওয়েফট সুতা ক্রমাগত ছেদ হয়।",
+    "category": "weave",
+    "tags": ["weave", "simple", "basic"],
+    "related": ["basket weave", "oxford weave", "twill"]
+  },
+  "sateen": {
+    "english": "A cotton fabric with a satin-like finish, smooth and lustrous on the front.",
+    "bangla": "সাটিন - একটি তুলার কাপড় যার সামনে সাটিনের মতো মসৃণ ও ঝলমলে পৃষ্ঠ থাকে।",
+    "category": "fabric",
+    "tags": ["cotton", "smooth", "lustrous"],
+    "related": ["satin", "poplin", "oxford"]
+  },
+  "tencel": {
+    "english": "A branded lyocell fiber, eco-friendly, soft, and highly absorbent.",
+    "bangla": "টেনসেল - একটি লায়োসেল ব্র্যান্ডেড তন্তু, পরিবেশবান্ধব, নরম ও উচ্চ শোষণক্ষমতা সম্পন্ন।",
+    "category": "semi-synthetic",
+    "tags": ["fiber", "eco-friendly", "soft"],
+    "related": ["lyocell", "modal", "viscose"]
+  },
+  "bemberg": {
+    "english": "A regenerated cellulose fiber, used mainly for lining fabrics in suits and jackets.",
+    "bangla": "বেমবার্গ - পুনর্জাত সেলুলোজ তন্তু, যা মূলত স্যুট ও জ্যাকেটের লাইনিং কাপড়ে ব্যবহৃত হয়।",
+    "category": "semi-synthetic",
+    "tags": ["fiber", "lining", "regenerated"],
+    "related": ["rayon", "viscose", "lyocell"]
+  },
+  "pongee silk": {
+    "english": "A lightweight, plain weave silk fabric with a slightly crisp texture.",
+    "bangla": "পঞ্জি রেশম - হালকা, সাধারণ বুননের রেশম কাপড়, যার টেক্সচার খানিকটা খসখসে।",
+    "category": "fabric",
+    "tags": ["silk", "lightweight", "plain weave"],
+    "related": ["taffeta", "organza", "chiffon"]
+  },
+  "foulard": {
+    "english": "A lightweight, soft silk or silk-blend fabric, often printed with small designs.",
+    "bangla": "ফুলার্ড - একটি হালকা, নরম রেশম বা রেশম-মিশ্রিত কাপড়, প্রায়শই ছোট নকশা দিয়ে ছাপা।",
+    "category": "fabric",
+    "tags": ["silk", "lightweight", "printed"],
+    "related": ["silk", "chiffon", "satin"]
+  },
+  "habutai": {
+    "english": "A smooth, lightweight silk fabric, commonly used for linings and kimonos.",
+    "bangla": "হাবুটাই - একটি মসৃণ, হালকা রেশম কাপড়, যা সাধারণত লাইনিং এবং কিমোনোতে ব্যবহৃত হয়।",
+    "category": "fabric",
+    "tags": ["silk", "smooth", "lightweight"],
+    "related": ["silk", "satin", "foulard"]
+  },
+  "shantung": {
+    "english": "A silk fabric with a slightly rough texture and irregular slubs, often used for dresses.",
+    "bangla": "শান্টং - একটি রেশম কাপড় যার টেক্সচার খানিকটা খসখসে এবং অসম সুতা থাকে, প্রায়শই পোশাকে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["silk", "textured", "slub"],
+    "related": ["tussar silk", "habutai", "shantung dupioni"]
+  },
+  "dupioni silk": {
+    "english": "A crisp, textured silk made from irregular silk fibers, with slubs creating natural patterns.",
+    "bangla": "ডুপিওনি রেশম - অসম রেশম তন্তু থেকে তৈরি খসখসে, টেক্সচারড কাপড়, যার সুতা প্রাকৃতিক নকশা তৈরি করে।",
+    "category": "fabric",
+    "tags": ["silk", "textured", "slub"],
+    "related": ["shantung", "taffeta", "satin"]
+  },
+  "chambray denim": {
+    "english": "A lightweight denim-like fabric woven with a colored warp and white weft.",
+    "bangla": "শ্যামব্রে ডেনিম - হালকা ডেনিম-সদৃশ কাপড়, যা রঙিন ওয়ার্প এবং সাদা ওয়েফট দিয়ে বোনা হয়।",
+    "category": "fabric",
+    "tags": ["cotton", "denim", "lightweight"],
+    "related": ["denim", "chambray", "oxford"]
+  },
+  "canvas duck": {
+    "english": "A heavy, tightly woven cotton fabric, similar to canvas, used for bags and tents.",
+    "bangla": "ক্যানভাস ডাক - একটি ভারী, শক্তভাবে বোনা তুলার কাপড়, ক্যানভাসের মতো, ব্যাগ ও তাঁবুতে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["cotton", "heavy", "durable"],
+    "related": ["canvas", "duck cloth", "denim"]
+  },
+  "fustian": {
+    "english": "A heavy, stout cotton fabric, historically made with a cotton warp and linen weft.",
+    "bangla": "ফাস্টিয়ান - একটি ভারী, শক্তিশালী তুলার কাপড়, ঐতিহাসিকভাবে তুলা ওয়ার্প এবং লিনেন ওয়েফট দিয়ে তৈরি।",
+    "category": "fabric",
+    "tags": ["cotton", "heavy", "durable"],
+    "related": ["denim", "canvas", "duck cloth"]
   }
-}
+  "felted wool": {
+    "english": "Wool fabric that has been matted and pressed to create a dense, warm textile.",
+    "bangla": "ফেল্টেড উল - উল কাপড় যা গেঁথে চাপ দিয়ে ঘন ও উষ্ণ কাপড়ে পরিণত করা হয়েছে।",
+    "category": "fabric",
+    "tags": ["wool", "felted", "warm"],
+    "related": ["felt", "wool", "flannel"]
+  },
+  "bouclé": {
+    "english": "A fabric with looped yarns that create a textured, curly surface.",
+    "bangla": "বুকলে - একটি কাপড় যার সুতা লুপ আকারে থাকে, যা টেক্সচারড ও কার্লি পৃষ্ঠ তৈরি করে।",
+    "category": "fabric",
+    "tags": ["textured", "looped", "decorative"],
+    "related": ["tweed", "chenille", "loop pile"]
+  },
+  "chenille": {
+    "english": "A fabric with a fuzzy pile made from short lengths of yarn, soft and velvety.",
+    "bangla": "চেনিল - একটি কাপড় যার ছোট সুতা দিয়ে নরম ও মসৃণ পাইল তৈরি হয়।",
+    "category": "fabric",
+    "tags": ["soft", "pile", "velvety"],
+    "related": ["bouclé", "velvet", "terrycloth"]
+  },
+  "herringbone": {
+    "english": "A distinctive V-shaped weaving pattern often found in wool fabrics.",
+    "bangla": "হেরিংবোন - একটি স্বতন্ত্র ভি-আকৃতির বুনন নকশা, যা প্রায়শই উলের কাপড়ে দেখা যায়।",
+    "category": "weave",
+    "tags": ["patterned", "twill", "decorative"],
+    "related": ["twill", "chevron", "herringbone tweed"]
+  },
+  "chevron": {
+    "english": "A fabric pattern characterized by inverted V shapes, similar to herringbone.",
+    "bangla": "শেভরন - একটি কাপড়ের নকশা, যা উল্টো ভি আকৃতির এবং হেরিংবোনের মতো।",
+    "category": "weave",
+    "tags": ["patterned", "decorative", "twill"],
+    "related": ["herringbone", "twill", "herringbone tweed"]
+  },
+  "oxford weave": {
+    "english": "A basket weave structure used in cotton shirts, giving a slightly textured surface.",
+    "bangla": "অক্সফোর্ড বুনন - তুলার শার্টে ব্যবহৃত ঝুড়ি বুননের গঠন, যা খানিকটা টেক্সচারড পৃষ্ঠ প্রদান করে।",
+    "category": "weave",
+    "tags": ["cotton", "basket weave", "textured"],
+    "related": ["oxford", "poplin", "broadcloth"]
+  },
+  "basket weave": {
+    "english": "A weaving technique resembling a woven basket, creating a checkerboard-like texture.",
+    "bangla": "বাস্কেট বুনন - একটি বুনন কৌশল যা ঝুড়ি বুননের মতো দেখায়, চেকারবোর্ডের মতো টেক্সচার তৈরি করে।",
+    "category": "weave",
+    "tags": ["weave", "patterned", "textured"],
+    "related": ["oxford weave", "plain weave", "twill"]
+  },
+  "plain weave": {
+    "english": "The simplest weaving technique where warp and weft threads cross alternately.",
+    "bangla": "সাধারণ বুনন - সবচেয়ে সহজ বুনন কৌশল যেখানে ওয়ার্প এবং ওয়েফট সুতা ক্রমাগত ছেদ হয়।",
+    "category": "weave",
+    "tags": ["weave", "simple", "basic"],
+    "related": ["basket weave", "oxford weave", "twill"]
+  },
+  "sateen": {
+    "english": "A cotton fabric with a satin-like finish, smooth and lustrous on the front.",
+    "bangla": "সাটিন - একটি তুলার কাপড় যার সামনে সাটিনের মতো মসৃণ ও ঝলমলে পৃষ্ঠ থাকে।",
+    "category": "fabric",
+    "tags": ["cotton", "smooth", "lustrous"],
+    "related": ["satin", "poplin", "oxford"]
+  },
+  "tencel": {
+    "english": "A branded lyocell fiber, eco-friendly, soft, and highly absorbent.",
+    "bangla": "টেনসেল - একটি লায়োসেল ব্র্যান্ডেড তন্তু, পরিবেশবান্ধব, নরম ও উচ্চ শোষণক্ষমতা সম্পন্ন।",
+    "category": "semi-synthetic",
+    "tags": ["fiber", "eco-friendly", "soft"],
+    "related": ["lyocell", "modal", "viscose"]
+  },
+  "bemberg": {
+    "english": "A regenerated cellulose fiber, used mainly for lining fabrics in suits and jackets.",
+    "bangla": "বেমবার্গ - পুনর্জাত সেলুলোজ তন্তু, যা মূলত স্যুট ও জ্যাকেটের লাইনিং কাপড়ে ব্যবহৃত হয়।",
+    "category": "semi-synthetic",
+    "tags": ["fiber", "lining", "regenerated"],
+    "related": ["rayon", "viscose", "lyocell"]
+  },
+  "pongee silk": {
+    "english": "A lightweight, plain weave silk fabric with a slightly crisp texture.",
+    "bangla": "পঞ্জি রেশম - হালকা, সাধারণ বুননের রেশম কাপড়, যার টেক্সচার খানিকটা খসখসে।",
+    "category": "fabric",
+    "tags": ["silk", "lightweight", "plain weave"],
+    "related": ["taffeta", "organza", "chiffon"]
+  },
+  "foulard": {
+    "english": "A lightweight, soft silk or silk-blend fabric, often printed with small designs.",
+    "bangla": "ফুলার্ড - একটি হালকা, নরম রেশম বা রেশম-মিশ্রিত কাপড়, প্রায়শই ছোট নকশা দিয়ে ছাপা।",
+    "category": "fabric",
+    "tags": ["silk", "lightweight", "printed"],
+    "related": ["silk", "chiffon", "satin"]
+  },
+  "habutai": {
+    "english": "A smooth, lightweight silk fabric, commonly used for linings and kimonos.",
+    "bangla": "হাবুটাই - একটি মসৃণ, হালকা রেশম কাপড়, যা সাধারণত লাইনিং এবং কিমোনোতে ব্যবহৃত হয়।",
+    "category": "fabric",
+    "tags": ["silk", "smooth", "lightweight"],
+    "related": ["silk", "satin", "foulard"]
+  },
+  "shantung": {
+    "english": "A silk fabric with a slightly rough texture and irregular slubs, often used for dresses.",
+    "bangla": "শান্টং - একটি রেশম কাপড় যার টেক্সচার খানিকটা খসখসে এবং অসম সুতা থাকে, প্রায়শই পোশাকে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["silk", "textured", "slub"],
+    "related": ["tussar silk", "habutai", "shantung dupioni"]
+  },
+  "dupioni silk": {
+    "english": "A crisp, textured silk made from irregular silk fibers, with slubs creating natural patterns.",
+    "bangla": "ডুপিওনি রেশম - অসম রেশম তন্তু থেকে তৈরি খসখসে, টেক্সচারড কাপড়, যার সুতা প্রাকৃতিক নকশা তৈরি করে।",
+    "category": "fabric",
+    "tags": ["silk", "textured", "slub"],
+    "related": ["shantung", "taffeta", "satin"]
+  },
+  "chambray denim": {
+    "english": "A lightweight denim-like fabric woven with a colored warp and white weft.",
+    "bangla": "শ্যামব্রে ডেনিম - হালকা ডেনিম-সদৃশ কাপড়, যা রঙিন ওয়ার্প এবং সাদা ওয়েফট দিয়ে বোনা হয়।",
+    "category": "fabric",
+    "tags": ["cotton", "denim", "lightweight"],
+    "related": ["denim", "chambray", "oxford"]
+  },
+  "canvas duck": {
+    "english": "A heavy, tightly woven cotton fabric, similar to canvas, used for bags and tents.",
+    "bangla": "ক্যানভাস ডাক - একটি ভারী, শক্তভাবে বোনা তুলার কাপড়, ক্যানভাসের মতো, ব্যাগ ও তাঁবুতে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["cotton", "heavy", "durable"],
+    "related": ["canvas", "duck cloth", "denim"]
+  },
+  "fustian": {
+    "english": "A heavy, stout cotton fabric, historically made with a cotton warp and linen weft.",
+    "bangla": "ফাস্টিয়ান - একটি ভারী, শক্তিশালী তুলার কাপড়, ঐতিহাসিকভাবে তুলা ওয়ার্প এবং লিনেন ওয়েফট দিয়ে তৈরি।",
+    "category": "fabric",
+    "tags": ["cotton", "heavy", "durable"],
+    "related": ["denim", "canvas", "duck cloth"]
+  },
+  "gabardine wool": {
+    "english": "A tightly woven wool fabric, durable, smooth, and often used for suits and coats.",
+    "bangla": "গ্যাবারডিন উল - টাইটলি বোনা উলের কাপড়, টেকসই, মসৃণ এবং প্রায়শই স্যুট ও কোটে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["wool", "twill", "durable"],
+    "related": ["gabardine", "serge", "tweed"]
+  },
+  "drill cotton": {
+    "english": "A strong cotton fabric with a twill weave, used for workwear and uniforms.",
+    "bangla": "ড্রিল তুলা - একটি শক্তিশালী তুলার কাপড়, টুইল বুননে তৈরি, কাজের পোশাক ও ইউনিফর্মে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["cotton", "twill", "durable"],
+    "related": ["drill", "gabardine", "canvas"]
+  },
+  "serge wool": {
+    "english": "A durable twill-woven wool fabric used for jackets, coats, and suits.",
+    "bangla": "সার্জ উল - একটি টেকসই টুইল বোনা উলের কাপড়, জ্যাকেট, কোট এবং স্যুটে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["wool", "twill", "durable"],
+    "related": ["serge", "gabardine", "tweed"]
+  },
+  "melton": {
+    "english": "A thick, tightly woven wool fabric with a smooth surface, often used for coats.",
+    "bangla": "মেলটন - একটি মোটা, টাইটলি বোনা উলের কাপড়, মসৃণ পৃষ্ঠ সহ, প্রায়শই কোটে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["wool", "dense", "warm"],
+    "related": ["tweed", "gabardine", "flannel"]
+  },
+  "tweed houndstooth": {
+    "english": "A patterned wool fabric with broken checks resembling a dog’s tooth.",
+    "bangla": "টুইড হাউন্ডস্টুথ - একটি নকশাযুক্ত উলের কাপড়, যা কুকুরের দাঁতের মতো ভাঙা চেক প্যাটার্ন তৈরি করে।",
+    "category": "fabric",
+    "tags": ["wool", "patterned", "twill"],
+    "related": ["tweed", "houndstooth", "chevron"]
+  },
+  "houndstooth": {
+    "english": "A duotone textile pattern characterized by broken checks, often in black and white.",
+    "bangla": "হাউন্ডস্টুথ - একটি দ্বরঙের কাপড়ের নকশা, ভাঙা চেকের আকারে, প্রায়শই কালো ও সাদা।",
+    "category": "weave",
+    "tags": ["patterned", "checkered", "decorative"],
+    "related": ["tweed houndstooth", "chevron", "houndstooth tweed"]
+  },
+  "donegal tweed": {
+    "english": "A handwoven tweed fabric with colored flecks, originating from County Donegal, Ireland.",
+    "bangla": "ডোনেগাল টুইড - একটি হস্তনির্মিত টুইড কাপড়, রঙিন ফ্লেকস সহ, আয়ারল্যান্ডের কাউন্টি ডোনেগাল থেকে উদ্ভূত।",
+    "category": "traditional",
+    "tags": ["wool", "handwoven", "patterned"],
+    "related": ["tweed", "harris tweed", "cheviot"]
+  },
+  "cheviot": {
+    "english": "A strong, durable wool fabric, often used for suits and jackets.",
+    "bangla": "চেভিয়ট - একটি শক্তিশালী, টেকসই উলের কাপড়, প্রায়শই স্যুট ও জ্যাকেটে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["wool", "durable", "twill"],
+    "related": ["tweed", "harris tweed", "donegal tweed"]
+  },
+  "boiled wool": {
+    "english": "A wool fabric that has been felted and shrunk to create a dense, warm material.",
+    "bangla": "বয়েলড উল - একটি উলের কাপড় যা ফেল্টেড এবং সঙ্কুচিত করা হয়েছে ঘন ও উষ্ণ কাপড় তৈরি করতে।",
+    "category": "fabric",
+    "tags": ["wool", "felted", "warm"],
+    "related": ["felted wool", "melton", "flannel"]
+  },
+  "polarfleece": {
+    "english": "A soft, insulating polyester fabric often used for jackets and outdoor clothing.",
+    "bangla": "পোলারফ্লিস - একটি নরম, উষ্ণতা প্রদানকারী পলিয়েস্টার কাপড়, প্রায়শই জ্যাকেট ও আউটডোর পোশাকে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["polyester", "warm", "soft"],
+    "related": ["fleece", "microfleece", "thermal fleece"]
+  },
+  "microfleece": {
+    "english": "A lightweight, soft fleece fabric providing warmth without bulk.",
+    "bangla": "মাইক্রোফ্লিস - একটি হালকা, নরম ফ্লিস কাপড়, যা অতিরিক্ত ভার ছাড়া উষ্ণতা প্রদান করে।",
+    "category": "fabric",
+    "tags": ["polyester", "lightweight", "warm"],
+    "related": ["polarfleece", "fleece", "thermal fleece"]
+  },
+  "thermal fleece": {
+    "english": "A fleece fabric designed for heat retention, often used in cold-weather garments.",
+    "bangla": "থার্মাল ফ্লিস - একটি ফ্লিস কাপড় যা তাপ ধারণের জন্য তৈরি, প্রায়শই ঠান্ডা আবহাওয়ার পোশাকে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["polyester", "warm", "insulating"],
+    "related": ["polarfleece", "microfleece", "fleece"]
+  },
+  "coir": {
+    "english": "A coarse fiber extracted from the husk of coconut, used in mats and brushes.",
+    "bangla": "কোইর - নারকেলের খোসা থেকে প্রাপ্ত মোটা তন্তু, যা ম্যাট ও ব্রাশে ব্যবহৃত হয়।",
+    "category": "natural",
+    "tags": ["fiber", "plant", "coarse"],
+    "related": ["jute", "hemp", "kenaf"]
+  },
+  "kenaf": {
+    "english": "A strong plant fiber used in ropes, mats, and as reinforcement in composites.",
+    "bangla": "কেনাফ - একটি শক্তিশালী উদ্ভিদ তন্তু, রশি, ম্যাট এবং কম্পোজিটে প্রয়োগে ব্যবহৃত।",
+    "category": "natural",
+    "tags": ["fiber", "plant", "durable"],
+    "related": ["jute", "hemp", "coir"]
+  },
+  "sisal": {
+    "english": "A stiff fiber derived from the leaves of the Agave plant, used in ropes and mats.",
+    "bangla": "সিসাল - আগাভ উদ্ভিদের পাতা থেকে প্রাপ্ত শক্ত তন্তু, যা রশি এবং ম্যাটে ব্যবহৃত।",
+    "category": "natural",
+    "tags": ["fiber", "plant", "coarse"],
+    "related": ["jute", "coir", "hemp"]
+  },
+  "kapok": {
+    "english": "A soft, fluffy fiber obtained from the seed pods of the kapok tree.",
+    "bangla": "কাপক - কাপক গাছের বীজের ফল থেকে প্রাপ্ত নরম, ফাঁপা তন্তু।",
+    "category": "natural",
+    "tags": ["fiber", "plant", "soft"],
+    "related": ["cotton", "silk", "wool"]
+  },
+  "cocoon silk": {
+    "english": "Silk obtained directly from silkworm cocoons, before reeling into threads.",
+    "bangla": "কোকুন রেশম - সরাসরি রেশমকীট কোকুন থেকে প্রাপ্ত রেশম, সুতা তৈরির আগে।",
+    "category": "natural",
+    "tags": ["fiber", "silk", "raw"],
+    "related": ["silk", "mulberry silk", "tussar silk"]
+  },
+  "ere silk": {
+    "english": "A variation of silk produced ethically without harming silkworms.",
+    "bangla": "এরে রেশম - একটি রেশমের ধরন যা রেশমকীটকে ক্ষতি না করে নৈতিকভাবে উৎপন্ন।",
+    "category": "natural",
+    "tags": ["fiber", "silk", "ethical"],
+    "related": ["eri silk", "tussar silk", "mulberry silk"]
+  },
+    "viscose linen": {
+    "english": "A semi-synthetic fabric combining linen's texture with viscose's softness.",
+    "bangla": "ভিসকোজ লিনেন - লিনেনের টেক্সচার এবং ভিসকোজের নরমতা মিলিত একটি আধা-কৃত্রিম কাপড়।",
+    "category": "semi-synthetic",
+    "tags": ["fiber", "soft", "breathable"],
+    "related": ["linen", "viscose", "rayon"]
+  },
+  "lycra blend": {
+    "english": "A stretchable fabric made by blending Lycra with cotton or synthetic fibers.",
+    "bangla": "লাইকরা ব্লেন্ড - লাইকরা ও তুলা বা কৃত্রিম তন্তু মিশিয়ে তৈরি প্রসারণযোগ্য কাপড়।",
+    "category": "synthetic",
+    "tags": ["stretch", "elastic", "blended"],
+    "related": ["spandex", "nylon", "polyester"]
+  },
+  "rayon chiffon": {
+    "english": "A lightweight, sheer fabric made from rayon fibers, soft and flowing.",
+    "bangla": "রেয়ন শিফন - রেয়ন তন্তু থেকে তৈরি হালকা, স্বচ্ছ কাপড়, নরম এবং ভাসমান।",
+    "category": "fabric",
+    "tags": ["lightweight", "sheer", "flowy"],
+    "related": ["chiffon", "georgette", "silk chiffon"]
+  },
+  "organza blend": {
+    "english": "A semi-sheer fabric made from silk and synthetic fibers, crisp and stiff.",
+    "bangla": "অর্গানজা ব্লেন্ড - রেশম এবং কৃত্রিম তন্তু দিয়ে তৈরি আধা-স্বচ্ছ, খসখসে ও শক্ত কাপড়।",
+    "category": "fabric",
+    "tags": ["sheer", "crisp", "stiff"],
+    "related": ["organza", "taffeta", "chiffon"]
+  },
+  "sateen": {
+    "english": "A smooth, lustrous fabric made with a satin weave, usually from cotton.",
+    "bangla": "সাটিন - একটি মসৃণ, ঝকঝকে কাপড় যা সাধারণত তুলা দিয়ে সাটিন বুননে তৈরি।",
+    "category": "fabric",
+    "tags": ["cotton", "smooth", "luster"],
+    "related": ["satin", "poplin", "taffeta"]
+  },
+  "matka silk": {
+    "english": "A handwoven silk fabric with a rough texture, originating from India.",
+    "bangla": "মাটকা রেশম - হস্তনির্মিত রেশম কাপড়, যা ভারত থেকে উদ্ভূত, খসখসে টেক্সচারযুক্ত।",
+    "category": "natural",
+    "tags": ["silk", "handwoven", "textured"],
+    "related": ["silk", "tussar silk", "mulberry silk"]
+  },
+  "khadi": {
+    "english": "Handspun and handwoven cotton or silk fabric, traditional to India.",
+    "bangla": "খাদি - হস্তচালিত ও হস্তবোনা তুলা বা রেশম কাপড়, ভারতের ঐতিহ্যবাহী।",
+    "category": "traditional",
+    "tags": ["handwoven", "cotton", "silk"],
+    "related": ["muslin", "cotton", "khaddar"]
+  },
+  "khaddar": {
+    "english": "Coarse handwoven cotton fabric, often associated with Indian independence movement.",
+    "bangla": "খদ্দার - মোটা হস্তবোনা তুলা কাপড়, প্রায়ই ভারতের স্বাধীনতা আন্দোলনের সাথে যুক্ত।",
+    "category": "traditional",
+    "tags": ["handwoven", "cotton", "coarse"],
+    "related": ["khadi", "muslin", "cotton"]
+  },
+  "mul fabric": {
+    "english": "A soft, lightweight silk fabric, often used in sarees and dresses.",
+    "bangla": "মূল কাপড় - নরম, হালকা রেশম কাপড়, প্রায়শই শাড়ি ও পোশাকে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["silk", "lightweight", "soft"],
+    "related": ["silk", "matka silk", "tussar silk"]
+  },
+  "shantung": {
+    "english": "A silk fabric with a rough, textured surface, often used in formal wear.",
+    "bangla": "শ্যানটাং - একটি রেশম কাপড় যার পৃষ্ঠ খসখসে ও টেক্সচারযুক্ত, প্রায়শই ফরমাল পোশাকে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["silk", "textured", "formal"],
+    "related": ["silk", "dupioni", "raw silk"]
+  },
+  "dupioni": {
+    "english": "A crisp silk fabric with irregular slubs, used for formal dresses and sarees.",
+    "bangla": "ডুপিয়নি - খসখসে রেশম কাপড়, অনিয়মিত স্লাবসহ, ফরমাল ড্রেস ও শাড়িতে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["silk", "slub", "formal"],
+    "related": ["shantung", "silk", "taffeta"]
+  },
+  "raw silk": {
+    "english": "Unprocessed silk fabric with natural slubs and texture.",
+    "bangla": "র' সিল্ক - প্রক্রিয়াজাত না করা রেশম কাপড়, প্রাকৃতিক স্লাব ও টেক্সচার সহ।",
+    "category": "fabric",
+    "tags": ["silk", "natural", "textured"],
+    "related": ["dupioni", "shantung", "tussar silk"]
+  },
+  "pongee silk": {
+    "english": "A plain weave silk fabric, lightweight with slightly rough texture.",
+    "bangla": "পঞ্জি রেশম - সাধারণ বুননের রেশম কাপড়, হালকা এবং খানিকটা খসখসে।",
+    "category": "fabric",
+    "tags": ["silk", "plain weave", "lightweight"],
+    "related": ["shantung", "dupioni", "taffeta"]
+  },
+  "chambray silk": {
+    "english": "A lightweight silk fabric similar to chambray cotton, smooth and soft.",
+    "bangla": "শ্যামব্রে রেশম - হালকা রেশম কাপড়, যা চ্যামব্রে তুলার মতো, মসৃণ ও নরম।",
+    "category": "fabric",
+    "tags": ["silk", "lightweight", "smooth"],
+    "related": ["silk", "chambray", "taffeta"]
+  },
+  "silk blend": {
+    "english": "A fabric made by blending silk with cotton or synthetic fibers for texture and durability.",
+    "bangla": "সিল্ক ব্লেন্ড - রেশম ও তুলা বা কৃত্রিম তন্তু মিশিয়ে তৈরি কাপড়, টেক্সচার এবং টেকসইতার জন্য।",
+    "category": "fabric",
+    "tags": ["silk", "blended", "durable"],
+    "related": ["silk", "lyocell blend", "rayon blend"]
+  },
+  "cotton voile": {
+    "english": "A lightweight, sheer cotton fabric, soft and breathable, often used in curtains and dresses.",
+    "bangla": "কটন ভোয়েল - হালকা, স্বচ্ছ তুলার কাপড়, নরম ও শ্বাসপ্রশ্বাসযোগ্য, প্রায়শই পর্দা ও পোশাকে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["cotton", "lightweight", "sheer"],
+    "related": ["voile", "batiste", "lawn"]
+  },
+  "cotton muslin": {
+    "english": "A plain weave cotton fabric, lightweight, breathable, and soft.",
+    "bangla": "কটন মসলিন - সাধারণ বুননের তুলার কাপড়, হালকা, শ্বাসপ্রশ্বাসযোগ্য এবং নরম।",
+    "category": "fabric",
+    "tags": ["cotton", "plain weave", "soft"],
+    "related": ["muslin", "lawn", "batiste"]
+  },
+  "cotton lawn": {
+    "english": "A fine plain weave cotton fabric, smooth, lightweight, and soft.",
+    "bangla": "কটন লন - সূক্ষ্ম সাধারণ বুননের তুলার কাপড়, মসৃণ, হালকা এবং নরম।",
+    "category": "fabric",
+    "tags": ["cotton", "lightweight", "smooth"],
+    "related": ["lawn", "batiste", "voile"]
+  },
+  "cotton batiste": {
+    "english": "A fine, soft, lightweight cotton fabric, semi-sheer, often used for linings and dresses.",
+    "bangla": "কটন ব্যাটিস্ট - সূক্ষ্ম, নরম, হালকা তুলার কাপড়, আধা-স্বচ্ছ, প্রায়শই লাইনিং ও পোশাকে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["cotton", "soft", "lightweight"],
+    "related": ["batiste", "muslin", "voile"]
+  },
+    "double gauze": {
+    "english": "A soft, lightweight cotton fabric made of two layers of gauze stitched together.",
+    "bangla": "ডাবল গেজ - দুটি স্তরের গেজের কাপড় একত্র বোনা নরম, হালকা তুলার কাপড়।",
+    "category": "fabric",
+    "tags": ["cotton", "lightweight", "soft"],
+    "related": ["gauze", "muslin", "batiste"]
+  },
+  "gauze": {
+    "english": "A thin, translucent cotton or silk fabric, loosely woven and breathable.",
+    "bangla": "গেজ - পাতলা, স্বচ্ছ তুলা বা রেশম কাপড়, ঢিলা বোনা এবং শ্বাসপ্রশ্বাসযোগ্য।",
+    "category": "fabric",
+    "tags": ["lightweight", "sheer", "breathable"],
+    "related": ["double gauze", "muslin", "voile"]
+  },
+  "seersucker": {
+    "english": "A puckered cotton fabric, lightweight and airy, used for summer clothing.",
+    "bangla": "সিয়ার্সকার - গুটিকাপড়যুক্ত তুলার কাপড়, হালকা ও বাতাসপ্রবাহপূর্ণ, গ্রীষ্মের পোশাকে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["cotton", "lightweight", "textured"],
+    "related": ["gauze", "voile", "muslin"]
+  },
+  "chintz": {
+    "english": "A glazed cotton fabric with printed patterns, often floral.",
+    "bangla": "চিন্টজ - চকচকে তুলার কাপড়, প্রায়শই ফুলের নকশাযুক্ত।",
+    "category": "fabric",
+    "tags": ["cotton", "printed", "glossy"],
+    "related": ["calico", "madras", "batik"]
+  },
+  "calico": {
+    "english": "A plain-woven cotton fabric, usually printed with small patterns.",
+    "bangla": "ক্যালিকো - সাধারণ বুননের তুলার কাপড়, প্রায়শই ছোট নকশাযুক্ত।",
+    "category": "fabric",
+    "tags": ["cotton", "printed", "plain weave"],
+    "related": ["chintz", "madras", "muslin"]
+  },
+  "madras": {
+    "english": "A lightweight cotton fabric with colorful plaid patterns, originating from India.",
+    "bangla": "মাদ্রাস - হালকা তুলার কাপড়, রঙিন খ/checkered প্যাটার্ন, ভারত থেকে উদ্ভূত।",
+    "category": "fabric",
+    "tags": ["cotton", "lightweight", "plaid"],
+    "related": ["calico", "chintz", "gingham"]
+  },
+  "gingham": {
+    "english": "A lightweight, checkered cotton fabric, often used for shirts and dresses.",
+    "bangla": "গিঙহাম - হালকা, চেকের তুলার কাপড়, প্রায়শই শার্ট ও পোশাকে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["cotton", "checkered", "lightweight"],
+    "related": ["madras", "calico", "plaid"]
+  },
+  "plaid cotton": {
+    "english": "Cotton fabric with a tartan or checkered pattern, versatile for garments.",
+    "bangla": "প্লেড কটন - টার্টান বা চেকের নকশাযুক্ত তুলার কাপড়, পোশাকের জন্য বহুমুখী।",
+    "category": "fabric",
+    "tags": ["cotton", "checkered", "patterned"],
+    "related": ["gingham", "madras", "calico"]
+  },
+  "ikat cotton": {
+    "english": "Cotton fabric where yarns are tie-dyed before weaving, creating patterns.",
+    "bangla": "ইকাত কটন - বুননের আগে সুতা টাই-ডাই করা তুলার কাপড়, নকশা তৈরি করে।",
+    "category": "fabric",
+    "tags": ["cotton", "patterned", "tie-dye"],
+    "related": ["ikat", "tie-dye", "batik"]
+  },
+  "batik cotton": {
+    "english": "Cotton fabric dyed using wax-resist techniques to create intricate patterns.",
+    "bangla": "বাটিক কটন - কৃত্তিম মোম ব্যবহার করে রঙ করা তুলার কাপড়, জটিল নকশা তৈরি করে।",
+    "category": "fabric",
+    "tags": ["cotton", "patterned", "wax-resist"],
+    "related": ["batik", "tie-dye", "ikat"]
+  },
+  "tie-dye cotton": {
+    "english": "Cotton fabric tied and dyed in patterns for colorful designs.",
+    "bangla": "টাই-ডাই কটন - তুলার কাপড় বাঁধা এবং রঙ করা, রঙিন নকশা তৈরি করতে।",
+    "category": "fabric",
+    "tags": ["cotton", "patterned", "colorful"],
+    "related": ["tie-dye", "ikat", "batik"]
+  },
+  "sequin fabric": {
+    "english": "Fabric decorated with small shiny discs, used in evening wear.",
+    "bangla": "সিকুইন কাপড় - ছোট চকচকে ডিস্ক দিয়ে সজ্জিত কাপড়, প্রায়শই ইভিনিং পোশাকে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["decorative", "shiny", "partywear"],
+    "related": ["glitter fabric", "embellished fabric", "tulle"]
+  },
+  "glitter fabric": {
+    "english": "A fabric with glitter or sparkling effects, commonly used for festive clothing.",
+    "bangla": "গ্লিটার কাপড় - ঝকঝকে বা চকচকে প্রভাবযুক্ত কাপড়, প্রায়শই উত্সব পোশাকে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["decorative", "sparkly", "partywear"],
+    "related": ["sequin fabric", "embellished fabric", "tulle"]
+  },
+  "embellished fabric": {
+    "english": "Fabric decorated with embroidery, beads, sequins, or other adornments.",
+    "bangla": "সজ্জিত কাপড় - সেলাই, মণি, সিকুইন বা অন্যান্য অলঙ্করণের সাথে সজ্জিত কাপড়।",
+    "category": "fabric",
+    "tags": ["decorative", "fancy", "partywear"],
+    "related": ["sequin fabric", "glitter fabric", "tulle"]
+  },
+  "tulle": {
+    "english": "A lightweight, very fine net fabric often used for veils and tutus.",
+    "bangla": "টুল - হালকা, অত্যন্ত সূক্ষ্ম জাল কাপড়, প্রায়শই ভেইল ও টিউটুতে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["lightweight", "net", "decorative"],
+    "related": ["mesh fabric", "organza", "sequin fabric"]
+  },
+  "mesh fabric": {
+    "english": "Fabric with an open, net-like structure, used for sportswear and decorative items.",
+    "bangla": "মেশ কাপড় - খোলা, জালের মতো গঠনযুক্ত কাপড়, খেলাধুলার পোশাক এবং সজ্জার জন্য ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["net", "lightweight", "breathable"],
+    "related": ["tulle", "lace", "organza"]
+  },
+  "lace": {
+    "english": "Delicate openwork fabric made by looping, braiding, or twisting threads.",
+    "bangla": "লেইস - সূক্ষ্ম খোলা কাপড় যা সুতা লুপ, ব্ৰেড বা টুইস্ট করে তৈরি।",
+    "category": "fabric",
+    "tags": ["decorative", "openwork", "delicate"],
+    "related": ["mesh fabric", "tulle", "embroidered lace"]
+  },
+  "embroidered lace": {
+    "english": "Lace fabric enhanced with embroidery for added decoration and texture.",
+    "bangla": "সেলাই করা লেইস - সেলাই দ্বারা উন্নত লেইস কাপড়, আরও অলঙ্করণ ও টেক্সচার প্রদান করে।",
+    "category": "fabric",
+    "tags": ["decorative", "textured", "fancy"],
+    "related": ["lace", "mesh fabric", "tulle"]
+  },
+  "broderie anglaise": {
+    "english": "A fabric with eyelet embroidery, often cotton, used for summer dresses.",
+    "bangla": "ব্রডেরি আংলেজ - আইলেট সেলাইসহ কাপড়, প্রায়শই তুলা, গ্রীষ্মের পোশাকে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["cotton", "embroidered", "summer"],
+    "related": ["lace", "batiste", "muslin"]
+  },
+    "cretonne": {
+    "english": "A heavy cotton or linen fabric with printed floral patterns, used for upholstery.",
+    "bangla": "ক্রেটন - ভারী তুলা বা লিনেন কাপড়, ফুলের নকশাযুক্ত, আসবাবপত্রে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["cotton", "linen", "printed"],
+    "related": ["chintz", "calico", "madras"]
+  },
+  "damask silk": {
+    "english": "Silk fabric with reversible woven patterns, often floral or geometric.",
+    "bangla": "ডামাস্ক সিল্ক - উল্টানো যায় এমন জটিল নকশাযুক্ত রেশম কাপড়, প্রায়শই ফুল বা জ্যামিতিক।",
+    "category": "fabric",
+    "tags": ["silk", "patterned", "luxury"],
+    "related": ["brocade", "jacquard", "tapestry"]
+  },
+  "brocade silk": {
+    "english": "Luxurious silk fabric woven with elaborate patterns, often with metallic threads.",
+    "bangla": "ব্রোকেড সিল্ক - জটিল নকশাযুক্ত বিলাসবহুল রেশম কাপড়, প্রায়শই ধাতব সুতা ব্যবহার করে।",
+    "category": "fabric",
+    "tags": ["silk", "decorative", "luxury"],
+    "related": ["damask silk", "jacquard", "tapestry"]
+  },
+  "taffeta silk": {
+    "english": "A crisp silk fabric with a smooth surface, used for evening gowns.",
+    "bangla": "ট্যাফেটা সিল্ক - খসখসে মসৃণ রেশম কাপড়, ইভিনিং গাউনে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["silk", "smooth", "luxury"],
+    "related": ["satin", "organza", "taffeta"]
+  },
+  "satin silk": {
+    "english": "Silk fabric with a glossy front and dull back, luxurious and smooth.",
+    "bangla": "সাটিন সিল্ক - সামনে চকচকে, পেছনে নিস্তেজ রেশম কাপড়, বিলাসবহুল ও মসৃণ।",
+    "category": "fabric",
+    "tags": ["silk", "glossy", "luxury"],
+    "related": ["taffeta silk", "charmeuse", "brocade silk"]
+  },
+  "charmeuse silk": {
+    "english": "A lightweight silk with satin weave, glossy front, soft drape, and lustrous.",
+    "bangla": "চারমিউজ সিল্ক - হালকা রেশম, সাটিন বুননের, সামনে চকচকে, নরম ও উজ্জ্বল।",
+    "category": "fabric",
+    "tags": ["silk", "lightweight", "glossy"],
+    "related": ["satin silk", "taffeta silk", "organza silk"]
+  },
+  "organza silk": {
+    "english": "A thin, sheer silk fabric with a stiff texture, used in overlays and gowns.",
+    "bangla": "অর্গানজা সিল্ক - পাতলা, স্বচ্ছ রেশম কাপড়, কঠিন টেক্সচার, ওভারলে এবং গাউনে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["silk", "sheer", "stiff"],
+    "related": ["taffeta silk", "tulle", "charmeuse silk"]
+  },
+  "pongee silk": {
+    "english": "Lightweight plain weave silk fabric with slightly rough texture.",
+    "bangla": "পঞ্জি সিল্ক - হালকা সাধারণ বুননের রেশম কাপড়, খানিকটা খসখসে টেক্সচার।",
+    "category": "fabric",
+    "tags": ["silk", "lightweight", "plain weave"],
+    "related": ["taffeta silk", "organza silk", "charmeuse silk"]
+  },
+  "crepe silk": {
+    "english": "Silk fabric with crinkled texture, drapes well, used for dresses.",
+    "bangla": "ক্রেপ সিল্ক - কুঁচকানো টেক্সচারের রেশম কাপড়, সুন্দরভাবে ঝরে পড়ে, পোশাকে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["silk", "textured", "drapable"],
+    "related": ["georgette", "chiffon", "tussar silk"]
+  },
+  "habutai silk": {
+    "english": "A lightweight, plain weave silk, smooth and shiny, used for linings.",
+    "bangla": "হাবুতাই সিল্ক - হালকা সাধারণ বুননের রেশম, মসৃণ ও চকচকে, লাইনের জন্য ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["silk", "lightweight", "smooth"],
+    "related": ["charmeuse silk", "taffeta silk", "organza silk"]
+  },
+  "dupioni silk": {
+    "english": "Silk with irregular slubs giving a textured look, used in formal wear.",
+    "bangla": "ডুপিয়নি সিল্ক - অনিয়মিত স্লাবসহ রেশম, টেক্সচারযুক্ত চেহারা, আনুষ্ঠানিক পোশাকে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["silk", "textured", "formal"],
+    "related": ["taffeta silk", "satin silk", "brocade silk"]
+  },
+  "pongee cotton": {
+    "english": "Lightweight plain weave cotton fabric, smooth with slight texture.",
+    "bangla": "পঞ্জি কটন - হালকা সাধারণ বুননের তুলার কাপড়, মসৃণ এবং সামান্য টেক্সচারযুক্ত।",
+    "category": "fabric",
+    "tags": ["cotton", "lightweight", "plain weave"],
+    "related": ["muslin", "batiste", "voile"]
+  },
+  "chambray silk": {
+    "english": "Lightweight silk fabric with plain weave, soft and breathable.",
+    "bangla": "শ্যামব্রে সিল্ক - হালকা সাধারণ বুননের রেশম কাপড়, নরম এবং শ্বাসপ্রশ্বাসযোগ্য।",
+    "category": "fabric",
+    "tags": ["silk", "lightweight", "soft"],
+    "related": ["batiste", "voile", "muslin"]
+  },
+  "flannelette": {
+    "english": "A soft cotton fabric, napped on one or both sides, used for warm clothing.",
+    "bangla": "ফ্ল্যানেলেট - নরম তুলার কাপড়, এক বা উভয় দিকে ন্যাপ করা, উষ্ণ পোশাকে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["cotton", "soft", "warm"],
+    "related": ["flannel", "brushed cotton", "fleece"]
+  },
+  "brushed cotton": {
+    "english": "Cotton fabric brushed to raise fibers for softness and warmth.",
+    "bangla": "ব্রাশড কটন - তুলার কাপড়, নরম ও উষ্ণতার জন্য ফাইবার উত্থাপিত।",
+    "category": "fabric",
+    "tags": ["cotton", "soft", "warm"],
+    "related": ["flannel", "flannelette", "fleece"]
+  },
+  "oilcloth": {
+    "english": "Cotton fabric treated with oil or PVC for water resistance, used in table covers.",
+    "bangla": "অয়েলক্লথ - তুলার কাপড়, তেল বা পিভিসি দিয়ে জলরোধী করা, টেবিল কভারতে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["cotton", "water-resistant", "durable"],
+    "related": ["waxed cotton", "canvas", "duck cloth"]
+  },
+  "waxed cotton": {
+    "english": "Cotton fabric coated with wax for waterproofing, used in jackets and outdoor wear.",
+    "bangla": "ওয়াক্সড কটন - তুলার কাপড়ে মোম প্রলেপ, জলরোধী, জ্যাকেট ও আউটডোর পোশাকে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["cotton", "waterproof", "durable"],
+    "related": ["oilcloth", "canvas", "duck cloth"]
+  },
+  "ripstop": {
+    "english": "A lightweight, woven fabric with reinforcement threads to prevent tearing.",
+    "bangla": "রিপস্টপ - হালকা বোনা কাপড়, ছিঁড়া প্রতিরোধ করার জন্য শক্ত সুতা ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["lightweight", "durable", "reinforced"],
+    "related": ["nylon", "polyester", "canvas"]
+  },
+  "oxford silk": {
+    "english": "Silk fabric with a basket weave pattern, smooth and lustrous.",
+    "bangla": "অক্সফোর্ড সিল্ক - ঝুড়ি বুননের রেশম কাপড়, মসৃণ এবং উজ্জ্বল।",
+    "category": "fabric",
+    "tags": ["silk", "basket weave", "luxury"],
+    "related": ["poplin silk", "broadcloth silk", "chambray silk"]
+  },
+    "poplin silk": {
+    "english": "Silk fabric with fine crosswise ribs, strong yet smooth, used for shirts and dresses.",
+    "bangla": "পপলিন সিল্ক - সূক্ষ্ম আড়াআড়ি রেখাযুক্ত রেশম কাপড়, শক্তিশালী কিন্তু মসৃণ, শার্ট ও পোশাকে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["silk", "ribbed", "smooth"],
+    "related": ["oxford silk", "broadcloth silk", "chambray silk"]
+  },
+  "broadcloth silk": {
+    "english": "Dense plain weave silk fabric, smooth, used for formal garments.",
+    "bangla": "ব্রডক্লথ সিল্ক - ঘন সাধারণ বুননের রেশম কাপড়, মসৃণ, আনুষ্ঠানিক পোশাকে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["silk", "dense", "formal"],
+    "related": ["poplin silk", "oxford silk", "taffeta silk"]
+  },
+  "slub silk": {
+    "english": "Silk fabric with intentional thick and thin yarns, creating textured effect.",
+    "bangla": "স্লাব সিল্ক - উদ্দেশ্যমূলকভাবে ঘন ও পাতলা সুতা ব্যবহার করে তৈরি রেশম কাপড়, টেক্সচারযুক্ত।",
+    "category": "fabric",
+    "tags": ["silk", "textured", "decorative"],
+    "related": ["dupioni silk", "tussar silk", "crepe silk"]
+  },
+  "pongee polyester": {
+    "english": "Lightweight plain weave polyester fabric, smooth surface, durable and wrinkle-resistant.",
+    "bangla": "পঞ্জি পলিয়েস্টার - হালকা সাধারণ বুননের পলিয়েস্টার কাপড়, মসৃণ পৃষ্ঠ, টেকসই এবং বলিরেখা প্রতিরোধী।",
+    "category": "fabric",
+    "tags": ["polyester", "lightweight", "plain weave"],
+    "related": ["nylon", "taffeta polyester", "chiffon polyester"]
+  },
+  "taffeta polyester": {
+    "english": "Crisp polyester fabric with smooth surface, often used in linings and evening wear.",
+    "bangla": "ট্যাফেটা পলিয়েস্টার - খসখসে পলিয়েস্টার কাপড়, মসৃণ পৃষ্ঠ, লাইনের এবং ইভিনিং পোশাকে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["polyester", "crisp", "smooth"],
+    "related": ["taffeta silk", "pongee polyester", "satin polyester"]
+  },
+  "satin polyester": {
+    "english": "Polyester fabric with glossy front and dull back, smooth and luxurious appearance.",
+    "bangla": "সাটিন পলিয়েস্টার - সামনে চকচকে, পেছনে নিস্তেজ পলিয়েস্টার কাপড়, মসৃণ এবং বিলাসবহুল চেহারা।",
+    "category": "fabric",
+    "tags": ["polyester", "glossy", "luxury"],
+    "related": ["satin silk", "taffeta polyester", "charmeuse polyester"]
+  },
+  "charmeuse polyester": {
+    "english": "Lightweight polyester fabric with satin weave, glossy front, soft drape.",
+    "bangla": "চারমিউজ পলিয়েস্টার - হালকা পলিয়েস্টার কাপড়, সাটিন বুননের, সামনে চকচকে, নরম ঝরে পড়ে।",
+    "category": "fabric",
+    "tags": ["polyester", "lightweight", "glossy"],
+    "related": ["satin polyester", "taffeta polyester", "organza polyester"]
+  },
+  "organza polyester": {
+    "english": "Thin, sheer polyester fabric with stiff texture, used in overlays and formal wear.",
+    "bangla": "অর্গানজা পলিয়েস্টার - পাতলা, স্বচ্ছ পলিয়েস্টার কাপড়, কঠিন টেক্সচার, ওভারলে এবং আনুষ্ঠানিক পোশাকে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["polyester", "sheer", "stiff"],
+    "related": ["taffeta polyester", "chiffon polyester", "charmeuse polyester"]
+  },
+  "chiffon polyester": {
+    "english": "Lightweight, sheer polyester fabric with soft drape, commonly used for dresses.",
+    "bangla": "শিফন পলিয়েস্টার - হালকা, স্বচ্ছ পলিয়েস্টার কাপড়, নরম ঝরে পড়ে, সাধারণত পোশাকে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["polyester", "lightweight", "sheer"],
+    "related": ["georgette polyester", "organza polyester", "taffeta polyester"]
+  },
+  "georgette polyester": {
+    "english": "Lightweight, crinkled polyester fabric, semi-sheer, used for flowing garments.",
+    "bangla": "জর্জেট পলিয়েস্টার - হালকা, কুঁচকানো পলিয়েস্টার কাপড়, আধা স্বচ্ছ, ঝুলন্ত পোশাকে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["polyester", "crinkled", "lightweight"],
+    "related": ["chiffon polyester", "crepe polyester", "organza polyester"]
+  },
+  "crepe polyester": {
+    "english": "Textured polyester fabric with crinkled surface, drapes well, used in dresses.",
+    "bangla": "ক্রেপ পলিয়েস্টার - টেক্সচারযুক্ত পলিয়েস্টার কাপড়, কুঁচকানো পৃষ্ঠ, সুন্দরভাবে ঝরে পড়ে, পোশাকে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["polyester", "textured", "drapable"],
+    "related": ["georgette polyester", "chiffon polyester", "crepe silk"]
+  },
+  "habutai polyester": {
+    "english": "Smooth, lightweight polyester fabric, plain weave, used for linings and blouses.",
+    "bangla": "হাবুতাই পলিয়েস্টার - মসৃণ, হালকা পলিয়েস্টার কাপড়, সাধারণ বুননের, লাইনের এবং ব্লাউজে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["polyester", "lightweight", "smooth"],
+    "related": ["taffeta polyester", "charmeuse polyester", "satin polyester"]
+  },
+  "dupioni polyester": {
+    "english": "Polyester fabric with irregular slubs creating textured, formal look.",
+    "bangla": "ডুপিয়নি পলিয়েস্টার - অনিয়মিত স্লাবসহ পলিয়েস্টার কাপড়, টেক্সচারযুক্ত, আনুষ্ঠানিক চেহারা।",
+    "category": "fabric",
+    "tags": ["polyester", "textured", "formal"],
+    "related": ["taffeta polyester", "satin polyester", "charmeuse polyester"]
+  },
+  "matka silk": {
+    "english": "Silk fabric made from handspun yarns, irregular texture, soft yet durable.",
+    "bangla": "মাটকা সিল্ক - হস্তচালিত সুতা থেকে তৈরি রেশম কাপড়, অনিয়মিত টেক্সচার, নরম কিন্তু টেকসই।",
+    "category": "fabric",
+    "tags": ["silk", "handspun", "textured"],
+    "related": ["slub silk", "tussar silk", "dupioni silk"]
+  },
+  "pongee taffeta": {
+    "english": "Lightweight, plain weave fabric with slightly crisp texture, used in linings.",
+    "bangla": "পঞ্জি ট্যাফেটা - হালকা সাধারণ বুননের কাপড়, সামান্য খসখসে টেক্সচার, লাইনে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["lightweight", "plain weave", "crisp"],
+    "related": ["taffeta silk", "taffeta polyester", "pongee silk"]
+  },
+  "grosgrain": {
+    "english": "A ribbed fabric, often silk or polyester, used for ribbons and trims.",
+    "bangla": "গ্রোসগ্রেইন - রিবযুক্ত কাপড়, প্রায়শই রেশম বা পলিয়েস্টার, রিবন এবং ট্রিমে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["ribbon", "ribbed", "decorative"],
+    "related": ["satin ribbon", "taffeta ribbon", "velvet ribbon"]
+  },
+  "shantung silk": {
+    "english": "Silk fabric with slubbed texture, crisp and elegant, used in formal attire.",
+    "bangla": "শ্যানটাং সিল্ক - স্লাবযুক্ত রেশম কাপড়, খসখসে এবং শালীন, আনুষ্ঠানিক পোশাকে ব্যবহৃত।",
+    "category": "fabric",
+    "tags": ["silk", "textured", "formal"],
+    "related": ["dupioni silk", "slub silk", "tussar silk"]
+  },
+  "pongee taffeta silk": {
+    "english": "Combination fabric: lightweight, slightly crisp, plain weave silk.",
+    "bangla": "পঞ্জি ট্যাফেটা সিল্ক - সংযুক্ত কাপড়: হালকা, সামান্য খসখসে, সাধারণ বুননের রেশম।",
+    "category": "fabric",
+    "tags": ["silk", "lightweight", "crisp"],
+    "related": ["taffeta silk", "pongee silk", "dupioni silk"]
+  },
+
+
+
+
+
+
+
