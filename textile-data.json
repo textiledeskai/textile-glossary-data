@@ -1,296 +1,65 @@
 {
-"cotton\_fiber": {
-"definitions": {
-"english": "Cotton fiber is a natural cellulosic textile fiber derived from the seed hairs of plants in the genus Gossypium. It is composed primarily of cellulose and is characterized by good moisture absorption, breathability, softness, and moderate strength. Cotton can be carded, combed, and spun into yarn, then woven or knitted into a wide variety of fabrics. Its chemical reactivity allows diverse dyeing and finishing processes, and it is biodegradable under suitable conditions.",
-"bangla": "তুলা হলো Gossypium প্রজাতির গাছের বীজের লোম থেকে প্রাপ্ত একটি প্রাকৃতিক সেলুলোজ-ভিত্তিক তন্তু।"
-},
-"category": "raw\_materials",
-"subcategory": "natural\_fibers",
-"tags": \["fiber", "plant", "cellulosic", "natural", "breathable"],
-"relationships": {
-"related": \["linen\_fiber", "hemp\_fiber", "pima\_cotton", "organic\_cotton"],
-"synonyms": \["cotton", "gossypium\_fiber"],
-"children": \["organic\_cotton", "egyptian\_cotton", "pima\_cotton"],
-"parent": "plant\_fibers"
-},
-"metadata": {
-"difficulty": "basic",
-"frequency": "high",
-"last\_updated": "2025-09-11",
-"source": "textile\_handbook\_2024"
-}
-},
-"polyester": {
-"definitions": {
-"english": "Polyester is a category of synthetic polymers predominantly represented in textiles by polyethylene terephthalate (PET). Polyester fibers are thermoplastic, produced by extrusion and drawing, and exhibit high tensile strength, low moisture regain, quick-drying behavior, and excellent dimensional stability. They are widely used in apparel, home textiles, and technical textiles, often blended with natural fibers to improve durability and wrinkle resistance. Polyester accepts many surface finishes but requires specific dyeing chemistries like disperse dyes for coloration.",
-"bangla": "পলিয়েস্টার হলো সিন্থেটিক পলিমারের একটি শ্রেণী, সাধারণত পোশাক ও গৃহস্থালী টেক্সটাইলসেই ব্যবহৃত হয়।"
-},
-"category": "raw\_materials",
-"subcategory": "synthetic\_fibers",
-"tags": \["synthetic", "polymer", "durable", "low\_moisture"],
-"relationships": {
-"related": \["nylon", "acrylic", "polypropylene"],
-"synonyms": \["pet\_fiber", "polyethylene\_terephthalate"],
-"children": \["texturized\_polyester", "microfiber\_polyester"],
-"parent": "manmade\_fibers"
-},
-"metadata": {
-"difficulty": "basic",
-"frequency": "high",
-"last\_updated": "2025-09-11",
-"source": "textile\_handbook\_2024"
-}
-},
-"wool": {
-"definitions": {
-"english": "Wool is a protein-based natural fiber primarily obtained from sheep fleece but also from animals like goats (cashmere), alpacas, and rabbits (angora). Wool fibers have a scaly surface structure, crimp, and inherent elasticity, providing excellent thermal insulation, moisture-wicking, and resilience. They are chemically amino-acidic in nature, respond to specialized dyeing and finishing processes, and require controlled laundering to prevent felting. Wool is used for apparel, technical insulation, felts, and high-value knitted goods.",
-"bangla": "উন হলো প্রধানত ভেড়ার লোম থেকে প্রাপ্ত একটি প্রোটিনভিত্তিক প্রাকৃতিক তন্তু যা উষ্ণতা ও ঝুঁকিপূর্ণতা প্রদান করে।"
-},
-"category": "raw\_materials",
-"subcategory": "animal\_fibers",
-"tags": \["protein", "natural", "insulating", "elastic"],
-"relationships": {
-"related": \["cashmere", "angora", "alpaca"],
-"synonyms": \["sheep\_wool"],
-"children": \["merino\_wool", "lambswool"],
-"parent": "animal\_fibers"
-},
-"metadata": {
-"difficulty": "basic",
-"frequency": "medium",
-"last\_updated": "2025-09-11",
-"source": "textile\_handbook\_2024"
-}
-},
-"plain\_weave": {
-"definitions": {
-"english": "Plain weave is the simplest and most fundamental textile weave structure in which each weft yarn crosses alternately over and under each warp yarn, producing a balanced, tight fabric structure. It is used for a wide range of fabrics from lightweight sheeting to heavy canvas and provides good dimensional stability, low elasticity, and uniform appearance. Plain weave accepts many finishes and prints but has limited drape compared to more complex weaves such as twill or satin.",
-"bangla": "প্লেইন উইভ হলো সবচেয়ে সহজ বুননের প্যাটার্ন যেখানে প্রতিটি উইফ থ্রেড ক্রস করে ওভার-অ্যান্ড-আন্ডার ধাঁচে ওয়ার্প থ্রেডের সঙ্গে গঠিত হয়।"
-},
-"category": "fabrics",
-"subcategory": "weave\_structures",
-"tags": \["weave\_pattern", "balanced", "stable", "versatile"],
-"relationships": {
-"related": \["twill\_weave", "satin\_weave", "basket\_weave"],
-"synonyms": \["tabby\_weave", "plain\_weaving"],
-"children": \["balanced\_plain", "rib\_plain"],
-"parent": "weave\_patterns"
-},
-"metadata": {
-"difficulty": "basic",
-"frequency": "high",
-"last\_updated": "2025-09-11",
-"source": "textile\_handbook\_2024"
-}
-},
-"twill\_weave": {
-"definitions": {
-"english": "Twill weave is a textile weave characterized by a diagonal rib or wale formed by a systematic offset of interlacings, such that warp or weft yarns float over two or more yarns before interlacing. This structure yields fabrics with improved drape, abrasion resistance, and ability to hide soil and stains; classic examples include denim and gabardine. Twill variants (warp-faced, weft-faced, herringbone) modify face appearance and performance for tailored applications in apparel and industrial textiles.",
-"bangla": "টুইল উইভ হলো একটি বুনন প্যাটার্ন যা তির্যক রিব তৈরি করে এবং ডেনিম-জাতীয় কাপড়ে ব্যবহৃত হয়।"
-},
-"category": "fabrics",
-"subcategory": "weave\_structures",
-"tags": \["weave\_pattern", "diagonal", "durable", "denim"],
-"relationships": {
-"related": \["plain\_weave", "satin\_weave", "denim"],
-"synonyms": \["twill"],
-"children": \["warp\_faced\_twill", "weft\_faced\_twill", "herringbone\_twill"],
-"parent": "weave\_patterns"
-},
-"metadata": {
-"difficulty": "intermediate",
-"frequency": "high",
-"last\_updated": "2025-09-11",
-"source": "textile\_handbook\_2024"
-}
-},
-"ring\_spinning": {
-"definitions": {
-"english": "Ring spinning is a traditional and widely used yarn manufacturing process in which slivers are drafted, twisted, and wound onto bobbins using a rotating ring and traveler assembly. It produces high-quality, fine to medium count yarns with good strength, uniformity, and low hairiness, suitable for woven and knitted fabrics. Ring spinning is slower than some modern systems but offers superior yarn evenness and a broad range of yarn counts and twist levels for performance-critical textile products.",
-"bangla": ""
-},
-"category": "machinery",
-"subcategory": "spinning\_machinery",
-"tags": \["spinning", "yarn\_production", "ring\_frame", "quality"],
-"relationships": {
-"related": \["open\_end\_spinning", "combing", "carding"],
-"synonyms": \["ring\_frame\_spinning"],
-"children": \["high\_speed\_ring", "conventional\_ring"],
-"parent": "spinning\_processes"
-},
-"metadata": {
-"difficulty": "intermediate",
-"frequency": "medium",
-"last\_updated": "2025-09-11",
-"source": "textile\_handbook\_2024"
-}
-},
-"open\_end\_spinning": {
-"definitions": {
-"english": "Open-end spinning, also called rotor spinning, is a high-speed yarn production method that fragments slivers into individual fibers and collects them on a rotor to form yarn without a spindle-based ring/traveler system. It is faster and more economical for coarse and medium yarn counts, producing yarns with lower twist and different surface characteristics compared to ring-spun yarns. Open-end yarns are widely used in denim, towels, and mass-market knitwear where production efficiency and cost are priorities.",
-"bangla": ""
-},
-"category": "machinery",
-"subcategory": "spinning\_machinery",
-"tags": \["spinning", "rotor", "high\_speed", "economical"],
-"relationships": {
-"related": \["ring\_spinning", "carding", "draw\_frame"],
-"synonyms": \["rotor\_spinning"],
-"children": \["high\_output\_rotor", "hybrid\_rotor"],
-"parent": "spinning\_processes"
-},
-"metadata": {
-"difficulty": "intermediate",
-"frequency": "medium",
-"last\_updated": "2025-09-11",
-"source": "textile\_handbook\_2024"
-}
-},
-"mercerization": {
-"definitions": {
-"english": "Mercerization is a chemical treatment applied to cellulosic fibers or fabrics, typically cotton, involving concentrated sodium hydroxide under controlled tension, followed by neutralization. The process alters the fiber morphology, increasing luster, tensile strength, dimensional stability, and dye uptake by converting cellulose to a more reactive form and improving fiber alignment. Mercerization is used in high-quality apparel and home textiles to enhance appearance and performance, but it requires careful process control to avoid fiber damage.",
-"bangla": "মারসারাইজেশন হলো সেলুলোজ-ভিত্তিক তন্তুতে সোডিয়াম হাইড্রোক্সাইড ব্যবহার করে করা একটি রাসায়নিক প্রক্রিয়া যা উজ্জ্বলতা ও রং ধরে রাখতে সাহায্য করে।"
-},
-"category": "processes",
-"subcategory": "chemical\_treatments",
-"tags": \["chemical", "finish", "cellulosic", "strength"],
-"relationships": {
-"related": \["bleaching", "scouring", "dyeing"],
-"synonyms": \["mercerisation"],
-"children": \["stretch\_mercerization", "continuous\_mercerization"],
-"parent": "pretreatment\_processes"
-},
-"metadata": {
-"difficulty": "advanced",
-"frequency": "medium",
-"last\_updated": "2025-09-11",
-"source": "textile\_handbook\_2024"
-}
-},
-"dyeing": {
-"definitions": {
-"english": "Dyeing is the process of applying soluble colorants to textile fibers, yarns, or fabrics to achieve uniform or patterned coloration. It encompasses a range of methods (batch, continuous, padding, garment dyeing) and chemistries matched to substrate type, such as reactive dyes for cellulosics, disperse dyes for polyester, and acid dyes for protein fibers. Critical parameters include pH, temperature, liquor ratio, time, and auxiliaries; proper process selection ensures color fastness, penetration, levelness, and minimal environmental impact.",
-"bangla": "ডাইং হলো কাপড় বা তন্তুতে রঞ্জক প্রয়োগ করে রং দেওয়ার প্রক্রিয়া।"
-},
-"category": "processes",
-"subcategory": "coloration",
-"tags": \["chemical", "coloration", "fastness", "dye\_types"],
-"relationships": {
-"related": \["printing", "finishing", "bleaching"],
-"synonyms": \["coloration", "coloring"],
-"children": \["reactive\_dyeing", "disperse\_dyeing", "acid\_dyeing"],
-"parent": "fabric\_processing"
-},
-"metadata": {
-"difficulty": "intermediate",
-"frequency": "high",
-"last\_updated": "2025-09-11",
-"source": "textile\_handbook\_2024"
-}
-},
-"gsm": {
-"definitions": {
-"english": "GSM (grams per square meter) is a quantitative measure of fabric weight defined as the mass in grams of one square meter of fabric. It is a key specification used across the textile and apparel industry to communicate fabric density, handle, opacity, and suitability for end uses; higher GSM typically indicates heavier, more durable fabric while lower GSM indicates lighter, more breathable textiles. GSM is measured using standardized cutting and weighing procedures to ensure repeatability and quality control.",
-"bangla": ""
-},
-"category": "quality\_control",
-"subcategory": "testing\_parameters",
-"tags": \["measurement", "weight", "specification", "quality"],
-"relationships": {
-"related": \["tex", "denier", "tensile\_strength"],
-"synonyms": \["gsm\_value", "grams\_per\_square\_meter"],
-"children": \["gsm\_light", "gsm\_heavy"],
-"parent": "physical\_properties"
-},
-"metadata": {
-"difficulty": "basic",
-"frequency": "high",
-"last\_updated": "2025-09-11",
-"source": "textile\_handbook\_2024"
-}
-},
-"tensile\_strength": {
-"definitions": {
-"english": "Tensile strength in textiles refers to the maximum stress or force a fiber, yarn, or fabric can withstand while being stretched before breaking. It is a fundamental mechanical property measured in standardized tests (e.g., ASTM, ISO) and reported as force or stress units; results inform material selection, end-use suitability, and process control. Factors influencing tensile strength include fiber type, yarn twist, fabric construction, finishing processes, and environmental conditions such as moisture and temperature.",
-"bangla": "টেনসাইল স্ট্রেন্থ হলো টেক্সটাইল উপাদান টেনে ফেলা হলে সেটা ভাঙার আগে গ্রহণ করতে পারা সর্বোচ্চ বল বা চাপ।"
-},
-"category": "quality\_control",
-"subcategory": "mechanical\_testing",
-"tags": \["testing", "mechanical", "strength", "performance"],
-"relationships": {
-"related": \["elongation", "tear\_strength", "bursting\_strength"],
-"synonyms": \["breaking\_strength"],
-"children": \["peak\_tensile", "tensile\_modulus"],
-"parent": "mechanical\_properties"
-},
-"metadata": {
-"difficulty": "intermediate",
-"frequency": "high",
-"last\_updated": "2025-09-11",
-"source": "textile\_handbook\_2024"
-}
-},
-"water\_repellent\_finish": {
-"definitions": {
-"english": "A water-repellent finish is a surface treatment applied to textile substrates to reduce water penetration by increasing surface hydrophobicity without significantly impairing breathability. Treatments include fluorocarbon-based repellents, silicone finishes, and newer durable water-repellent (DWR) chemistries that form low-surface-energy coatings or micro-scale roughness. The finish is used in outerwear, technical fabrics, and upholstery to provide temporary resistance to wetting; performance depends on application method, fabric structure, and durability to laundering and abrasion.",
-"bangla": "ওয়াটার-রেপেলেন্ট ফিনিশ হলো এমন একটি সুরক্ষা স্তর যা কাপড়কে জল শোষণ কমাতে সাহায্য করে।"
-},
-"category": "finishes",
-"subcategory": "functional\_finishes",
-"tags": \["finish", "hydrophobic", "durable", "coating"],
-"relationships": {
-"related": \["waterproofing", "stain\_repellent", "breathability"],
-"synonyms": \["dwr", "water\_repellent\_coating"],
-"children": \["fluorocarbon\_dwr", "silicone\_repellent"],
-"parent": "surface\_treatments"
-},
-"metadata": {
-"difficulty": "advanced",
-"frequency": "medium",
-"last\_updated": "2025-09-11",
-"source": "textile\_handbook\_2024"
-}
-},
-"life\_cycle\_assessment": {
-"definitions": {
-"english": "Life Cycle Assessment (LCA) is a systematic methodology to quantify environmental impacts associated with all stages of a textile product's life — from raw material extraction, fiber and fabric production, dyeing and finishing, manufacturing, use, and end-of-life disposal or recycling. LCA evaluates metrics such as greenhouse gas emissions, water use, energy consumption, and toxicity potential, enabling designers and manufacturers to identify hotspots and make evidence-based decisions for sustainable material choices and process improvements.",
-"bangla": "লাইফ সাইকেল অ্যাসেসমেন্ট (এলসিএ) হলো একটি পদ্ধতি যা পণ্য জীবনের সমস্ত ধাপের পরিবেশগত প্রভাব পরিমাপ করে।"
-},
-"category": "sustainability",
-"subcategory": "environmental\_assessment",
-"tags": \["sustainability", "lca", "environment", "impact"],
-"relationships": {
-"related": \["recycled\_fibers", "water\_footprint", "carbon\_footprint"],
-"synonyms": \["life\_cycle\_analysis"],
-"children": \["cradle\_to\_gate", "cradle\_to\_grave", "gate\_to\_gate"],
-"parent": "environmental\_tools"
-},
-"metadata": {
-"difficulty": "advanced",
-"frequency": "medium",
-"last\_updated": "2025-09-11",
-"source": "textile\_handbook\_2024"
-}
-},
-"fabric\_handloom\_weaving": {
-"definitions": {
-"english": "Handloom weaving refers to fabric production using manually operated looms in which warp and weft interlacings are controlled by human operators rather than automated machinery. Handloom fabrics often exhibit cultural value, artisanal variations, and distinctive textures produced by manual tension control, shuttle use, and local techniques. While lower in output rate compared to power looms, handloom weaving is important for specialty textiles, traditional garments, and sustainable craft economies, often commanding premium pricing for uniqueness and heritage.",
-"bangla": "হ্যান্ডলুম বোনা হলো মানুষের পরিচালিত লুম ব্যবহার করে তৈরি করা ঐতিহ্যবাহী কাপড়।"
-},
-"category": "business",
-"subcategory": "production\_methods",
-"tags": \["handmade", "artisan", "weaving", "heritage"],
-"relationships": {
-"related": \["powerloom\_weaving", "jacquard\_weaving", "khadi"],
-"synonyms": \["hand\_weaving"],
-"children": \["traditional\_handloom", "pit\_looms"],
-"parent": "manufacturing\_methods"
-},
-"metadata": {
-"difficulty": "basic",
-"frequency": "low",
-"last\_updated": "2025-09-11",
-"source": "textile\_handbook\_2024"
-}
-}
+  "rice": {
+    "definitions": {
+      "english": "Rice is a cereal grain, primarily Oryza sativa, widely consumed as a staple food worldwide for its carbohydrate-rich composition, easy digestibility, and diverse culinary applications.",
+      "bangla": "চাল একটি শস্য যা প্রধান খাদ্য হিসাবে সারা বিশ্বে খাওয়া হয়।"
+    },
+    "category": "raw_materials",
+    "subcategory": "cereal_grains",
+    "tags": ["grain", "staple", "carbohydrate", "cereal", "food"],
+    "relationships": {
+      "related": ["wheat", "maize", "barley"],
+      "synonyms": ["oryza_sativa"],
+      "children": ["brown_rice", "white_rice"],
+      "parent": "cereal_grains"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "food_handbook_2024"
+    }
+  },
+  "pasteurization": {
+    "definitions": {
+      "english": "Pasteurization is a thermal food preservation process where liquids such as milk or juice are heated to specific temperatures to kill harmful microorganisms while maintaining product quality.",
+      "bangla": "পাস্তুরাইজেশন হলো একটি খাদ্য সংরক্ষণ প্রক্রিয়া যেখানে তরল উত্তপ্ত করে জীবাণু ধ্বংস করা হয়।"
+    },
+    "category": "preservation",
+    "subcategory": "thermal_processing",
+    "tags": ["heat", "preservation", "milk", "juice", "safety"],
+    "relationships": {
+      "related": ["sterilization", "ultra_heat_treatment"],
+      "synonyms": ["heat_treatment"],
+      "children": ["low_temp_pasteurization", "high_temp_short_time"],
+      "parent": "thermal_processing"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "food_handbook_2024"
+    }
+  },
+  "fermentation": {
+    "definitions": {
+      "english": "Fermentation is a biochemical process where microorganisms such as yeast or bacteria convert sugars into alcohol, acids, or gases, enhancing food preservation, flavor, and nutritional value.",
+      "bangla": "গাঁজন হলো একটি প্রক্রিয়া যেখানে জীবাণু শর্করা থেকে অ্যালকোহল বা অ্যাসিড তৈরি করে।"
+    },
+    "category": "processing",
+    "subcategory": "biochemical_processing",
+    "tags": ["microorganism", "yeast", "bacteria", "flavor", "preservation"],
+    "relationships": {
+      "related": ["probiotics", "pickling", "enzymatic_reaction"],
+      "synonyms": ["food_fermentation"],
+      "children": ["alcoholic_fermentation", "lactic_acid_fermentation"],
+      "parent": "food_processing"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "food_handbook_2024"
+    }
+  }
 }
