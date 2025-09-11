@@ -105,3 +105,386 @@
     }
   }
 }
+{
+  "cotton_fiber": {
+    "definitions": {
+      "english": "Cotton fiber is a soft, natural cellulosic fiber obtained from the seed hair of the cotton plant, widely used in textiles due to its comfort, breathability, moisture absorption, and versatility in spinning and weaving.",
+      "bangla": "কটন ফাইবার হলো তুলা গাছের বীজলোম থেকে প্রাপ্ত একটি প্রাকৃতিক সেলুলোজ তন্তু, যা আরামদায়ক, শ্বাসপ্রশ্বাসযোগ্য ও আর্দ্রতা শোষণ ক্ষমতার কারণে বস্ত্রশিল্পে ব্যাপকভাবে ব্যবহৃত হয়।"
+    },
+    "category": "raw_materials",
+    "subcategory": "natural_fibers",
+    "tags": ["cotton", "natural_fiber", "cellulose", "absorbent", "soft"],
+    "relationships": {
+      "related": ["linen_fiber", "wool_fiber", "synthetic_fiber"],
+      "synonyms": ["cotton", "natural_cotton"],
+      "children": ["upland_cotton", "egyptian_cotton"],
+      "parent": "natural_fiber"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "wool_fiber": {
+    "definitions": {
+      "english": "Wool fiber is a natural protein fiber obtained from the fleece of sheep and other animals, known for its warmth, elasticity, resilience, and ability to retain heat even when wet.",
+      "bangla": "উল ফাইবার হলো ভেড়া ও অন্যান্য প্রাণীর লোম থেকে প্রাপ্ত প্রোটিনজাত তন্তু, যা উষ্ণতা, স্থিতিস্থাপকতা এবং ভিজলেও তাপ ধরে রাখার ক্ষমতার জন্য পরিচিত।"
+    },
+    "category": "raw_materials",
+    "subcategory": "natural_fibers",
+    "tags": ["wool", "protein_fiber", "natural", "warmth", "resilient"],
+    "relationships": {
+      "related": ["silk_fiber", "cotton_fiber", "synthetic_fiber"],
+      "synonyms": ["animal_wool"],
+      "children": ["merino_wool", "cashmere"],
+      "parent": "natural_fiber"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "silk_fiber": {
+    "definitions": {
+      "english": "Silk fiber is a natural protein filament obtained from the cocoon of silkworms, valued for its smooth texture, natural sheen, high strength, and luxurious feel in fabrics.",
+      "bangla": "সিল্ক ফাইবার হলো রেশম পোকাদের কোকুন থেকে প্রাপ্ত প্রোটিন তন্তু, যা মসৃণ টেক্সচার, প্রাকৃতিক ঔজ্জ্বল্য ও বিলাসবহুল অনুভূতির জন্য মূল্যবান।"
+    },
+    "category": "raw_materials",
+    "subcategory": "natural_fibers",
+    "tags": ["silk", "protein", "luxury", "natural_fiber", "shiny"],
+    "relationships": {
+      "related": ["wool_fiber", "synthetic_fiber", "rayon"],
+      "synonyms": ["natural_silk"],
+      "children": ["mulberry_silk", "tussar_silk"],
+      "parent": "natural_fiber"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "polyester_fiber": {
+    "definitions": {
+      "english": "Polyester fiber is a synthetic fiber made from petroleum-based polymers, widely used for its durability, wrinkle resistance, low moisture absorption, and ability to blend with natural fibers.",
+      "bangla": "পলিয়েস্টার ফাইবার হলো পেট্রোলিয়াম ভিত্তিক পলিমার থেকে তৈরি একটি কৃত্রিম তন্তু, যা স্থায়িত্ব, কুঁচকানো প্রতিরোধ এবং প্রাকৃতিক তন্তুর সাথে মিশ্রণের ক্ষমতার জন্য ব্যবহৃত হয়।"
+    },
+    "category": "raw_materials",
+    "subcategory": "synthetic_fibers",
+    "tags": ["polyester", "synthetic", "durable", "blend", "wrinkle_resistant"],
+    "relationships": {
+      "related": ["nylon_fiber", "cotton_fiber", "blended_fabric"],
+      "synonyms": ["polyester"],
+      "children": ["microfiber_polyester", "recycled_polyester"],
+      "parent": "synthetic_fiber"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "nylon_fiber": {
+    "definitions": {
+      "english": "Nylon fiber is a strong, synthetic polyamide fiber known for its high tensile strength, elasticity, abrasion resistance, and use in apparel, carpets, and industrial textiles.",
+      "bangla": "নাইলন ফাইবার হলো একটি শক্তিশালী সিন্থেটিক পলিয়ামাইড তন্তু, যা উচ্চ টেনসাইল শক্তি, স্থিতিস্থাপকতা এবং ঘর্ষণ প্রতিরোধ ক্ষমতার জন্য পরিচিত।"
+    },
+    "category": "raw_materials",
+    "subcategory": "synthetic_fibers",
+    "tags": ["nylon", "synthetic", "durable", "elastic", "industrial"],
+    "relationships": {
+      "related": ["polyester_fiber", "aramid_fiber", "spandex"],
+      "synonyms": ["polyamide"],
+      "children": ["nylon_6", "nylon_66"],
+      "parent": "synthetic_fiber"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "plain_weave": {
+    "definitions": {
+      "english": "Plain weave is the simplest and most common basic weaving structure where each weft thread alternates over and under consecutive warp threads, producing a strong and balanced fabric.",
+      "bangla": "প্লেইন উইভ হলো সবচেয়ে সহজ এবং প্রচলিত বুনন কাঠামো, যেখানে প্রতিটি ওয়েফট সুতো পর্যায়ক্রমে ওয়ার্প সুতোর উপর ও নিচে যায় এবং একটি মজবুত ও ভারসাম্যপূর্ণ কাপড় তৈরি করে।"
+    },
+    "category": "fabrics",
+    "subcategory": "woven_fabrics",
+    "tags": ["weave", "woven", "fabric_structure", "warp", "weft"],
+    "relationships": {
+      "related": ["twill_weave", "satin_weave", "basket_weave"],
+      "synonyms": ["tabby_weave", "basic_weave"],
+      "children": ["balanced_plain_weave", "unbalanced_plain_weave"],
+      "parent": "woven_fabric"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "twill_weave": {
+    "definitions": {
+      "english": "Twill weave is a fabric construction where weft yarns pass over two or more warp yarns in a staggered sequence, creating diagonal lines and offering durability and drape.",
+      "bangla": "টুইল উইভ হলো একটি কাপড়ের গঠন যেখানে ওয়েফট সুতো দুটি বা তার বেশি ওয়ার্প সুতোর উপর দিয়ে তির্যকভাবে যায়, যা মজবুত এবং সহজপতনশীল কাপড় তৈরি করে।"
+    },
+    "category": "fabrics",
+    "subcategory": "woven_fabrics",
+    "tags": ["twill", "weave", "fabric", "warp", "weft"],
+    "relationships": {
+      "related": ["plain_weave", "satin_weave", "denim"],
+      "synonyms": ["twill_structure"],
+      "children": ["2_1_twill", "3_1_twill"],
+      "parent": "woven_fabric"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "satin_weave": {
+    "definitions": {
+      "english": "Satin weave is a fabric structure characterized by long floating yarns over several warp or weft threads, giving a smooth, lustrous, and luxurious surface appearance.",
+      "bangla": "স্যাটিন উইভ হলো একটি কাপড়ের গঠন যেখানে লম্বা ভাসমান সুতো থাকে, যা মসৃণ, উজ্জ্বল এবং বিলাসবহুল পৃষ্ঠ তৈরি করে।"
+    },
+    "category": "fabrics",
+    "subcategory": "woven_fabrics",
+    "tags": ["satin", "weave", "luxury", "fabric", "lustrous"],
+    "relationships": {
+      "related": ["plain_weave", "twill_weave", "sateen"],
+      "synonyms": ["satin_structure"],
+      "children": ["warp_satin", "weft_satin"],
+      "parent": "woven_fabric"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "denim": {
+    "definitions": {
+      "english": "Denim is a durable woven cotton fabric, traditionally constructed in a twill weave, known for its strength, diagonal ribbing, and widespread use in jeans and workwear.",
+      "bangla": "ডেনিম হলো একটি টেকসই সুতির কাপড়, সাধারণত টুইল উইভে তৈরি হয় এবং এটি শক্তি, তির্যক দাগ এবং জিন্স ও কর্মপোশাকে ব্যবহারের জন্য পরিচিত।"
+    },
+    "category": "fabrics",
+    "subcategory": "woven_fabrics",
+    "tags": ["denim", "twill", "cotton", "jeans", "durable"],
+    "relationships": {
+      "related": ["twill_weave", "canvas", "chambray"],
+      "synonyms": ["jeans_fabric"],
+      "children": ["raw_denim", "stretch_denim"],
+      "parent": "cotton_fabric"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  }
+}
+{
+  "cotton_fiber": {
+    "definitions": {
+      "english": "Cotton fiber is a soft, natural cellulosic fiber obtained from the seed hair of the cotton plant, widely used in textiles due to its comfort, breathability, moisture absorption, and versatility in spinning and weaving.",
+      "bangla": "কটন ফাইবার হলো তুলা গাছের বীজলোম থেকে প্রাপ্ত একটি প্রাকৃতিক সেলুলোজ তন্তু, যা আরামদায়ক, শ্বাসপ্রশ্বাসযোগ্য ও আর্দ্রতা শোষণ ক্ষমতার কারণে বস্ত্রশিল্পে ব্যাপকভাবে ব্যবহৃত হয়।"
+    },
+    "category": "raw_materials",
+    "subcategory": "natural_fibers",
+    "tags": ["cotton", "natural_fiber", "cellulose", "absorbent", "soft"],
+    "relationships": {
+      "related": ["linen_fiber", "wool_fiber", "synthetic_fiber"],
+      "synonyms": ["cotton", "natural_cotton"],
+      "children": ["upland_cotton", "egyptian_cotton"],
+      "parent": "natural_fiber"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "wool_fiber": {
+    "definitions": {
+      "english": "Wool fiber is a natural protein fiber obtained from the fleece of sheep and other animals, known for its warmth, elasticity, resilience, and ability to retain heat even when wet.",
+      "bangla": "উল ফাইবার হলো ভেড়া ও অন্যান্য প্রাণীর লোম থেকে প্রাপ্ত প্রোটিনজাত তন্তু, যা উষ্ণতা, স্থিতিস্থাপকতা এবং ভিজলেও তাপ ধরে রাখার ক্ষমতার জন্য পরিচিত।"
+    },
+    "category": "raw_materials",
+    "subcategory": "natural_fibers",
+    "tags": ["wool", "protein_fiber", "natural", "warmth", "resilient"],
+    "relationships": {
+      "related": ["silk_fiber", "cotton_fiber", "synthetic_fiber"],
+      "synonyms": ["animal_wool"],
+      "children": ["merino_wool", "cashmere"],
+      "parent": "natural_fiber"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "silk_fiber": {
+    "definitions": {
+      "english": "Silk fiber is a natural protein filament obtained from the cocoon of silkworms, valued for its smooth texture, natural sheen, high strength, and luxurious feel in fabrics.",
+      "bangla": "সিল্ক ফাইবার হলো রেশম পোকাদের কোকুন থেকে প্রাপ্ত প্রোটিন তন্তু, যা মসৃণ টেক্সচার, প্রাকৃতিক ঔজ্জ্বল্য ও বিলাসবহুল অনুভূতির জন্য মূল্যবান।"
+    },
+    "category": "raw_materials",
+    "subcategory": "natural_fibers",
+    "tags": ["silk", "protein", "luxury", "natural_fiber", "shiny"],
+    "relationships": {
+      "related": ["wool_fiber", "synthetic_fiber", "rayon"],
+      "synonyms": ["natural_silk"],
+      "children": ["mulberry_silk", "tussar_silk"],
+      "parent": "natural_fiber"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "polyester_fiber": {
+    "definitions": {
+      "english": "Polyester fiber is a synthetic fiber made from petroleum-based polymers, widely used for its durability, wrinkle resistance, low moisture absorption, and ability to blend with natural fibers.",
+      "bangla": "পলিয়েস্টার ফাইবার হলো পেট্রোলিয়াম ভিত্তিক পলিমার থেকে তৈরি একটি কৃত্রিম তন্তু, যা স্থায়িত্ব, কুঁচকানো প্রতিরোধ এবং প্রাকৃতিক তন্তুর সাথে মিশ্রণের ক্ষমতার জন্য ব্যবহৃত হয়।"
+    },
+    "category": "raw_materials",
+    "subcategory": "synthetic_fibers",
+    "tags": ["polyester", "synthetic", "durable", "blend", "wrinkle_resistant"],
+    "relationships": {
+      "related": ["nylon_fiber", "cotton_fiber", "blended_fabric"],
+      "synonyms": ["polyester"],
+      "children": ["microfiber_polyester", "recycled_polyester"],
+      "parent": "synthetic_fiber"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "nylon_fiber": {
+    "definitions": {
+      "english": "Nylon fiber is a strong, synthetic polyamide fiber known for its high tensile strength, elasticity, abrasion resistance, and use in apparel, carpets, and industrial textiles.",
+      "bangla": "নাইলন ফাইবার হলো একটি শক্তিশালী সিন্থেটিক পলিয়ামাইড তন্তু, যা উচ্চ টেনসাইল শক্তি, স্থিতিস্থাপকতা এবং ঘর্ষণ প্রতিরোধ ক্ষমতার জন্য পরিচিত।"
+    },
+    "category": "raw_materials",
+    "subcategory": "synthetic_fibers",
+    "tags": ["nylon", "synthetic", "durable", "elastic", "industrial"],
+    "relationships": {
+      "related": ["polyester_fiber", "aramid_fiber", "spandex"],
+      "synonyms": ["polyamide"],
+      "children": ["nylon_6", "nylon_66"],
+      "parent": "synthetic_fiber"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "plain_weave": {
+    "definitions": {
+      "english": "Plain weave is the simplest and most common basic weaving structure where each weft thread alternates over and under consecutive warp threads, producing a strong and balanced fabric.",
+      "bangla": "প্লেইন উইভ হলো সবচেয়ে সহজ এবং প্রচলিত বুনন কাঠামো, যেখানে প্রতিটি ওয়েফট সুতো পর্যায়ক্রমে ওয়ার্প সুতোর উপর ও নিচে যায় এবং একটি মজবুত ও ভারসাম্যপূর্ণ কাপড় তৈরি করে।"
+    },
+    "category": "fabrics",
+    "subcategory": "woven_fabrics",
+    "tags": ["weave", "woven", "fabric_structure", "warp", "weft"],
+    "relationships": {
+      "related": ["twill_weave", "satin_weave", "basket_weave"],
+      "synonyms": ["tabby_weave", "basic_weave"],
+      "children": ["balanced_plain_weave", "unbalanced_plain_weave"],
+      "parent": "woven_fabric"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "twill_weave": {
+    "definitions": {
+      "english": "Twill weave is a fabric construction where weft yarns pass over two or more warp yarns in a staggered sequence, creating diagonal lines and offering durability and drape.",
+      "bangla": "টুইল উইভ হলো একটি কাপড়ের গঠন যেখানে ওয়েফট সুতো দুটি বা তার বেশি ওয়ার্প সুতোর উপর দিয়ে তির্যকভাবে যায়, যা মজবুত এবং সহজপতনশীল কাপড় তৈরি করে।"
+    },
+    "category": "fabrics",
+    "subcategory": "woven_fabrics",
+    "tags": ["twill", "weave", "fabric", "warp", "weft"],
+    "relationships": {
+      "related": ["plain_weave", "satin_weave", "denim"],
+      "synonyms": ["twill_structure"],
+      "children": ["2_1_twill", "3_1_twill"],
+      "parent": "woven_fabric"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "satin_weave": {
+    "definitions": {
+      "english": "Satin weave is a fabric structure characterized by long floating yarns over several warp or weft threads, giving a smooth, lustrous, and luxurious surface appearance.",
+      "bangla": "স্যাটিন উইভ হলো একটি কাপড়ের গঠন যেখানে লম্বা ভাসমান সুতো থাকে, যা মসৃণ, উজ্জ্বল এবং বিলাসবহুল পৃষ্ঠ তৈরি করে।"
+    },
+    "category": "fabrics",
+    "subcategory": "woven_fabrics",
+    "tags": ["satin", "weave", "luxury", "fabric", "lustrous"],
+    "relationships": {
+      "related": ["plain_weave", "twill_weave", "sateen"],
+      "synonyms": ["satin_structure"],
+      "children": ["warp_satin", "weft_satin"],
+      "parent": "woven_fabric"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "denim": {
+    "definitions": {
+      "english": "Denim is a durable woven cotton fabric, traditionally constructed in a twill weave, known for its strength, diagonal ribbing, and widespread use in jeans and workwear.",
+      "bangla": "ডেনিম হলো একটি টেকসই সুতির কাপড়, সাধারণত টুইল উইভে তৈরি হয় এবং এটি শক্তি, তির্যক দাগ এবং জিন্স ও কর্মপোশাকে ব্যবহারের জন্য পরিচিত।"
+    },
+    "category": "fabrics",
+    "subcategory": "woven_fabrics",
+    "tags": ["denim", "twill", "cotton", "jeans", "durable"],
+    "relationships": {
+      "related": ["twill_weave", "canvas", "chambray"],
+      "synonyms": ["jeans_fabric"],
+      "children": ["raw_denim", "stretch_denim"],
+      "parent": "cotton_fabric"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  }
+}
+
