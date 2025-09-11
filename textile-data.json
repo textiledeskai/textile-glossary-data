@@ -1,122 +1,44 @@
-[
-  {
-    "term": "Cotton",
+{
+  "cotton": {
     "definitions": {
-      "english": "A natural cellulosic fiber obtained from the seed hairs of the cotton plant, known for its absorbency, breathability, and comfort.",
-      "bangla": "তুলা একটি প্রাকৃতিক সেলুলোজিক তন্তু যা তুলা গাছের বীজের লোম থেকে প্রাপ্ত হয়।"
+      "english": "A soft, white fibrous substance obtained from the seed hairs of cotton plants, widely used in textile manufacturing for its breathability, absorbency, and comfort.",
+      "bangla": "তুলা একটি নরম, সাদা তন্তুযুক্ত পদার্থ যা তুলা গাছের বীজের লোম থেকে প্রাপ্ত হয়।"
     },
     "category": "raw_materials",
     "subcategory": "natural_fibers",
-    "tags": ["natural", "cellulosic", "breathable", "absorbent"],
-    "related": ["organic_cotton", "cotton_yarn", "cotton_fabric"],
-    "synonyms": ["cotton_fiber"]
+    "tags": ["fiber", "plant", "breathable", "absorbent", "natural"],
+    "relationships": {
+      "related": ["linen", "hemp", "jute", "ramie"],
+      "synonyms": ["cotton_fiber", "gossypium"],
+      "children": ["organic_cotton", "egyptian_cotton", "pima_cotton"],
+      "parent": "plant_fibers"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2024-01-15",
+      "source": "textile_handbook_2024"
+    }
   },
-  {
-    "term": "Polyester",
+  "mulberry_silk": {
     "definitions": {
-      "english": "A synthetic fiber made from polyethylene terephthalate (PET), known for its durability, wrinkle resistance, and quick-drying properties.",
-      "bangla": "পলিয়েস্টার একটি কৃত্রিম তন্তু যা পলিইথিলিন টেরেফথালেট থেকে তৈরি হয়।"
+      "english": "The most common type of silk, produced by silkworms fed exclusively on mulberry leaves, known for its uniform texture and superior quality.",
+      "bangla": "তুঁত পাতা খেয়ে বেড়ে ওঠা রেশম কীটের উৎপাদিত উচ্চমানের রেশম।"
     },
     "category": "raw_materials",
-    "subcategory": "synthetic_fibers",
-    "tags": ["synthetic", "durable", "wrinkle_resistant", "quick_dry"],
-    "related": ["PET", "polyester_yarn", "microfiber"],
-    "synonyms": ["PET_fiber", "polyester_filament"]
-  },
-  {
-    "term": "Mercerization",
-    "definitions": {
-      "english": "A chemical treatment process for cotton fibers or fabrics using sodium hydroxide to increase luster, strength, and dye affinity.",
-      "bangla": "মার্সারাইজেশন তুলা তন্তু বা কাপড়ের জন্য একটি রাসায়নিক প্রক্রিয়া যা উজ্জ্বলতা বৃদ্ধি করে।"
+    "subcategory": "natural_fibers",
+    "tags": ["silk", "luxury", "protein_fiber", "smooth", "lustrous"],
+    "relationships": {
+      "related": ["tussar_silk", "eri_silk", "muga_silk"],
+      "synonyms": ["cultivated_silk", "bombyx_mori_silk"],
+      "parent": "silk",
+      "children": ["grade_a_mulberry_silk", "grade_b_mulberry_silk"]
     },
-    "category": "finishing",
-    "subcategory": "chemical_finishing",
-    "tags": ["chemical_treatment", "cotton", "luster", "strength"],
-    "related": ["caustic_soda", "cotton_finishing", "singeing"],
-    "synonyms": ["alkali_treatment"]
-  },
-  {
-    "term": "Plain Weave",
-    "definitions": {
-      "english": "The simplest and most common weave structure where warp and weft yarns interlace alternately, creating a balanced fabric structure.",
-      "bangla": "প্লেইন উইভ সবচেয়ে সহজ এবং সাধারণ বুনন কাঠামো যেখানে তানা ও পড়েন সুতা পর্যায়ক্রমে মিলিত হয়।"
-    },
-    "category": "fabric_construction",
-    "subcategory": "weaving",
-    "tags": ["weave_structure", "basic_weave", "balanced"],
-    "related": ["twill_weave", "satin_weave", "canvas"],
-    "synonyms": ["tabby_weave", "calico_weave"]
-  },
-  {
-    "term": "Jersey Knit",
-    "definitions": {
-      "english": "A basic knit fabric structure with interlocking loops on one needle bed, creating a smooth face and textured back.",
-      "bangla": "জার্সি নিট একটি মৌলিক বোনা কাপড় যার এক পাশে মসৃণ এবং অন্য পাশে রুক্ষ পৃষ্ঠ থাকে।"
-    },
-    "category": "fabric_construction",
-    "subcategory": "knitting",
-    "tags": ["knit_structure", "single_jersey", "stretch"],
-    "related": ["interlock", "rib_knit", "pique"],
-    "synonyms": ["single_jersey", "stockinette"]
-  },
-  {
-    "term": "Ring Spinning",
-    "definitions": {
-      "english": "A spinning method where fibers are drafted and twisted simultaneously using a ring and traveler system to produce continuous yarn.",
-      "bangla": "রিং স্পিনিং একটি সুতা কাটার পদ্ধতি যেখানে রিং এবং ট্রাভেলার ব্যবহার করে ক্রমাগত সুতা তৈরি হয়।"
-    },
-    "category": "yarn_production",
-    "subcategory": "spinning",
-    "tags": ["spinning_method", "yarn_production", "twist"],
-    "related": ["rotor_spinning", "air_jet_spinning", "spindle"],
-    "synonyms": ["conventional_spinning"]
-  },
-  {
-    "term": "Reactive Dye",
-    "definitions": {
-      "english": "A type of dye that forms covalent bonds with cellulosic fibers, providing excellent wash fastness and bright colors.",
-      "bangla": "রিঅ্যাক্টিভ ডাই একটি রঙ যা সেলুলোজিক তন্তুর সাথে কোভ্যালেন্ট বন্ধন তৈরি করে।"
-    },
-    "category": "coloration",
-    "subcategory": "dyeing",
-    "tags": ["dye_type", "wash_fast", "cellulosic", "bright_colors"],
-    "related": ["direct_dye", "vat_dye", "fiber_reactive"],
-    "synonyms": ["fiber_reactive_dye"]
-  },
-  {
-    "term": "Tensile Strength",
-    "definitions": {
-      "english": "The maximum stress that a textile material can withstand while being stretched before breaking, measured in force per unit area.",
-      "bangla": "টেনসাইল স্ট্রেংথ একটি টেক্সটাইল উপাদানের সর্বোচ্চ চাপ যা ছিঁড়ে যাওয়ার আগে সহ্য করতে পারে।"
-    },
-    "category": "quality_control",
-    "subcategory": "testing_methods",
-    "tags": ["mechanical_property", "strength", "testing"],
-    "related": ["elongation", "tear_strength", "burst_strength"],
-    "synonyms": ["breaking_strength"]
-  },
-  {
-    "term": "Warp",
-    "definitions": {
-      "english": "The set of lengthwise yarns in a woven fabric that are held under tension on the loom during weaving.",
-      "bangla": "তানা বোনা কাপড়ের দৈর্ঘ্যের দিকের সুতার সেট যা তাঁতে টানটান অবস্থায় থাকে।"
-    },
-    "category": "fabric_construction",
-    "subcategory": "weaving",
-    "tags": ["weaving_term", "lengthwise_yarn", "loom"],
-    "related": ["weft", "warp_beam", "heddles"],
-    "synonyms": ["ends"]
-  },
-  {
-    "term": "Weft",
-    "definitions": {
-      "english": "The crosswise yarns in a woven fabric that interlace with the warp yarns to form the fabric structure.",
-      "bangla": "পড়েন বোনা কাপড়ের প্রস্থের দিকের সুতা যা তানার সাথে মিলিত হয়ে কাপড়ের কাঠামো তৈরি করে।"
-    },
-    "category": "fabric_construction",
-    "subcategory": "weaving",
-    "tags": ["weaving_term", "crosswise_yarn", "interlacing"],
-    "related": ["warp", "pick", "shuttle"],
-    "synonyms": ["filling", "pick"]
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "high",
+      "last_updated": "2024-01-15",
+      "source": "silk_industry_guide_2024"
+    }
   }
-]
+}
