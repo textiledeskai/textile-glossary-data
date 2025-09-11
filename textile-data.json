@@ -1,65 +1,107 @@
 {
-  "rice": {
+  "cotton_fiber": {
     "definitions": {
-      "english": "Rice is a cereal grain, primarily Oryza sativa, widely consumed as a staple food worldwide for its carbohydrate-rich composition, easy digestibility, and diverse culinary applications.",
-      "bangla": "চাল একটি শস্য যা প্রধান খাদ্য হিসাবে সারা বিশ্বে খাওয়া হয়।"
+      "english": "Cotton fiber is a soft, natural cellulosic fiber obtained from the seed hair of the cotton plant, widely used in textiles due to its comfort, breathability, moisture absorption, and versatility in spinning and weaving.",
+      "bangla": "কটন ফাইবার হলো তুলা গাছের বীজলোম থেকে প্রাপ্ত একটি প্রাকৃতিক সেলুলোজ তন্তু, যা আরামদায়ক, শ্বাসপ্রশ্বাসযোগ্য ও আর্দ্রতা শোষণ ক্ষমতার কারণে বস্ত্রশিল্পে ব্যাপকভাবে ব্যবহৃত হয়।"
     },
     "category": "raw_materials",
-    "subcategory": "cereal_grains",
-    "tags": ["grain", "staple", "carbohydrate", "cereal", "food"],
+    "subcategory": "natural_fibers",
+    "tags": ["cotton", "natural_fiber", "cellulose", "absorbent", "soft"],
     "relationships": {
-      "related": ["wheat", "maize", "barley"],
-      "synonyms": ["oryza_sativa"],
-      "children": ["brown_rice", "white_rice"],
-      "parent": "cereal_grains"
+      "related": ["linen_fiber", "wool_fiber", "synthetic_fiber"],
+      "synonyms": ["cotton", "natural_cotton"],
+      "children": ["upland_cotton", "egyptian_cotton"],
+      "parent": "natural_fiber"
     },
     "metadata": {
       "difficulty": "basic",
       "frequency": "high",
       "last_updated": "2025-09-11",
-      "source": "food_handbook_2024"
+      "source": "textile_handbook_2024"
     }
   },
-  "pasteurization": {
+  "plain_weave": {
     "definitions": {
-      "english": "Pasteurization is a thermal food preservation process where liquids such as milk or juice are heated to specific temperatures to kill harmful microorganisms while maintaining product quality.",
-      "bangla": "পাস্তুরাইজেশন হলো একটি খাদ্য সংরক্ষণ প্রক্রিয়া যেখানে তরল উত্তপ্ত করে জীবাণু ধ্বংস করা হয়।"
+      "english": "Plain weave is the simplest and most common basic weaving structure where each weft thread alternates over and under consecutive warp threads, producing a strong and balanced fabric.",
+      "bangla": "প্লেইন উইভ হলো সবচেয়ে সহজ এবং প্রচলিত বুনন কাঠামো, যেখানে প্রতিটি ওয়েফট সুতো পর্যায়ক্রমে ওয়ার্প সুতোর উপর ও নিচে যায় এবং একটি মজবুত ও ভারসাম্যপূর্ণ কাপড় তৈরি করে।"
     },
-    "category": "preservation",
-    "subcategory": "thermal_processing",
-    "tags": ["heat", "preservation", "milk", "juice", "safety"],
+    "category": "fabrics",
+    "subcategory": "woven_fabrics",
+    "tags": ["weave", "woven", "fabric_structure", "warp", "weft"],
     "relationships": {
-      "related": ["sterilization", "ultra_heat_treatment"],
-      "synonyms": ["heat_treatment"],
-      "children": ["low_temp_pasteurization", "high_temp_short_time"],
-      "parent": "thermal_processing"
+      "related": ["twill_weave", "satin_weave", "basket_weave"],
+      "synonyms": ["tabby_weave", "basic_weave"],
+      "children": ["balanced_plain_weave", "unbalanced_plain_weave"],
+      "parent": "woven_fabric"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "ring_spinning": {
+    "definitions": {
+      "english": "Ring spinning is a textile spinning method where fibers are drafted, twisted, and wound onto a bobbin using a rotating spindle and traveler, producing fine, strong, and high-quality yarns.",
+      "bangla": "রিং স্পিনিং হলো একটি টেক্সটাইল সুতা তৈরির প্রক্রিয়া, যেখানে তন্তুগুলোকে প্রসারণ, পাকানো এবং একটি ঘূর্ণায়মান স্পিন্ডল ও ট্রাভেলার ব্যবহার করে ববিনে প্যাঁচানো হয়, ফলে সূক্ষ্ম ও মজবুত সুতা উৎপাদিত হয়।"
+    },
+    "category": "machinery",
+    "subcategory": "spinning",
+    "tags": ["spinning", "yarn", "machinery", "fiber", "textile"],
+    "relationships": {
+      "related": ["open_end_spinning", "compact_spinning", "air_jet_spinning"],
+      "synonyms": ["ring_frame_spinning"],
+      "children": ["compact_ring_spinning", "siro_spinning"],
+      "parent": "spinning_technology"
     },
     "metadata": {
       "difficulty": "intermediate",
       "frequency": "high",
       "last_updated": "2025-09-11",
-      "source": "food_handbook_2024"
+      "source": "textile_handbook_2024"
     }
   },
-  "fermentation": {
+  "mercerization": {
     "definitions": {
-      "english": "Fermentation is a biochemical process where microorganisms such as yeast or bacteria convert sugars into alcohol, acids, or gases, enhancing food preservation, flavor, and nutritional value.",
-      "bangla": "গাঁজন হলো একটি প্রক্রিয়া যেখানে জীবাণু শর্করা থেকে অ্যালকোহল বা অ্যাসিড তৈরি করে।"
+      "english": "Mercerization is a textile finishing process applied mainly to cotton, where the fibers are treated with concentrated caustic soda under tension to increase luster, strength, and dye affinity.",
+      "bangla": "মার্সারাইজেশন হলো একটি টেক্সটাইল ফিনিশিং প্রক্রিয়া যা প্রধানত তুলার ক্ষেত্রে প্রয়োগ করা হয়, যেখানে তন্তুগুলোকে ঘন কস্টিক সোডা ও টেনশনের মাধ্যমে প্রক্রিয়াকরণ করা হয় যাতে উজ্জ্বলতা, শক্তি ও রঙ গ্রহণ ক্ষমতা বৃদ্ধি পায়।"
     },
-    "category": "processing",
-    "subcategory": "biochemical_processing",
-    "tags": ["microorganism", "yeast", "bacteria", "flavor", "preservation"],
+    "category": "finishes",
+    "subcategory": "chemical_finishes",
+    "tags": ["finishing", "cotton", "chemical_treatment", "luster", "dye_affinity"],
     "relationships": {
-      "related": ["probiotics", "pickling", "enzymatic_reaction"],
-      "synonyms": ["food_fermentation"],
-      "children": ["alcoholic_fermentation", "lactic_acid_fermentation"],
-      "parent": "food_processing"
+      "related": ["bleaching", "scouring", "singeing"],
+      "synonyms": ["caustic_treatment"],
+      "children": ["cold_mercerization", "hot_mercerization"],
+      "parent": "cotton_finishes"
     },
     "metadata": {
       "difficulty": "intermediate",
       "frequency": "medium",
       "last_updated": "2025-09-11",
-      "source": "food_handbook_2024"
+      "source": "textile_handbook_2024"
+    }
+  },
+  "gsm": {
+    "definitions": {
+      "english": "GSM (grams per square meter) is a unit of fabric weight measurement indicating the density of textile material, widely used to compare thickness, heaviness, and quality across fabrics.",
+      "bangla": "জিএসএম (গ্রাম পার স্কয়ার মিটার) হলো কাপড়ের ওজন পরিমাপের একটি একক, যা কাপড়ের ঘনত্ব, পুরুত্ব এবং গুণমান নির্ধারণে ব্যবহৃত হয়।"
+    },
+    "category": "quality_control",
+    "subcategory": "fabric_testing",
+    "tags": ["gsm", "fabric_weight", "quality", "measurement", "density"],
+    "relationships": {
+      "related": ["thread_count", "fabric_density", "tex"],
+      "synonyms": ["grams_per_square_meter"],
+      "children": ["lightweight_fabric", "heavyweight_fabric"],
+      "parent": "fabric_testing_methods"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
     }
   }
 }
