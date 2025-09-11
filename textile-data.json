@@ -189,3 +189,1974 @@
     }
   }
 }
+{
+  "ring_spinning": {
+    "definitions": {
+      "english": "Ring spinning is a textile spinning method where fibers are drafted, twisted, and wound onto a bobbin using a rotating spindle and traveler, producing fine, strong, and high-quality yarns.",
+      "bangla": "রিং স্পিনিং হলো একটি টেক্সটাইল সুতা তৈরির প্রক্রিয়া, যেখানে তন্তুগুলোকে প্রসারণ, পাকানো এবং একটি ঘূর্ণায়মান স্পিন্ডল ও ট্রাভেলার ব্যবহার করে ববিনে প্যাঁচানো হয়, ফলে সূক্ষ্ম ও মজবুত সুতা উৎপাদিত হয়।"
+    },
+    "category": "machinery",
+    "subcategory": "spinning",
+    "tags": ["spinning", "yarn", "machinery", "fiber", "textile"],
+    "relationships": {
+      "related": ["open_end_spinning", "compact_spinning", "air_jet_spinning"],
+      "synonyms": ["ring_frame_spinning"],
+      "children": ["compact_ring_spinning", "siro_spinning"],
+      "parent": "spinning_technology"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "open_end_spinning": {
+    "definitions": {
+      "english": "Open-end spinning is a spinning technology where fibers are fed into a rotor chamber, twisted without a spindle, and wound onto packages, allowing high-speed, cost-effective yarn production.",
+      "bangla": "ওপেন-এন্ড স্পিনিং হলো একটি সুতা তৈরির প্রযুক্তি, যেখানে তন্তুগুলো রোটর চেম্বারে প্রবেশ করে স্পিন্ডল ছাড়াই পাকানো হয় এবং প্যাকেজে প্যাঁচানো হয়, যা দ্রুত ও সাশ্রয়ী উৎপাদন নিশ্চিত করে।"
+    },
+    "category": "machinery",
+    "subcategory": "spinning",
+    "tags": ["spinning", "rotor", "yarn", "machinery", "high_speed"],
+    "relationships": {
+      "related": ["ring_spinning", "air_jet_spinning", "friction_spinning"],
+      "synonyms": ["rotor_spinning"],
+      "children": ["friction_spinning"],
+      "parent": "spinning_technology"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "air_jet_spinning": {
+    "definitions": {
+      "english": "Air-jet spinning uses high-velocity air streams to twist fibers and form yarn, producing uniform, clean, and less hairy yarns suitable for lightweight fabrics.",
+      "bangla": "এয়ার জেট স্পিনিং হলো একটি প্রযুক্তি যেখানে উচ্চ গতির বায়ুপ্রবাহ তন্তুগুলোকে পাকিয়ে সুতা তৈরি করে, ফলে মসৃণ ও কম লোমযুক্ত সুতা উৎপন্ন হয়।"
+    },
+    "category": "machinery",
+    "subcategory": "spinning",
+    "tags": ["air_jet", "spinning", "machinery", "lightweight", "yarn"],
+    "relationships": {
+      "related": ["ring_spinning", "open_end_spinning", "compact_spinning"],
+      "synonyms": ["vortex_spinning"],
+      "children": ["mvs_spinning"],
+      "parent": "spinning_technology"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "low",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "mercerization": {
+    "definitions": {
+      "english": "Mercerization is a textile finishing process applied mainly to cotton, where the fibers are treated with concentrated caustic soda under tension to increase luster, strength, and dye affinity.",
+      "bangla": "মার্সারাইজেশন হলো একটি টেক্সটাইল ফিনিশিং প্রক্রিয়া যা প্রধানত তুলার ক্ষেত্রে প্রয়োগ করা হয়, যেখানে তন্তুগুলোকে ঘন কস্টিক সোডা ও টেনশনের মাধ্যমে প্রক্রিয়াকরণ করা হয় যাতে উজ্জ্বলতা, শক্তি ও রঙ গ্রহণ ক্ষমতা বৃদ্ধি পায়।"
+    },
+    "category": "finishes",
+    "subcategory": "chemical_finishes",
+    "tags": ["finishing", "cotton", "chemical_treatment", "luster", "dye_affinity"],
+    "relationships": {
+      "related": ["bleaching", "scouring", "singeing"],
+      "synonyms": ["caustic_treatment"],
+      "children": ["cold_mercerization", "hot_mercerization"],
+      "parent": "cotton_finishes"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "singeing": {
+    "definitions": {
+      "english": "Singeing is a finishing process where loose fibers or protruding hairs on fabric or yarn are removed by passing the surface over a flame or heated plate, producing a clean surface.",
+      "bangla": "সিঞ্জিং হলো একটি ফিনিশিং প্রক্রিয়া যেখানে কাপড় বা সুতোর উপরের ঢিলে তন্তু বা লোম আগুন বা উত্তপ্ত প্লেটের উপর দিয়ে সরানো হয়, ফলে একটি মসৃণ পৃষ্ঠ তৈরি হয়।"
+    },
+    "category": "finishes",
+    "subcategory": "mechanical_finishes",
+    "tags": ["finishing", "fabric", "clean_surface", "mechanical", "smooth"],
+    "relationships": {
+      "related": ["scouring", "bleaching", "mercerization"],
+      "synonyms": ["gassing"],
+      "children": ["yarn_singeing", "fabric_singeing"],
+      "parent": "mechanical_finish"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "scouring": {
+    "definitions": {
+      "english": "Scouring is a preparatory chemical process that removes natural impurities such as waxes, oils, and dirt from fibers, yarns, or fabrics, improving wettability and absorbency.",
+      "bangla": "স্কাউরিং হলো একটি রাসায়নিক প্রক্রিয়া যা তন্তু, সুতা বা কাপড় থেকে প্রাকৃতিক মোম, তেল ও ময়লা সরিয়ে দেয়, ফলে এটি জল শোষণক্ষম হয়।"
+    },
+    "category": "finishes",
+    "subcategory": "chemical_finishes",
+    "tags": ["scouring", "preparatory", "cleaning", "chemical", "impurities"],
+    "relationships": {
+      "related": ["bleaching", "desizing", "mercerization"],
+      "synonyms": ["alkali_scouring"],
+      "children": ["cotton_scouring", "wool_scouring"],
+      "parent": "preparatory_process"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "bleaching": {
+    "definitions": {
+      "english": "Bleaching is a chemical process that removes natural colorants, impurities, and stains from textile fibers or fabrics, producing a uniformly white substrate for dyeing or finishing.",
+      "bangla": "ব্লিচিং হলো একটি রাসায়নিক প্রক্রিয়া যা তন্তু বা কাপড় থেকে প্রাকৃতিক রং, অমিশ্রণ ও দাগ সরিয়ে দেয়, ফলে এটি সমান সাদা হয়ে রঙ করার উপযোগী হয়।"
+    },
+    "category": "finishes",
+    "subcategory": "chemical_finishes",
+    "tags": ["bleaching", "whitening", "chemical", "finishing", "preparatory"],
+    "relationships": {
+      "related": ["scouring", "mercerization", "optical_brightening"],
+      "synonyms": ["whitening_process"],
+      "children": ["hydrogen_peroxide_bleaching", "chlorine_bleaching"],
+      "parent": "preparatory_process"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "gsm": {
+    "definitions": {
+      "english": "GSM (grams per square meter) is a unit of fabric weight measurement indicating the density of textile material, widely used to compare thickness, heaviness, and quality across fabrics.",
+      "bangla": "জিএসএম (গ্রাম পার স্কয়ার মিটার) হলো কাপড়ের ওজন পরিমাপের একটি একক, যা কাপড়ের ঘনত্ব, পুরুত্ব এবং গুণমান নির্ধারণে ব্যবহৃত হয়।"
+    },
+    "category": "quality_control",
+    "subcategory": "fabric_testing",
+    "tags": ["gsm", "fabric_weight", "quality", "measurement", "density"],
+    "relationships": {
+      "related": ["thread_count", "fabric_density", "tex"],
+      "synonyms": ["grams_per_square_meter"],
+      "children": ["lightweight_fabric", "heavyweight_fabric"],
+      "parent": "fabric_testing_methods"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "thread_count": {
+    "definitions": {
+      "english": "Thread count is the number of warp and weft threads present per square inch of woven fabric, influencing smoothness, durability, and perceived fabric quality.",
+      "bangla": "থ্রেড কাউন্ট হলো প্রতি বর্গ ইঞ্চি বোনা কাপড়ে থাকা ওয়ার্প ও ওয়েফট সুতোর সংখ্যা, যা কাপড়ের মসৃণতা ও গুণমান নির্ধারণ করে।"
+    },
+    "category": "quality_control",
+    "subcategory": "fabric_testing",
+    "tags": ["thread_count", "quality", "fabric", "woven", "measurement"],
+    "relationships": {
+      "related": ["gsm", "epi", "ppi"],
+      "synonyms": ["yarn_density"],
+      "children": ["high_thread_count", "low_thread_count"],
+      "parent": "fabric_testing_methods"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "eco_friendly_textiles": {
+    "definitions": {
+      "english": "Eco-friendly textiles are fabrics produced using sustainable fibers, processes, and finishes that minimize environmental impact and promote resource efficiency.",
+      "bangla": "ইকো-ফ্রেন্ডলি টেক্সটাইল হলো এমন কাপড় যা পরিবেশবান্ধব তন্তু, প্রক্রিয়া ও ফিনিশ ব্যবহার করে তৈরি হয় এবং পরিবেশের ক্ষতি কমায়।"
+    },
+    "category": "sustainability",
+    "subcategory": "sustainable_textiles",
+    "tags": ["eco_friendly", "sustainable", "green", "environment", "textiles"],
+    "relationships": {
+      "related": ["organic_cotton", "recycled_polyester", "biodegradable_fiber"],
+      "synonyms": ["sustainable_textiles"],
+      "children": ["organic_cotton_fabric", "hemp_textile"],
+      "parent": "sustainable_textile"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  }
+}
+{
+  "hemp_fiber": {
+    "definitions": {
+      "english": "Hemp fiber is a natural bast fiber derived from the stalk of the hemp plant, valued for its strength, durability, antibacterial properties, and eco-friendly cultivation requirements.",
+      "bangla": "হেম্প ফাইবার হলো হেম্প গাছের কাণ্ড থেকে প্রাপ্ত একটি প্রাকৃতিক তন্তু, যা শক্তি, টেকসইতা, জীবাণু প্রতিরোধ ক্ষমতা এবং পরিবেশবান্ধব চাষের কারণে মূল্যবান।"
+    },
+    "category": "raw_materials",
+    "subcategory": "natural_fibers",
+    "tags": ["hemp", "bast_fiber", "natural", "durable", "eco_friendly"],
+    "relationships": {
+      "related": ["linen_fiber", "jute_fiber", "cotton_fiber"],
+      "synonyms": ["cannabis_fiber"],
+      "children": ["long_hemp_fiber", "short_hemp_fiber"],
+      "parent": "natural_fiber"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "jute_fiber": {
+    "definitions": {
+      "english": "Jute fiber is a coarse, natural bast fiber obtained from the stem of jute plants, widely used for making ropes, sacks, mats, and eco-friendly textiles.",
+      "bangla": "জুট ফাইবার হলো জুট গাছের কাণ্ড থেকে প্রাপ্ত একটি প্রাকৃতিক তন্তু, যা দড়ি, বস্তা, চাটাই এবং পরিবেশবান্ধব কাপড় তৈরিতে ব্যবহৃত হয়।"
+    },
+    "category": "raw_materials",
+    "subcategory": "natural_fibers",
+    "tags": ["jute", "bast_fiber", "eco_friendly", "rope", "sack"],
+    "relationships": {
+      "related": ["hemp_fiber", "linen_fiber", "cotton_fiber"],
+      "synonyms": ["golden_fiber"],
+      "children": ["white_jute", "tossa_jute"],
+      "parent": "natural_fiber"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "linen_fiber": {
+    "definitions": {
+      "english": "Linen fiber is a natural bast fiber obtained from the stem of the flax plant, known for its strength, smoothness, breathability, and use in high-quality woven fabrics.",
+      "bangla": "লিনেন ফাইবার হলো ফ্ল্যাক্স গাছের কাণ্ড থেকে প্রাপ্ত একটি প্রাকৃতিক তন্তু, যা শক্তি, মসৃণতা, শ্বাসপ্রশ্বাসযোগ্যতা এবং উচ্চমানের কাপড় তৈরির জন্য পরিচিত।"
+    },
+    "category": "raw_materials",
+    "subcategory": "natural_fibers",
+    "tags": ["linen", "flax", "natural", "strong", "smooth"],
+    "relationships": {
+      "related": ["cotton_fiber", "hemp_fiber", "jute_fiber"],
+      "synonyms": ["flax_fiber"],
+      "children": ["long_line_linen", "tow_linen"],
+      "parent": "natural_fiber"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "ramie_fiber": {
+    "definitions": {
+      "english": "Ramie fiber is a natural bast fiber derived from the stalks of the ramie plant, prized for its luster, resistance to bacteria, and ability to hold shape.",
+      "bangla": "রামি ফাইবার হলো রামি গাছের কাণ্ড থেকে প্রাপ্ত একটি প্রাকৃতিক তন্তু, যা উজ্জ্বলতা, জীবাণু প্রতিরোধ ক্ষমতা এবং আকার ধরে রাখার জন্য পরিচিত।"
+    },
+    "category": "raw_materials",
+    "subcategory": "natural_fibers",
+    "tags": ["ramie", "bast_fiber", "natural", "lustrous", "resistant"],
+    "relationships": {
+      "related": ["linen_fiber", "hemp_fiber", "jute_fiber"],
+      "synonyms": ["china_grass"],
+      "children": ["degummed_ramie", "raw_ramie"],
+      "parent": "natural_fiber"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "low",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "spandex": {
+    "definitions": {
+      "english": "Spandex is a synthetic fiber known for its exceptional elasticity, lightweight nature, and use in sportswear, leggings, and stretchable fabrics.",
+      "bangla": "স্প্যানডেক্স হলো একটি কৃত্রিম তন্তু, যা উচ্চমাত্রার স্থিতিস্থাপকতা, হালকা প্রকৃতি এবং খেলাধুলার পোশাক ও স্ট্রেচেবল কাপড়ে ব্যবহারের জন্য পরিচিত।"
+    },
+    "category": "raw_materials",
+    "subcategory": "synthetic_fibers",
+    "tags": ["spandex", "elastic", "synthetic", "stretch", "sportswear"],
+    "relationships": {
+      "related": ["nylon_fiber", "polyester_fiber", "lycra"],
+      "synonyms": ["elastane", "lycra"],
+      "children": ["core_spun_spandex", "covered_spandex"],
+      "parent": "synthetic_fiber"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "aramid_fiber": {
+    "definitions": {
+      "english": "Aramid fiber is a high-performance synthetic fiber with excellent heat resistance, flame resistance, and strength, commonly used in protective clothing and composites.",
+      "bangla": "অ্যারামিড ফাইবার হলো একটি উচ্চ কার্যক্ষমতার কৃত্রিম তন্তু, যা তাপ, অগ্নি প্রতিরোধ এবং শক্তির জন্য পরিচিত, এবং সুরক্ষামূলক পোশাকে ব্যবহৃত হয়।"
+    },
+    "category": "raw_materials",
+    "subcategory": "synthetic_fibers",
+    "tags": ["aramid", "heat_resistant", "synthetic", "protective", "strong"],
+    "relationships": {
+      "related": ["nylon_fiber", "polyester_fiber", "carbon_fiber"],
+      "synonyms": ["kevlar", "nomex"],
+      "children": ["para_aramid", "meta_aramid"],
+      "parent": "synthetic_fiber"
+    },
+    "metadata": {
+      "difficulty": "advanced",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "carbon_fiber": {
+    "definitions": {
+      "english": "Carbon fiber is a lightweight, high-strength synthetic fiber made from carbonized polymer filaments, widely used in aerospace, sports equipment, and technical textiles.",
+      "bangla": "কার্বন ফাইবার হলো কার্বনাইজড পলিমার ফিলামেন্ট থেকে তৈরি একটি হালকা কিন্তু শক্তিশালী কৃত্রিম তন্তু, যা বিমান, ক্রীড়া সরঞ্জাম এবং প্রযুক্তিগত বস্ত্রে ব্যবহৃত হয়।"
+    },
+    "category": "raw_materials",
+    "subcategory": "synthetic_fibers",
+    "tags": ["carbon", "synthetic", "high_strength", "lightweight", "technical"],
+    "relationships": {
+      "related": ["aramid_fiber", "glass_fiber", "polyester_fiber"],
+      "synonyms": ["graphite_fiber"],
+      "children": ["woven_carbon_fabric", "nonwoven_carbon_fabric"],
+      "parent": "synthetic_fiber"
+    },
+    "metadata": {
+      "difficulty": "advanced",
+      "frequency": "low",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "glass_fiber": {
+    "definitions": {
+      "english": "Glass fiber is a synthetic inorganic fiber made from molten glass, valued for its high tensile strength, fire resistance, and use in composites and industrial textiles.",
+      "bangla": "গ্লাস ফাইবার হলো গলিত কাচ থেকে তৈরি একটি অজৈব কৃত্রিম তন্তু, যা উচ্চ টেনসাইল শক্তি, অগ্নি প্রতিরোধ ক্ষমতা এবং শিল্প বস্ত্রে ব্যবহারের জন্য পরিচিত।"
+    },
+    "category": "raw_materials",
+    "subcategory": "synthetic_fibers",
+    "tags": ["glass", "synthetic", "fire_resistant", "industrial", "composite"],
+    "relationships": {
+      "related": ["carbon_fiber", "aramid_fiber", "polyester_fiber"],
+      "synonyms": ["fiberglass"],
+      "children": ["woven_glass_fabric", "chopped_glass_fiber"],
+      "parent": "synthetic_fiber"
+    },
+    "metadata": {
+      "difficulty": "advanced",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "jacquard_weave": {
+    "definitions": {
+      "english": "Jacquard weave is a complex woven structure created using a jacquard loom, allowing intricate patterns and motifs to be woven directly into the fabric.",
+      "bangla": "জ্যাকুয়ার্ড উইভ হলো একটি জটিল বুনন কাঠামো, যা জ্যাকুয়ার্ড লুম ব্যবহার করে তৈরি হয় এবং সরাসরি কাপড়ে নকশা বোনা সম্ভব করে।"
+    },
+    "category": "fabrics",
+    "subcategory": "woven_fabrics",
+    "tags": ["jacquard", "weave", "pattern", "fabric", "loom"],
+    "relationships": {
+      "related": ["dobby_weave", "plain_weave", "twill_weave"],
+      "synonyms": ["jacquard_pattern"],
+      "children": ["brocade", "damask"],
+      "parent": "woven_fabric"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  }
+}
+{
+  "dobby_weave": {
+    "definitions": {
+      "english": "Dobby weave is a woven structure produced on a dobby loom, capable of creating small geometric patterns and textures by controlling individual warp threads.",
+      "bangla": "ডবি উইভ হলো একটি বুনন কাঠামো যা ডবি লুমে তৈরি হয় এবং পৃথক ওয়ার্প সূতা নিয়ন্ত্রণ করে ছোট জ্যামিতিক নকশা তৈরি করতে সক্ষম।"
+    },
+    "category": "fabrics",
+    "subcategory": "woven_fabrics",
+    "tags": ["dobby", "weave", "pattern", "fabric", "loom"],
+    "relationships": {
+      "related": ["jacquard_weave", "plain_weave", "twill_weave"],
+      "synonyms": ["dobby_pattern"],
+      "children": ["striped_dobby", "checked_dobby"],
+      "parent": "woven_fabric"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "nonwoven_fabric": {
+    "definitions": {
+      "english": "Nonwoven fabric is a textile structure made by bonding or felting fibers together, rather than weaving or knitting, often used in medical, hygiene, and industrial products.",
+      "bangla": "ননউভেন ফ্যাব্রিক হলো একটি বস্ত্র কাঠামো যা তন্তুগুলোকে একত্রে জোড়া বা ফেল্টিং করে তৈরি হয়, বোনা বা বুননের পরিবর্তে, এবং চিকিৎসা, স্বাস্থ্যবিধি ও শিল্প পণ্যে ব্যবহৃত হয়।"
+    },
+    "category": "fabrics",
+    "subcategory": "nonwoven_fabrics",
+    "tags": ["nonwoven", "fabric", "bonded", "medical", "industrial"],
+    "relationships": {
+      "related": ["felt_fabric", "woven_fabric", "knitted_fabric"],
+      "synonyms": ["bonded_fabric"],
+      "children": ["spunbond", "meltblown"],
+      "parent": "fabric"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "felt_fabric": {
+    "definitions": {
+      "english": "Felt fabric is a nonwoven textile produced by matting, condensing, and pressing fibers together, traditionally using wool but also synthetic fibers.",
+      "bangla": "ফেল্ট ফ্যাব্রিক হলো একটি ননউভেন বস্ত্র, যা তন্তুগুলোকে মাটিং, কনডেন্সিং এবং প্রেসিং করে একত্রিত করার মাধ্যমে তৈরি হয়, সাধারণত উল ব্যবহার করা হয় তবে কৃত্রিম তন্তুও ব্যবহার হয়।"
+    },
+    "category": "fabrics",
+    "subcategory": "nonwoven_fabrics",
+    "tags": ["felt", "nonwoven", "wool", "synthetic", "fabric"],
+    "relationships": {
+      "related": ["nonwoven_fabric", "wool_fiber", "technical_textiles"],
+      "synonyms": ["pressed_fabric"],
+      "children": ["needle_felt", "wet_felt"],
+      "parent": "nonwoven_fabric"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "knitted_fabric": {
+    "definitions": {
+      "english": "Knitted fabric is a textile created by interlooping yarns using needles, producing a stretchable and flexible structure commonly used in t-shirts, sweaters, and hosiery.",
+      "bangla": "নিটেড ফ্যাব্রিক হলো একটি বস্ত্র যা সূঁচ ব্যবহার করে সুতার লুপ তৈরি করে তৈরি হয়, যা প্রসারণযোগ্য এবং নমনীয়, এবং টি-শার্ট, সোয়েটার ও মোজায় ব্যবহৃত হয়।"
+    },
+    "category": "fabrics",
+    "subcategory": "knitted_fabrics",
+    "tags": ["knit", "fabric", "yarn", "stretchable", "hosiery"],
+    "relationships": {
+      "related": ["woven_fabric", "weft_knit", "warp_knit"],
+      "synonyms": ["looped_fabric"],
+      "children": ["single_jersey", "rib_knit"],
+      "parent": "fabric"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "weft_knit": {
+    "definitions": {
+      "english": "Weft knit is a knitted fabric structure where yarns run horizontally across the fabric, known for elasticity and comfort, often used in t-shirts and casual wear.",
+      "bangla": "ওয়েফট নিট হলো একটি নিটেড ফ্যাব্রিক কাঠামো যেখানে সুতা কাপড়ের ওপর অনুভূমিকভাবে চলে, যা স্থিতিস্থাপকতা ও আরামের জন্য পরিচিত এবং সাধারণত টি-শার্ট ও ক্যাজুয়াল পোশাকে ব্যবহৃত হয়।"
+    },
+    "category": "fabrics",
+    "subcategory": "knitted_fabrics",
+    "tags": ["weft_knit", "knit", "fabric", "elastic", "casual"],
+    "relationships": {
+      "related": ["warp_knit", "single_jersey", "rib_knit"],
+      "synonyms": ["weft_knitted_fabric"],
+      "children": ["plain_weft_knit", "purl_knit"],
+      "parent": "knitted_fabric"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "warp_knit": {
+    "definitions": {
+      "english": "Warp knit is a knitted fabric structure where yarns run vertically, offering stability, less elasticity than weft knits, and common use in lingerie and sportswear.",
+      "bangla": "ওয়ার্প নিট হলো একটি নিটেড ফ্যাব্রিক কাঠামো যেখানে সুতা উল্লম্বভাবে চলে, যা স্থায়িত্ব দেয়, ওয়েফট নিটের তুলনায় কম স্থিতিস্থাপক হয় এবং সাধারণত অন্তর্বাস ও খেলাধুলার পোশাকে ব্যবহৃত হয়।"
+    },
+    "category": "fabrics",
+    "subcategory": "knitted_fabrics",
+    "tags": ["warp_knit", "knit", "fabric", "stable", "sportswear"],
+    "relationships": {
+      "related": ["weft_knit", "tricot", "raschel"],
+      "synonyms": ["warp_knitted_fabric"],
+      "children": ["tricot_knit", "raschel_knit"],
+      "parent": "knitted_fabric"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "single_jersey": {
+    "definitions": {
+      "english": "Single jersey is a lightweight, weft knitted fabric with smooth face and looped back, widely used for making t-shirts, undergarments, and casual wear.",
+      "bangla": "সিঙ্গেল জার্সি হলো একটি হালকা ওজনের ওয়েফট নিটেড ফ্যাব্রিক, যার সামনের দিক মসৃণ এবং পেছনের দিক লুপযুক্ত, যা টি-শার্ট, অন্তর্বাস ও ক্যাজুয়াল পোশাকে ব্যবহৃত হয়।"
+    },
+    "category": "fabrics",
+    "subcategory": "knitted_fabrics",
+    "tags": ["single_jersey", "knit", "fabric", "lightweight", "casual"],
+    "relationships": {
+      "related": ["rib_knit", "weft_knit", "knitted_fabric"],
+      "synonyms": ["jersey_fabric"],
+      "children": ["cotton_jersey", "polyester_jersey"],
+      "parent": "weft_knit"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "rib_knit": {
+    "definitions": {
+      "english": "Rib knit is a knitted fabric structure characterized by alternating knit and purl stitches, providing high elasticity and used for cuffs, collars, and waistbands.",
+      "bangla": "রিব নিট হলো একটি নিটেড ফ্যাব্রিক কাঠামো, যা নিট ও পার্ল সেলাই পর্যায়ক্রমে তৈরি হয়, উচ্চ স্থিতিস্থাপকতা প্রদান করে এবং কাফ, কলার ও কোমরবন্ধনে ব্যবহৃত হয়।"
+    },
+    "category": "fabrics",
+    "subcategory": "knitted_fabrics",
+    "tags": ["rib_knit", "elastic", "fabric", "collar", "cuff"],
+    "relationships": {
+      "related": ["single_jersey", "weft_knit", "warp_knit"],
+      "synonyms": ["ribbed_fabric"],
+      "children": ["1x1_rib", "2x2_rib"],
+      "parent": "knitted_fabric"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "tricot_knit": {
+    "definitions": {
+      "english": "Tricot knit is a type of warp knitted fabric with fine vertical wales on the front and crosswise ribs on the back, often used in lingerie and linings.",
+      "bangla": "ট্রিকট নিট হলো একটি ওয়ার্প নিটেড ফ্যাব্রিক, যার সামনের দিকে সূক্ষ্ম উল্লম্ব ওয়েলস এবং পেছনে আড়াআড়ি রিব থাকে, যা সাধারণত অন্তর্বাস ও আস্তরণে ব্যবহৃত হয়।"
+    },
+    "category": "fabrics",
+    "subcategory": "knitted_fabrics",
+    "tags": ["tricot", "warp_knit", "fabric", "lingerie", "lining"],
+    "relationships": {
+      "related": ["raschel_knit", "warp_knit", "knitted_fabric"],
+      "synonyms": ["tricot_fabric"],
+      "children": ["nylon_tricot", "polyester_tricot"],
+      "parent": "warp_knit"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "raschel_knit": {
+    "definitions": {
+      "english": "Raschel knit is a warp knitted fabric produced on raschel machines, often creating openwork, lace-like structures, widely used in curtains and sports fabrics.",
+      "bangla": "রাসচেল নিট হলো একটি ওয়ার্প নিটেড ফ্যাব্রিক যা রাসচেল মেশিনে তৈরি হয়, যা প্রায়ই লেস-এর মতো খোলা কাঠামো তৈরি করে এবং পর্দা ও খেলাধুলার বস্ত্রে ব্যবহৃত হয়।"
+    },
+    "category": "fabrics",
+    "subcategory": "knitted_fabrics",
+    "tags": ["raschel", "warp_knit", "fabric", "lace", "curtain"],
+    "relationships": {
+      "related": ["tricot_knit", "warp_knit", "knitted_fabric"],
+      "synonyms": ["raschel_fabric"],
+      "children": ["raschel_lace", "raschel_mesh"],
+      "parent": "warp_knit"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "low",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  }
+}
+{
+  "mercerization": {
+    "definitions": {
+      "english": "Mercerization is a chemical finishing process applied to cotton fibers or fabrics using caustic soda, improving luster, strength, dye affinity, and dimensional stability.",
+      "bangla": "মার্সারাইজেশন হলো একটি রাসায়নিক সমাপ্তি প্রক্রিয়া যা তুলার তন্তু বা কাপড়ে কস্টিক সোডা ব্যবহার করে প্রয়োগ করা হয়, যা উজ্জ্বলতা, শক্তি, রঙ গ্রহণক্ষমতা এবং মাত্রিক স্থায়িত্ব উন্নত করে।"
+    },
+    "category": "finishes",
+    "subcategory": "chemical_finishes",
+    "tags": ["mercerization", "cotton", "finish", "luster", "strength"],
+    "relationships": {
+      "related": ["singeing", "scouring", "bleaching"],
+      "synonyms": ["alkali_treatment"],
+      "children": ["yarn_mercerization", "fabric_mercerization"],
+      "parent": "chemical_finish"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "singeing": {
+    "definitions": {
+      "english": "Singeing is a fabric finishing process that removes protruding fibers from the fabric surface by burning or heat exposure, resulting in a smooth appearance.",
+      "bangla": "সিঞ্জিং হলো একটি ফ্যাব্রিক সমাপ্তি প্রক্রিয়া যা কাপড়ের পৃষ্ঠ থেকে উঁচু তন্তুগুলোকে আগুন বা তাপ দিয়ে সরিয়ে মসৃণ চেহারা প্রদান করে।"
+    },
+    "category": "finishes",
+    "subcategory": "mechanical_finishes",
+    "tags": ["singeing", "finish", "fabric", "smooth", "surface"],
+    "relationships": {
+      "related": ["mercerization", "scouring", "bleaching"],
+      "synonyms": ["gassing"],
+      "children": ["gas_singeing", "plate_singeing"],
+      "parent": "mechanical_finish"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "scouring": {
+    "definitions": {
+      "english": "Scouring is a pretreatment process in textile finishing where natural and synthetic impurities are removed from fibers, yarns, or fabrics using alkali or detergents.",
+      "bangla": "স্কাউরিং হলো একটি প্রি-ট্রিটমেন্ট প্রক্রিয়া যেখানে তন্তু, সুতা বা কাপড় থেকে প্রাকৃতিক ও কৃত্রিম অমেধ্য ক্ষার বা ডিটারজেন্ট দিয়ে সরানো হয়।"
+    },
+    "category": "finishes",
+    "subcategory": "pretreatment",
+    "tags": ["scouring", "pretreatment", "impurities", "alkali", "detergent"],
+    "relationships": {
+      "related": ["bleaching", "desizing", "singeing"],
+      "synonyms": ["alkali_scouring"],
+      "children": ["yarn_scouring", "fabric_scouring"],
+      "parent": "pretreatment_process"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "bleaching": {
+    "definitions": {
+      "english": "Bleaching is a textile pretreatment process that whitens fabrics by removing natural color, impurities, and stains using oxidizing or reducing agents.",
+      "bangla": "ব্লিচিং হলো একটি টেক্সটাইল প্রি-ট্রিটমেন্ট প্রক্রিয়া, যা অক্সিডাইজিং বা রিডিউসিং এজেন্ট ব্যবহার করে কাপড়ের প্রাকৃতিক রঙ, অমেধ্য ও দাগ সরিয়ে সাদা করে।"
+    },
+    "category": "finishes",
+    "subcategory": "pretreatment",
+    "tags": ["bleaching", "whitening", "pretreatment", "fabric", "finish"],
+    "relationships": {
+      "related": ["scouring", "mercerization", "singeing"],
+      "synonyms": ["fabric_whitening"],
+      "children": ["hydrogen_peroxide_bleaching", "sodium_hypochlorite_bleaching"],
+      "parent": "pretreatment_process"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "desizing": {
+    "definitions": {
+      "english": "Desizing is the process of removing size materials applied on warp yarns during weaving, usually using enzymes, acids, or oxidizing agents.",
+      "bangla": "ডিসাইজিং হলো একটি প্রক্রিয়া যেখানে ওয়ার্প সুতোতে প্রয়োগ করা সাইজিং পদার্থ অপসারণ করা হয়, সাধারণত এনজাইম, অ্যাসিড বা অক্সিডাইজিং এজেন্ট ব্যবহার করে।"
+    },
+    "category": "finishes",
+    "subcategory": "pretreatment",
+    "tags": ["desizing", "pretreatment", "enzyme", "warp", "finish"],
+    "relationships": {
+      "related": ["scouring", "bleaching", "singeing"],
+      "synonyms": ["size_removal"],
+      "children": ["enzyme_desizing", "acid_desizing"],
+      "parent": "pretreatment_process"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "calendering": {
+    "definitions": {
+      "english": "Calendering is a mechanical finishing process where fabric is passed through heated rollers to improve smoothness, gloss, compactness, or create special effects.",
+      "bangla": "ক্যালেন্ডারিং হলো একটি মেকানিক্যাল সমাপ্তি প্রক্রিয়া যেখানে কাপড়কে গরম রোলারের মধ্যে দিয়ে পাঠানো হয় মসৃণতা, চকচকে ভাব, ঘনত্ব বা বিশেষ প্রভাব দেওয়ার জন্য।"
+    },
+    "category": "finishes",
+    "subcategory": "mechanical_finishes",
+    "tags": ["calendering", "finish", "rollers", "smooth", "gloss"],
+    "relationships": {
+      "related": ["singeing", "embossing", "mercerization"],
+      "synonyms": ["roller_finish"],
+      "children": ["chasing", "embossed_calendering"],
+      "parent": "mechanical_finish"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "embossing": {
+    "definitions": {
+      "english": "Embossing is a mechanical textile finishing process where engraved rollers press patterns into fabric surfaces, producing raised decorative designs.",
+      "bangla": "এম্বসিং হলো একটি মেকানিক্যাল টেক্সটাইল সমাপ্তি প্রক্রিয়া, যেখানে খোদাই করা রোলার কাপড়ের উপর নকশা চাপ দিয়ে উঁচু অলংকার তৈরি করে।"
+    },
+    "category": "finishes",
+    "subcategory": "mechanical_finishes",
+    "tags": ["embossing", "finish", "pattern", "decorative", "rollers"],
+    "relationships": {
+      "related": ["calendering", "printing", "jacquard_weave"],
+      "synonyms": ["pattern_pressing"],
+      "children": ["heat_embossing", "cold_embossing"],
+      "parent": "mechanical_finish"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "low",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "sanforization": {
+    "definitions": {
+      "english": "Sanforization is a controlled compressive shrinkage process applied to fabrics, especially cotton, to ensure dimensional stability and prevent further shrinkage during use.",
+      "bangla": "স্যানফোরাইজেশন হলো একটি নিয়ন্ত্রিত সংকোচন প্রক্রিয়া যা কাপড়ে, বিশেষ করে তুলায়, প্রয়োগ করা হয় মাত্রিক স্থায়িত্ব নিশ্চিত করতে এবং পরবর্তী সঙ্কোচন প্রতিরোধ করতে।"
+    },
+    "category": "finishes",
+    "subcategory": "mechanical_finishes",
+    "tags": ["sanforization", "shrinkage", "finish", "cotton", "stability"],
+    "relationships": {
+      "related": ["pre_shrinking", "calendering", "compacting"],
+      "synonyms": ["pre_shrinking"],
+      "children": ["cotton_sanforization", "blended_fabric_sanforization"],
+      "parent": "mechanical_finish"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "waterproof_finish": {
+    "definitions": {
+      "english": "Waterproof finish is a functional textile treatment applied to fabrics to completely prevent water penetration, commonly used in rainwear, outdoor gear, and tents.",
+      "bangla": "ওয়াটারপ্রুফ ফিনিশ হলো একটি কার্যকর টেক্সটাইল ট্রিটমেন্ট যা কাপড়ে প্রয়োগ করা হয় যাতে পানি প্রবেশ করতে না পারে, সাধারণত রেইনকোট, আউটডোর গিয়ার ও তাঁবুতে ব্যবহৃত হয়।"
+    },
+    "category": "finishes",
+    "subcategory": "functional_finishes",
+    "tags": ["waterproof", "finish", "fabric", "rainwear", "functional"],
+    "relationships": {
+      "related": ["water_repellent_finish", "lamination", "coating"],
+      "synonyms": ["impermeable_finish"],
+      "children": ["polyurethane_coating", "PVC_coating"],
+      "parent": "functional_finish"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  }
+}
+{
+  "water_repellent_finish": {
+    "definitions": {
+      "english": "Water repellent finish is a functional treatment that makes fabric resist water penetration while maintaining breathability, unlike waterproof finishes.",
+      "bangla": "ওয়াটার রিপেলেন্ট ফিনিশ হলো একটি কার্যকর ট্রিটমেন্ট যা কাপড়কে পানি প্রতিরোধী করে তোলে কিন্তু শ্বাসপ্রশ্বাস বজায় রাখে, যা ওয়াটারপ্রুফ ফিনিশ থেকে ভিন্ন।"
+    },
+    "category": "finishes",
+    "subcategory": "functional_finishes",
+    "tags": ["water_repellent", "finish", "fabric", "functional", "treatment"],
+    "relationships": {
+      "related": ["waterproof_finish", "lamination", "coating"],
+      "synonyms": ["hydrophobic_finish"],
+      "children": ["fluorocarbon_finish", "silicone_finish"],
+      "parent": "functional_finish"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "antimicrobial_finish": {
+    "definitions": {
+      "english": "Antimicrobial finish is a textile treatment that inhibits the growth of bacteria, fungi, and microbes on fabrics, improving hygiene and durability.",
+      "bangla": "অ্যান্টিমাইক্রোবিয়াল ফিনিশ হলো একটি টেক্সটাইল ট্রিটমেন্ট যা কাপড়ে ব্যাকটেরিয়া, ফাংগি এবং জীবাণুর বৃদ্ধি প্রতিরোধ করে, স্বাস্থ্যবিধি ও স্থায়িত্ব উন্নত করে।"
+    },
+    "category": "finishes",
+    "subcategory": "functional_finishes",
+    "tags": ["antimicrobial", "finish", "fabric", "hygiene", "functional"],
+    "relationships": {
+      "related": ["antibacterial_finish", "odor_control_finish", "moisture_management"],
+      "synonyms": ["bio_finish"],
+      "children": ["silver_nanoparticle_finish", "triclosan_finish"],
+      "parent": "functional_finish"
+    },
+    "metadata": {
+      "difficulty": "advanced",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "flame_retardant_finish": {
+    "definitions": {
+      "english": "Flame retardant finish is a chemical treatment that reduces the flammability of textiles, ensuring safety in protective clothing and home furnishings.",
+      "bangla": "ফ্লেম রিটার্ড্যান্ট ফিনিশ হলো একটি রাসায়নিক ট্রিটমেন্ট যা টেক্সটাইলের দাহ্যতা কমায়, সুরক্ষা পোশাক ও গৃহস্থালী সজ্জায় নিরাপত্তা নিশ্চিত করে।"
+    },
+    "category": "finishes",
+    "subcategory": "functional_finishes",
+    "tags": ["flame_retardant", "finish", "safety", "protective", "chemical"],
+    "relationships": {
+      "related": ["antimicrobial_finish", "coating", "heat_resistant_finish"],
+      "synonyms": ["fire_resistant_finish"],
+      "children": ["durable_flame_retardant", "nondurable_flame_retardant"],
+      "parent": "functional_finish"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "wrinkle_resistant_finish": {
+    "definitions": {
+      "english": "Wrinkle resistant finish is a chemical treatment applied to fabrics, especially cotton, to improve crease recovery and maintain smooth appearance.",
+      "bangla": "রিঙ্কল রেজিস্ট্যান্ট ফিনিশ হলো একটি রাসায়নিক ট্রিটমেন্ট যা কাপড়ে, বিশেষ করে তুলায়, প্রয়োগ করা হয় ভাঁজ পুনরুদ্ধার উন্নত করতে এবং মসৃণ চেহারা বজায় রাখতে।"
+    },
+    "category": "finishes",
+    "subcategory": "functional_finishes",
+    "tags": ["wrinkle_resistant", "finish", "fabric", "appearance", "treatment"],
+    "relationships": {
+      "related": ["crease_resistant_finish", "durable_press_finish", "resin_finish"],
+      "synonyms": ["crease_resistant_finish"],
+      "children": ["durable_press", "resin_treated_finish"],
+      "parent": "functional_finish"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "oil_repellent_finish": {
+    "definitions": {
+      "english": "Oil repellent finish is a textile treatment that prevents fabrics from absorbing oils, stains, and greasy substances, commonly used in workwear.",
+      "bangla": "অয়েল রিপেলেন্ট ফিনিশ হলো একটি টেক্সটাইল ট্রিটমেন্ট যা কাপড়কে তেল, দাগ ও চর্বিযুক্ত পদার্থ শোষণ থেকে রক্ষা করে, সাধারণত কর্মপোশাকে ব্যবহৃত হয়।"
+    },
+    "category": "finishes",
+    "subcategory": "functional_finishes",
+    "tags": ["oil_repellent", "finish", "fabric", "stain_resistant", "workwear"],
+    "relationships": {
+      "related": ["stain_resistant_finish", "water_repellent_finish", "antimicrobial_finish"],
+      "synonyms": ["oleophobic_finish"],
+      "children": ["fluorochemical_finish", "nanocoating_finish"],
+      "parent": "functional_finish"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "low",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "stain_resistant_finish": {
+    "definitions": {
+      "english": "Stain resistant finish is a surface treatment that prevents absorption of dirt, liquids, and stains, prolonging fabric cleanliness and appearance.",
+      "bangla": "স্টেইন রেজিস্ট্যান্ট ফিনিশ হলো একটি সারফেস ট্রিটমেন্ট যা ময়লা, তরল ও দাগ শোষণ প্রতিরোধ করে, কাপড়ের পরিষ্কার-পরিচ্ছন্নতা ও চেহারা দীর্ঘস্থায়ী করে।"
+    },
+    "category": "finishes",
+    "subcategory": "functional_finishes",
+    "tags": ["stain_resistant", "finish", "fabric", "cleanliness", "surface"],
+    "relationships": {
+      "related": ["oil_repellent_finish", "water_repellent_finish", "antimicrobial_finish"],
+      "synonyms": ["soil_resistant_finish"],
+      "children": ["nanocoating_finish", "fluorocarbon_finish"],
+      "parent": "functional_finish"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "heat_setting": {
+    "definitions": {
+      "english": "Heat setting is a thermal treatment applied to synthetic fibers or fabrics to stabilize dimensions, improve crease resistance, and enhance durability.",
+      "bangla": "হিট সেটিং হলো একটি তাপীয় ট্রিটমেন্ট যা সিনথেটিক তন্তু বা কাপড়ে প্রয়োগ করা হয় মাত্রা স্থায়ী করতে, ভাঁজ প্রতিরোধ উন্নত করতে এবং স্থায়িত্ব বাড়াতে।"
+    },
+    "category": "finishes",
+    "subcategory": "thermal_finishes",
+    "tags": ["heat_setting", "thermal", "finish", "synthetic", "stability"],
+    "relationships": {
+      "related": ["thermofixation", "sanforization", "resin_finish"],
+      "synonyms": ["thermofixation"],
+      "children": ["polyester_heat_setting", "nylon_heat_setting"],
+      "parent": "thermal_finish"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "carbonizing": {
+    "definitions": {
+      "english": "Carbonizing is a chemical pretreatment process for wool where vegetable impurities are removed using sulfuric acid, improving fabric purity and smoothness.",
+      "bangla": "কার্বোনাইজিং হলো উলের জন্য একটি রাসায়নিক প্রি-ট্রিটমেন্ট প্রক্রিয়া যেখানে সালফিউরিক অ্যাসিড ব্যবহার করে উদ্ভিজ্জ অমেধ্য সরানো হয়, যা কাপড়ের বিশুদ্ধতা ও মসৃণতা বাড়ায়।"
+    },
+    "category": "finishes",
+    "subcategory": "pretreatment",
+    "tags": ["carbonizing", "wool", "pretreatment", "chemical", "purity"],
+    "relationships": {
+      "related": ["scouring", "bleaching", "desizing"],
+      "synonyms": ["acid_purification"],
+      "children": ["wool_carbonizing"],
+      "parent": "pretreatment_process"
+    },
+    "metadata": {
+      "difficulty": "advanced",
+      "frequency": "low",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "fulling": {
+    "definitions": {
+      "english": "Fulling is a finishing process for wool fabrics involving controlled washing, shrinking, and felting to improve thickness, strength, and warmth.",
+      "bangla": "ফুলিং হলো উলের কাপড়ের জন্য একটি ফিনিশিং প্রক্রিয়া যেখানে নিয়ন্ত্রিত ধোয়া, সংকোচন ও ফেল্টিং করা হয় পুরুত্ব, শক্তি ও উষ্ণতা উন্নত করতে।"
+    },
+    "category": "finishes",
+    "subcategory": "mechanical_finishes",
+    "tags": ["fulling", "wool", "finish", "thickness", "warmth"],
+    "relationships": {
+      "related": ["felting", "milling", "carbonizing"],
+      "synonyms": ["milling"],
+      "children": ["traditional_fulling", "modern_fulling"],
+      "parent": "mechanical_finish"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "low",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  }
+}
+{
+  "ring_spinning": {
+    "definitions": {
+      "english": "Ring spinning is a widely used spinning process that produces fine, strong, and uniform yarns by drafting fibers and twisting them through a traveler and ring system.",
+      "bangla": "রিং স্পিনিং হলো একটি বহুল ব্যবহৃত স্পিনিং প্রক্রিয়া যা ফাইবার ড্রাফটিং এবং ট্রাভেলার ও রিং সিস্টেমের মাধ্যমে মোচড় দিয়ে সূক্ষ্ম, শক্তিশালী ও সমান সুতা তৈরি করে।"
+    },
+    "category": "processes",
+    "subcategory": "spinning",
+    "tags": ["ring_spinning", "yarn", "process", "spinning", "uniform"],
+    "relationships": {
+      "related": ["open_end_spinning", "compact_spinning", "air_jet_spinning"],
+      "synonyms": ["conventional_spinning"],
+      "children": ["compact_ring_spinning", "siro_spinning"],
+      "parent": "spinning_process"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "open_end_spinning": {
+    "definitions": {
+      "english": "Open-end spinning is a modern spinning technique that forms yarn directly from sliver using a rotor, offering higher productivity but coarser yarn compared to ring spinning.",
+      "bangla": "ওপেন-এন্ড স্পিনিং হলো একটি আধুনিক স্পিনিং কৌশল যা স্লিভার থেকে সরাসরি রটার ব্যবহার করে সুতা তৈরি করে, রিং স্পিনিংয়ের তুলনায় উৎপাদনশীলতা বেশি কিন্তু সুতা তুলনামূলক মোটা হয়।"
+    },
+    "category": "processes",
+    "subcategory": "spinning",
+    "tags": ["open_end", "rotor", "yarn", "process", "spinning"],
+    "relationships": {
+      "related": ["ring_spinning", "air_jet_spinning", "friction_spinning"],
+      "synonyms": ["rotor_spinning"],
+      "children": ["friction_spinning"],
+      "parent": "spinning_process"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "air_jet_spinning": {
+    "definitions": {
+      "english": "Air-jet spinning is a high-speed spinning method where compressed air twists drafted fibers around a yarn core, producing bulkier and less strong yarns.",
+      "bangla": "এয়ার-জেট স্পিনিং হলো একটি উচ্চ-গতির স্পিনিং পদ্ধতি যেখানে সংকুচিত বাতাস ড্রাফট করা ফাইবারকে সুতা কোরের চারপাশে মোচড় দেয়, ফলে তুলনামূলকভাবে ফোলা ও কম শক্তিশালী সুতা তৈরি হয়।"
+    },
+    "category": "processes",
+    "subcategory": "spinning",
+    "tags": ["air_jet", "spinning", "yarn", "high_speed", "bulk"],
+    "relationships": {
+      "related": ["ring_spinning", "open_end_spinning", "vortex_spinning"],
+      "synonyms": ["mJS_spinning"],
+      "children": ["vortex_spinning"],
+      "parent": "spinning_process"
+    },
+    "metadata": {
+      "difficulty": "advanced",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "compact_spinning": {
+    "definitions": {
+      "english": "Compact spinning is a modified ring spinning method where fibers are condensed before twisting, producing stronger, smoother, and less hairy yarns.",
+      "bangla": "কমপ্যাক্ট স্পিনিং হলো একটি পরিবর্তিত রিং স্পিনিং পদ্ধতি যেখানে ফাইবারগুলো মোচড় দেওয়ার আগে কনডেন্স করা হয়, ফলে শক্তিশালী, মসৃণ এবং কম লোমশ সুতা তৈরি হয়।"
+    },
+    "category": "processes",
+    "subcategory": "spinning",
+    "tags": ["compact", "spinning", "yarn", "ring", "smooth"],
+    "relationships": {
+      "related": ["ring_spinning", "siro_spinning", "air_jet_spinning"],
+      "synonyms": ["condensed_spinning"],
+      "children": ["siro_spinning"],
+      "parent": "spinning_process"
+    },
+    "metadata": {
+      "difficulty": "advanced",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "friction_spinning": {
+    "definitions": {
+      "english": "Friction spinning is a rotor-based spinning process where fibers are twisted using frictional forces between rotating drums, producing coarse and bulky yarns.",
+      "bangla": "ফ্রিকশন স্পিনিং হলো একটি রটার-ভিত্তিক স্পিনিং প্রক্রিয়া যেখানে ফাইবারগুলো ঘূর্ণমান ড্রামের মধ্যে ঘর্ষণ শক্তি দিয়ে মোচড়ানো হয়, ফলে মোটা ও ফোলা সুতা তৈরি হয়।"
+    },
+    "category": "processes",
+    "subcategory": "spinning",
+    "tags": ["friction", "spinning", "rotor", "yarn", "coarse"],
+    "relationships": {
+      "related": ["open_end_spinning", "air_jet_spinning", "vortex_spinning"],
+      "synonyms": ["dref_spinning"],
+      "children": ["dref_2", "dref_3"],
+      "parent": "spinning_process"
+    },
+    "metadata": {
+      "difficulty": "advanced",
+      "frequency": "low",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "vortex_spinning": {
+    "definitions": {
+      "english": "Vortex spinning is an advanced air-jet spinning system where fibers are twisted in a swirling airflow, producing durable, low-hairiness yarns suitable for high-speed weaving.",
+      "bangla": "ভর্টেক্স স্পিনিং হলো একটি উন্নত এয়ার-জেট স্পিনিং সিস্টেম যেখানে ফাইবারগুলো ঘূর্ণায়মান বায়ুপ্রবাহে মোচড়ানো হয়, যা টেকসই, কম লোমশ সুতা তৈরি করে যা উচ্চ-গতির বুননের জন্য উপযুক্ত।"
+    },
+    "category": "processes",
+    "subcategory": "spinning",
+    "tags": ["vortex", "air_jet", "spinning", "durable", "weaving"],
+    "relationships": {
+      "related": ["air_jet_spinning", "compact_spinning", "friction_spinning"],
+      "synonyms": ["mvs_spinning"],
+      "children": [],
+      "parent": "spinning_process"
+    },
+    "metadata": {
+      "difficulty": "advanced",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "siro_spinning": {
+    "definitions": {
+      "english": "Siro spinning is a variation of ring or compact spinning where two rovings are drafted together, producing yarns with improved strength and reduced hairiness.",
+      "bangla": "সাইরো স্পিনিং হলো রিং বা কমপ্যাক্ট স্পিনিংয়ের একটি ভ্যারিয়েশন যেখানে দুটি রোভিং একসাথে ড্রাফট করা হয়, ফলে শক্তিশালী ও কম লোমশ সুতা তৈরি হয়।"
+    },
+    "category": "processes",
+    "subcategory": "spinning",
+    "tags": ["siro", "spinning", "ring", "compact", "strength"],
+    "relationships": {
+      "related": ["compact_spinning", "ring_spinning"],
+      "synonyms": ["twin_roving_spinning"],
+      "children": [],
+      "parent": "spinning_process"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "low",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  }
+}
+{
+  "mercerization": {
+    "definitions": {
+      "english": "Mercerization is a chemical process applied to cotton fibers or fabrics using caustic soda to improve luster, strength, dye affinity, and dimensional stability.",
+      "bangla": "মারসেরাইজেশন হলো কটন ফাইবার বা কাপড়ে কস্টিক সোডা প্রয়োগের মাধ্যমে উজ্জ্বলতা, দৃঢ়তা, রঙ ধারণ ক্ষমতা ও মাপগত স্থিতিশীলতা বাড়ানোর প্রক্রিয়া।"
+    },
+    "category": "finishes",
+    "subcategory": "chemical_finishes",
+    "tags": ["cotton", "mercerization", "finishing", "dyeing", "strength"],
+    "relationships": {
+      "related": ["scouring", "bleaching", "singeing"],
+      "synonyms": ["alkali_treatment"],
+      "children": [],
+      "parent": "chemical_finishes"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "scouring": {
+    "definitions": {
+      "english": "Scouring is the pretreatment process that removes natural impurities, oils, and waxes from textile fibers to enhance wettability and dyeing performance.",
+      "bangla": "স্কাওরিং হলো প্রাক-প্রক্রিয়া যেখানে তন্তু থেকে প্রাকৃতিক অমেধ্য, তেল ও মোম অপসারণ করে ভিজনক্ষমতা ও রঙ করার ক্ষমতা বৃদ্ধি করা হয়।"
+    },
+    "category": "processes",
+    "subcategory": "pretreatment",
+    "tags": ["scouring", "pretreatment", "impurities", "dyeing", "cleaning"],
+    "relationships": {
+      "related": ["bleaching", "desizing", "mercerization"],
+      "synonyms": ["alkali_scouring"],
+      "children": [],
+      "parent": "pretreatment"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "bleaching": {
+    "definitions": {
+      "english": "Bleaching is a chemical treatment process that removes natural color from textile fibers or fabrics to achieve a uniform white base suitable for dyeing or printing.",
+      "bangla": "ব্লিচিং হলো রাসায়নিক প্রক্রিয়া যা তন্তু বা কাপড় থেকে প্রাকৃতিক রঙ অপসারণ করে রঙ করা বা প্রিন্টিংয়ের জন্য সাদা বেস তৈরি করে।"
+    },
+    "category": "finishes",
+    "subcategory": "chemical_finishes",
+    "tags": ["bleaching", "whitening", "pretreatment", "cotton", "chemicals"],
+    "relationships": {
+      "related": ["scouring", "mercerization", "optical_brightening"],
+      "synonyms": ["whitening"],
+      "children": ["optical_bleaching"],
+      "parent": "chemical_finishes"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "desizing": {
+    "definitions": {
+      "english": "Desizing is the process of removing size materials, such as starch or synthetic polymers, applied during weaving to improve warp yarn strength and reduce breakage.",
+      "bangla": "ডিসাইজিং হলো প্রক্রিয়া যেখানে সাইজিং এর সময় ব্যবহৃত স্টার্চ বা সিনথেটিক পদার্থ সরানো হয়।"
+    },
+    "category": "processes",
+    "subcategory": "pretreatment",
+    "tags": ["desizing", "pretreatment", "weaving", "starch", "enzymes"],
+    "relationships": {
+      "related": ["scouring", "bleaching", "enzymatic_desizing"],
+      "synonyms": ["size_removal"],
+      "children": ["enzymatic_desizing"],
+      "parent": "pretreatment"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "singeing": {
+    "definitions": {
+      "english": "Singeing is a pretreatment process in which protruding fibers are burnt off from fabric surfaces using flames or heated plates to produce a smooth surface.",
+      "bangla": "সিঞ্জিং হলো প্রাক-প্রক্রিয়া যেখানে শিখা বা গরম প্লেট দিয়ে কাপড়ের উপরের অতিরিক্ত তন্তু পোড়ানো হয়।"
+    },
+    "category": "processes",
+    "subcategory": "pretreatment",
+    "tags": ["singeing", "pretreatment", "surface", "smooth", "flame"],
+    "relationships": {
+      "related": ["scouring", "bleaching", "shearing"],
+      "synonyms": ["gassing"],
+      "children": [],
+      "parent": "pretreatment"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "calendering": {
+    "definitions": {
+      "english": "Calendering is a mechanical finishing process where fabric passes between heated rollers to enhance smoothness, luster, and fabric density.",
+      "bangla": "ক্যালেন্ডারিং হলো যান্ত্রিক সমাপ্তি প্রক্রিয়া যেখানে কাপড় গরম রোলারের মধ্যে দিয়ে নিয়ে মসৃণতা, উজ্জ্বলতা ও ঘনত্ব বৃদ্ধি করা হয়।"
+    },
+    "category": "finishes",
+    "subcategory": "mechanical_finishes",
+    "tags": ["calendering", "finishing", "rollers", "luster", "mechanical"],
+    "relationships": {
+      "related": ["mercerization", "singeing", "sanforizing"],
+      "synonyms": ["roller_finishing"],
+      "children": ["moiré_calendering"],
+      "parent": "mechanical_finishes"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "sanforizing": {
+    "definitions": {
+      "english": "Sanforizing is a mechanical finishing process that pre-shrinks fabrics using controlled compression and steam, ensuring dimensional stability during washing.",
+      "bangla": "স্যানফোরাইজিং হলো যান্ত্রিক সমাপ্তি প্রক্রিয়া যেখানে নিয়ন্ত্রিত চাপ ও বাষ্প ব্যবহার করে কাপড়কে আগেই সংকুচিত করা হয়।"
+    },
+    "category": "finishes",
+    "subcategory": "mechanical_finishes",
+    "tags": ["sanforizing", "pre_shrinkage", "finishing", "stability", "mechanical"],
+    "relationships": {
+      "related": ["calendering", "compacting", "heat_setting"],
+      "synonyms": ["pre_shrinking"],
+      "children": [],
+      "parent": "mechanical_finishes"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "heat_setting": {
+    "definitions": {
+      "english": "Heat setting is a thermal process applied to synthetic fibers or fabrics to stabilize dimensions, remove stresses, and improve wrinkle resistance.",
+      "bangla": "হিট সেটিং হলো একটি তাপীয় প্রক্রিয়া যা সিন্থেটিক তন্তুতে প্রয়োগ করে মাপগত স্থিতিশীলতা, চাপমুক্তি ও ভাঁজ প্রতিরোধ বাড়ানো হয়।"
+    },
+    "category": "finishes",
+    "subcategory": "thermal_finishes",
+    "tags": ["heat_setting", "synthetics", "stability", "thermal", "wrinkle_free"],
+    "relationships": {
+      "related": ["sanforizing", "calendering", "stentering"],
+      "synonyms": ["thermal_fixing"],
+      "children": [],
+      "parent": "thermal_finishes"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "stentering": {
+    "definitions": {
+      "english": "Stentering is a finishing process where fabric is stretched widthwise on a stenter frame under heat to achieve uniform width, drying, and dimensional stability.",
+      "bangla": "স্টেন্টারিং হলো একটি প্রক্রিয়া যেখানে কাপড়কে গরমের সাহায্যে প্রস্থে প্রসারিত করে একরূপ প্রস্থ, শুকানো ও মাপগত স্থিতিশীলতা অর্জন করা হয়।"
+    },
+    "category": "finishes",
+    "subcategory": "thermal_finishes",
+    "tags": ["stentering", "finishing", "thermal", "stability", "width_control"],
+    "relationships": {
+      "related": ["heat_setting", "sanforizing", "calendering"],
+      "synonyms": ["frame_finishing"],
+      "children": [],
+      "parent": "thermal_finishes"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  }
+}
+{
+  "mercerization": {
+    "definitions": {
+      "english": "Mercerization is a chemical process applied to cotton fibers or fabrics using caustic soda to improve luster, strength, dye affinity, and dimensional stability.",
+      "bangla": "মারসেরাইজেশন হলো কটন ফাইবার বা কাপড়ে কস্টিক সোডা প্রয়োগের মাধ্যমে উজ্জ্বলতা, দৃঢ়তা, রঙ ধারণ ক্ষমতা ও মাপগত স্থিতিশীলতা বাড়ানোর প্রক্রিয়া।"
+    },
+    "category": "finishes",
+    "subcategory": "chemical_finishes",
+    "tags": ["cotton", "mercerization", "finishing", "dyeing", "strength"],
+    "relationships": {
+      "related": ["scouring", "bleaching", "singeing"],
+      "synonyms": ["alkali_treatment"],
+      "children": [],
+      "parent": "chemical_finishes"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "scouring": {
+    "definitions": {
+      "english": "Scouring is the pretreatment process that removes natural impurities, oils, and waxes from textile fibers to enhance wettability and dyeing performance.",
+      "bangla": "স্কাওরিং হলো প্রাক-প্রক্রিয়া যেখানে তন্তু থেকে প্রাকৃতিক অমেধ্য, তেল ও মোম অপসারণ করে ভিজনক্ষমতা ও রঙ করার ক্ষমতা বৃদ্ধি করা হয়।"
+    },
+    "category": "processes",
+    "subcategory": "pretreatment",
+    "tags": ["scouring", "pretreatment", "impurities", "dyeing", "cleaning"],
+    "relationships": {
+      "related": ["bleaching", "desizing", "mercerization"],
+      "synonyms": ["alkali_scouring"],
+      "children": [],
+      "parent": "pretreatment"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "bleaching": {
+    "definitions": {
+      "english": "Bleaching is a chemical treatment process that removes natural color from textile fibers or fabrics to achieve a uniform white base suitable for dyeing or printing.",
+      "bangla": "ব্লিচিং হলো রাসায়নিক প্রক্রিয়া যা তন্তু বা কাপড় থেকে প্রাকৃতিক রঙ অপসারণ করে রঙ করা বা প্রিন্টিংয়ের জন্য সাদা বেস তৈরি করে।"
+    },
+    "category": "finishes",
+    "subcategory": "chemical_finishes",
+    "tags": ["bleaching", "whitening", "pretreatment", "cotton", "chemicals"],
+    "relationships": {
+      "related": ["scouring", "mercerization", "optical_brightening"],
+      "synonyms": ["whitening"],
+      "children": ["optical_bleaching"],
+      "parent": "chemical_finishes"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "desizing": {
+    "definitions": {
+      "english": "Desizing is the process of removing size materials, such as starch or synthetic polymers, applied during weaving to improve warp yarn strength and reduce breakage.",
+      "bangla": "ডিসাইজিং হলো প্রক্রিয়া যেখানে সাইজিং এর সময় ব্যবহৃত স্টার্চ বা সিনথেটিক পদার্থ সরানো হয়।"
+    },
+    "category": "processes",
+    "subcategory": "pretreatment",
+    "tags": ["desizing", "pretreatment", "weaving", "starch", "enzymes"],
+    "relationships": {
+      "related": ["scouring", "bleaching", "enzymatic_desizing"],
+      "synonyms": ["size_removal"],
+      "children": ["enzymatic_desizing"],
+      "parent": "pretreatment"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "singeing": {
+    "definitions": {
+      "english": "Singeing is a pretreatment process in which protruding fibers are burnt off from fabric surfaces using flames or heated plates to produce a smooth surface.",
+      "bangla": "সিঞ্জিং হলো প্রাক-প্রক্রিয়া যেখানে শিখা বা গরম প্লেট দিয়ে কাপড়ের উপরের অতিরিক্ত তন্তু পোড়ানো হয়।"
+    },
+    "category": "processes",
+    "subcategory": "pretreatment",
+    "tags": ["singeing", "pretreatment", "surface", "smooth", "flame"],
+    "relationships": {
+      "related": ["scouring", "bleaching", "shearing"],
+      "synonyms": ["gassing"],
+      "children": [],
+      "parent": "pretreatment"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "calendering": {
+    "definitions": {
+      "english": "Calendering is a mechanical finishing process where fabric passes between heated rollers to enhance smoothness, luster, and fabric density.",
+      "bangla": "ক্যালেন্ডারিং হলো যান্ত্রিক সমাপ্তি প্রক্রিয়া যেখানে কাপড় গরম রোলারের মধ্যে দিয়ে নিয়ে মসৃণতা, উজ্জ্বলতা ও ঘনত্ব বৃদ্ধি করা হয়।"
+    },
+    "category": "finishes",
+    "subcategory": "mechanical_finishes",
+    "tags": ["calendering", "finishing", "rollers", "luster", "mechanical"],
+    "relationships": {
+      "related": ["mercerization", "singeing", "sanforizing"],
+      "synonyms": ["roller_finishing"],
+      "children": ["moiré_calendering"],
+      "parent": "mechanical_finishes"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "sanforizing": {
+    "definitions": {
+      "english": "Sanforizing is a mechanical finishing process that pre-shrinks fabrics using controlled compression and steam, ensuring dimensional stability during washing.",
+      "bangla": "স্যানফোরাইজিং হলো যান্ত্রিক সমাপ্তি প্রক্রিয়া যেখানে নিয়ন্ত্রিত চাপ ও বাষ্প ব্যবহার করে কাপড়কে আগেই সংকুচিত করা হয়।"
+    },
+    "category": "finishes",
+    "subcategory": "mechanical_finishes",
+    "tags": ["sanforizing", "pre_shrinkage", "finishing", "stability", "mechanical"],
+    "relationships": {
+      "related": ["calendering", "compacting", "heat_setting"],
+      "synonyms": ["pre_shrinking"],
+      "children": [],
+      "parent": "mechanical_finishes"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "heat_setting": {
+    "definitions": {
+      "english": "Heat setting is a thermal process applied to synthetic fibers or fabrics to stabilize dimensions, remove stresses, and improve wrinkle resistance.",
+      "bangla": "হিট সেটিং হলো একটি তাপীয় প্রক্রিয়া যা সিন্থেটিক তন্তুতে প্রয়োগ করে মাপগত স্থিতিশীলতা, চাপমুক্তি ও ভাঁজ প্রতিরোধ বাড়ানো হয়।"
+    },
+    "category": "finishes",
+    "subcategory": "thermal_finishes",
+    "tags": ["heat_setting", "synthetics", "stability", "thermal", "wrinkle_free"],
+    "relationships": {
+      "related": ["sanforizing", "calendering", "stentering"],
+      "synonyms": ["thermal_fixing"],
+      "children": [],
+      "parent": "thermal_finishes"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "stentering": {
+    "definitions": {
+      "english": "Stentering is a finishing process where fabric is stretched widthwise on a stenter frame under heat to achieve uniform width, drying, and dimensional stability.",
+      "bangla": "স্টেন্টারিং হলো একটি প্রক্রিয়া যেখানে কাপড়কে গরমের সাহায্যে প্রস্থে প্রসারিত করে একরূপ প্রস্থ, শুকানো ও মাপগত স্থিতিশীলতা অর্জন করা হয়।"
+    },
+    "category": "finishes",
+    "subcategory": "thermal_finishes",
+    "tags": ["stentering", "finishing", "thermal", "stability", "width_control"],
+    "relationships": {
+      "related": ["heat_setting", "sanforizing", "calendering"],
+      "synonyms": ["frame_finishing"],
+      "children": [],
+      "parent": "thermal_finishes"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "shearing": {
+    "definitions": {
+      "english": "Shearing is a mechanical finishing process that removes surface fibers or protrusions from fabrics using precision blades to create a uniform surface.",
+      "bangla": "শিয়ারিং হলো যান্ত্রিক সমাপ্তি প্রক্রিয়া যেখানে ব্লেডের সাহায্যে কাপড়ের উপরিভাগ থেকে অতিরিক্ত তন্তু অপসারণ করা হয়।"
+    },
+    "category": "finishes",
+    "subcategory": "mechanical_finishes",
+    "tags": ["shearing", "mechanical", "surface", "finishing", "smooth"],
+    "relationships": {
+      "related": ["singeing", "raising", "cropping"],
+      "synonyms": ["surface_cutting"],
+      "children": [],
+      "parent": "mechanical_finishes"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "raising": {
+    "definitions": {
+      "english": "Raising is a mechanical finishing process where fabric surfaces are brushed with wire rollers to produce a soft, hairy texture such as flannel.",
+      "bangla": "রেইজিং হলো যান্ত্রিক প্রক্রিয়া যেখানে তারযুক্ত রোলারের মাধ্যমে কাপড়ের উপরিভাগে নরম ও রোঁয়াযুক্ত টেক্সচার তৈরি করা হয়।"
+    },
+    "category": "finishes",
+    "subcategory": "mechanical_finishes",
+    "tags": ["raising", "brushing", "mechanical", "texture", "finishing"],
+    "relationships": {
+      "related": ["shearing", "singeing", "napping"],
+      "synonyms": ["brushing"],
+      "children": ["napping"],
+      "parent": "mechanical_finishes"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "napping": {
+    "definitions": {
+      "english": "Napping is a finishing process that raises fibers on the fabric surface using rollers with fine wires, producing a soft and warm texture.",
+      "bangla": "ন্যাপিং হলো একটি প্রক্রিয়া যেখানে কাপড়ের উপরিভাগে তারযুক্ত রোলারের মাধ্যমে নরম ও উষ্ণ টেক্সচার তৈরি করা হয়।"
+    },
+    "category": "finishes",
+    "subcategory": "mechanical_finishes",
+    "tags": ["napping", "raising", "softness", "warmth", "finishing"],
+    "relationships": {
+      "related": ["raising", "shearing", "brushing"],
+      "synonyms": ["nap_raising"],
+      "children": [],
+      "parent": "mechanical_finishes"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "low",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "crabbing": {
+    "definitions": {
+      "english": "Crabbing is a finishing process used mainly for wool fabrics, where hot and cold water treatments are applied to set the cloth and prevent distortion.",
+      "bangla": "ক্র্যাবিং হলো একটি সমাপ্তি প্রক্রিয়া যা উলের কাপড়ে ব্যবহৃত হয়, যেখানে গরম ও ঠান্ডা পানির সাহায্যে কাপড়কে সেট করে বিকৃতি প্রতিরোধ করা হয়।"
+    },
+    "category": "finishes",
+    "subcategory": "wet_finishes",
+    "tags": ["crabbing", "wool", "wet_finish", "stability", "finishing"],
+    "relationships": {
+      "related": ["fulling", "decating", "steaming"],
+      "synonyms": ["setting"],
+      "children": [],
+      "parent": "wet_finishes"
+    },
+    "metadata": {
+      "difficulty": "advanced",
+      "frequency": "low",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "fulling": {
+    "definitions": {
+      "english": "Fulling is a finishing process applied to wool fabrics involving controlled moisture, heat, and pressure to mat fibers and improve fabric density.",
+      "bangla": "ফুলিং হলো উলের কাপড়ের জন্য ব্যবহৃত একটি সমাপ্তি প্রক্রিয়া যেখানে আর্দ্রতা, তাপ ও চাপ ব্যবহার করে তন্তুগুলোকে শক্তভাবে জোড়া হয়।"
+    },
+    "category": "finishes",
+    "subcategory": "wet_finishes",
+    "tags": ["fulling", "wool", "density", "wet_finish", "finishing"],
+    "relationships": {
+      "related": ["crabbing", "felting", "decating"],
+      "synonyms": ["felting"],
+      "children": [],
+      "parent": "wet_finishes"
+    },
+    "metadata": {
+      "difficulty": "advanced",
+      "frequency": "low",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "decating": {
+    "definitions": {
+      "english": "Decating is a wet finishing process for wool fabrics where steam and pressure are applied to improve luster, dimensional stability, and hand feel.",
+      "bangla": "ডিক্যাটিং হলো উলের কাপড়ের জন্য ব্যবহৃত ভেজা সমাপ্তি প্রক্রিয়া যেখানে বাষ্প ও চাপ দিয়ে উজ্জ্বলতা, স্থিতিশীলতা ও মসৃণতা বাড়ানো হয়।"
+    },
+    "category": "finishes",
+    "subcategory": "wet_finishes",
+    "tags": ["decating", "wool", "steam", "luster", "finishing"],
+    "relationships": {
+      "related": ["crabbing", "fulling", "steaming"],
+      "synonyms": ["wet_pressing"],
+      "children": [],
+      "parent": "wet_finishes"
+    },
+    "metadata": {
+      "difficulty": "advanced",
+      "frequency": "low",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "steaming": {
+    "definitions": {
+      "english": "Steaming is a textile finishing process where fabrics are exposed to steam under controlled conditions to set finishes, remove wrinkles, or fix dyes.",
+      "bangla": "স্টিমিং হলো একটি সমাপ্তি প্রক্রিয়া যেখানে কাপড়কে নিয়ন্ত্রিত অবস্থায় বাষ্পে উন্মুক্ত করা হয় যাতে সমাপ্তি সেট হয়, ভাঁজ দূর হয় বা রঙ স্থির হয়।"
+    },
+    "category": "finishes",
+    "subcategory": "wet_finishes",
+    "tags": ["steaming", "wet_finish", "dyes", "wrinkle_free", "finishing"],
+    "relationships": {
+      "related": ["decating", "crabbing", "heat_setting"],
+      "synonyms": ["steam_finishing"],
+      "children": [],
+      "parent": "wet_finishes"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "beetling": {
+    "definitions": {
+      "english": "Beetling is a traditional mechanical finishing process for linen fabrics where heavy wooden hammers pound the cloth to increase luster and smoothness.",
+      "bangla": "বিটলিং হলো লিনেন কাপড়ের জন্য ব্যবহৃত একটি যান্ত্রিক সমাপ্তি প্রক্রিয়া যেখানে কাঠের হাতুড়ি দিয়ে কাপড়ে আঘাত করা হয় উজ্জ্বলতা ও মসৃণতা বাড়াতে।"
+    },
+    "category": "finishes",
+    "subcategory": "mechanical_finishes",
+    "tags": ["beetling", "linen", "mechanical", "finishing", "luster"],
+    "relationships": {
+      "related": ["calendering", "mangling", "crushing"],
+      "synonyms": ["pounding"],
+      "children": [],
+      "parent": "mechanical_finishes"
+    },
+    "metadata": {
+      "difficulty": "advanced",
+      "frequency": "low",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "mangling": {
+    "definitions": {
+      "english": "Mangling is a finishing process where fabrics are passed through heavy rollers to improve smoothness, compactness, and luster.",
+      "bangla": "ম্যানগলিং হলো একটি প্রক্রিয়া যেখানে কাপড় ভারী রোলারের মধ্যে দিয়ে নিয়ে মসৃণতা, ঘনত্ব ও উজ্জ্বলতা বৃদ্ধি করা হয়।"
+    },
+    "category": "finishes",
+    "subcategory": "mechanical_finishes",
+    "tags": ["mangling", "rollers", "finishing", "mechanical", "smoothness"],
+    "relationships": {
+      "related": ["beetling", "calendering", "crushing"],
+      "synonyms": ["rolling"],
+      "children": [],
+      "parent": "mechanical_finishes"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "low",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "shrinking": {
+    "definitions": {
+      "english": "Shrinking is a finishing process in which fabrics are treated with moisture, heat, or mechanical action to reduce dimensions and prevent further shrinkage during use.",
+      "bangla": "শ্রিঙ্কিং হলো একটি প্রক্রিয়া যেখানে কাপড় আর্দ্রতা, তাপ বা যান্ত্রিক প্রয়োগে সংকুচিত করা হয় যাতে ব্যবহারকালে অতিরিক্ত সংকোচন না হয়।"
+    },
+    "category": "finishes",
+    "subcategory": "mechanical_finishes",
+    "tags": ["shrinking", "finishing", "mechanical", "dimensional_stability", "fabric"],
+    "relationships": {
+      "related": ["sanforizing", "heat_setting", "compacting"],
+      "synonyms": ["shrinkage_control"],
+      "children": [],
+      "parent": "mechanical_finishes"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "compacting": {
+    "definitions": {
+      "english": "Compacting is a mechanical finishing process applied to knitted fabrics to reduce shrinkage and improve fabric stability using felt or rubber blankets.",
+      "bangla": "কমপ্যাক্টিং হলো নিট কাপড়ের জন্য ব্যবহৃত একটি যান্ত্রিক সমাপ্তি প্রক্রিয়া যেখানে ফেল্ট বা রাবারের সাহায্যে কাপড়ের সংকোচন কমানো হয়।"
+    },
+    "category": "finishes",
+    "subcategory": "mechanical_finishes",
+    "tags": ["compacting", "knitwear", "mechanical", "finishing", "stability"],
+    "relationships": {
+      "related": ["shrinking", "sanforizing", "heat_setting"],
+      "synonyms": ["compaction"],
+      "children": [],
+      "parent": "mechanical_finishes"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "carbonizing": {
+    "definitions": {
+      "english": "Carbonizing is a chemical finishing process applied to wool fabrics to remove cellulosic impurities using sulfuric acid treatment.",
+      "bangla": "কার্বোনাইজিং হলো উলের কাপড়ে ব্যবহৃত একটি রাসায়নিক প্রক্রিয়া যেখানে সালফিউরিক এসিডের সাহায্যে সেলুলোজ জাতীয় অমেধ্য দূর করা হয়।"
+    },
+    "category": "finishes",
+    "subcategory": "chemical_finishes",
+    "tags": ["carbonizing", "wool", "chemical", "impurities", "finishing"],
+    "relationships": {
+      "related": ["scouring", "bleaching", "degreasing"],
+      "synonyms": ["acid_treatment"],
+      "children": [],
+      "parent": "chemical_finishes"
+    },
+    "metadata": {
+      "difficulty": "advanced",
+      "frequency": "low",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  }
+}
+{
+  "creel": {
+    "definitions": {
+      "english": "A creel is a framework or rack used in textile processes to hold multiple yarn packages for unwinding during warping, winding, or knitting operations.",
+      "bangla": "ক্রিল হলো একটি কাঠামো যেখানে একাধিক সুতার প্যাকেজ রাখা হয় যাতে ওয়ার্পিং, উইন্ডিং বা নিটিংয়ের সময় সুতা খোলা যায়।"
+    },
+    "category": "machinery",
+    "subcategory": "preparation_machinery",
+    "tags": ["creel", "yarn", "warping", "knitting", "winding"],
+    "relationships": {
+      "related": ["warping_machine", "beam", "yarn_package"],
+      "synonyms": ["yarn_rack"],
+      "children": [],
+      "parent": "preparation_machinery"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "beaming": {
+    "definitions": {
+      "english": "Beaming is the process of winding warp yarns onto a beam in preparation for weaving, ensuring correct tension and parallel alignment.",
+      "bangla": "বিমিং হলো বুননের আগে ওয়ার্প সুতা একটি বিমে মসৃণভাবে ও সমান্তরালভাবে পেঁচানোর প্রক্রিয়া।"
+    },
+    "category": "processes",
+    "subcategory": "weaving_preparation",
+    "tags": ["beaming", "warp", "weaving", "beam", "tension"],
+    "relationships": {
+      "related": ["warping", "sizing", "drawing_in"],
+      "synonyms": ["warp_beaming"],
+      "children": [],
+      "parent": "weaving_preparation"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "drawing_in": {
+    "definitions": {
+      "english": "Drawing-in is the process of threading warp yarns through the heddles and reed of a loom to set up the warp for weaving.",
+      "bangla": "ড্রয়িং-ইন হলো সুতা লুমে হেডল ও রিডের মধ্য দিয়ে প্রবেশ করিয়ে বুননের জন্য প্রস্তুত করার প্রক্রিয়া।"
+    },
+    "category": "processes",
+    "subcategory": "weaving_preparation",
+    "tags": ["drawing_in", "warp", "loom", "weaving", "setup"],
+    "relationships": {
+      "related": ["beaming", "sleying", "heddles"],
+      "synonyms": ["warp_threading"],
+      "children": [],
+      "parent": "weaving_preparation"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "sleying": {
+    "definitions": {
+      "english": "Sleying is the process of drawing warp yarns through the dents of a reed after they have been drawn through the heddles.",
+      "bangla": "স্লেয়িং হলো হেডলের মধ্য দিয়ে সুতা প্রবেশ করানোর পর রিডের দাঁতের মধ্যে প্রবেশ করানোর প্রক্রিয়া।"
+    },
+    "category": "processes",
+    "subcategory": "weaving_preparation",
+    "tags": ["sleying", "reed", "weaving", "warp", "loom"],
+    "relationships": {
+      "related": ["drawing_in", "beaming", "heddles"],
+      "synonyms": ["reed_threading"],
+      "children": [],
+      "parent": "weaving_preparation"
+    },
+    "metadata": {
+      "difficulty": "intermediate",
+      "frequency": "low",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "pick": {
+    "definitions": {
+      "english": "A pick is a single insertion of weft yarn across the warp in weaving, representing one crossing in the fabric structure.",
+      "bangla": "পিক হলো বুননে ওয়েফট সুতা একবার ওয়ার্পের উপর দিয়ে প্রবেশ করানো।"
+    },
+    "category": "fabrics",
+    "subcategory": "woven_structures",
+    "tags": ["pick", "weaving", "weft", "fabric", "structure"],
+    "relationships": {
+      "related": ["end", "pick_density", "weft"],
+      "synonyms": ["weft_insertion"],
+      "children": [],
+      "parent": "woven_structures"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "end": {
+    "definitions": {
+      "english": "An end is a single warp yarn in woven fabric, running lengthwise and held under tension on the loom.",
+      "bangla": "এন্ড হলো বোনা কাপড়ে একটি ওয়ার্প সুতা যা দৈর্ঘ্য বরাবর চলে।"
+    },
+    "category": "fabrics",
+    "subcategory": "woven_structures",
+    "tags": ["end", "warp", "weaving", "fabric", "structure"],
+    "relationships": {
+      "related": ["pick", "warp_density", "selvage"],
+      "synonyms": ["warp_end"],
+      "children": [],
+      "parent": "woven_structures"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "selvage": {
+    "definitions": {
+      "english": "Selvage is the tightly woven edge of fabric that prevents unraveling and provides stability during handling.",
+      "bangla": "সেলভেজ হলো কাপড়ের প্রান্তের অংশ যা শক্তভাবে বোনা হয় এবং খোলাভাব রোধ করে।"
+    },
+    "category": "fabrics",
+    "subcategory": "woven_structures",
+    "tags": ["selvage", "fabric_edge", "weaving", "stability", "structure"],
+    "relationships": {
+      "related": ["end", "pick", "loom"],
+      "synonyms": ["fabric_edge"],
+      "children": [],
+      "parent": "woven_structures"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "medium",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "pick_density": {
+    "definitions": {
+      "english": "Pick density refers to the number of weft yarns inserted per unit length of fabric, usually measured in picks per inch or centimeter.",
+      "bangla": "পিক ডেনসিটি হলো একটি কাপড়ে দৈর্ঘ্য প্রতি ইউনিটে ওয়েফট সুতা সংখ্যা।"
+    },
+    "category": "quality_control",
+    "subcategory": "fabric_measurements",
+    "tags": ["pick_density", "weft", "fabric", "measurement", "weaving"],
+    "relationships": {
+      "related": ["end_density", "pick", "weft"],
+      "synonyms": ["picks_per_inch"],
+      "children": [],
+      "parent": "fabric_measurements"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  },
+  "end_density": {
+    "definitions": {
+      "english": "End density refers to the number of warp yarns per unit length of fabric, typically measured in ends per inch or centimeter.",
+      "bangla": "এন্ড ডেনসিটি হলো কাপড়ে দৈর্ঘ্য প্রতি ইউনিটে ওয়ার্প সুতা সংখ্যা।"
+    },
+    "category": "quality_control",
+    "subcategory": "fabric_measurements",
+    "tags": ["end_density", "warp", "fabric", "measurement", "weaving"],
+    "relationships": {
+      "related": ["pick_density", "end", "warp"],
+      "synonyms": ["ends_per_inch"],
+      "children": [],
+      "parent": "fabric_measurements"
+    },
+    "metadata": {
+      "difficulty": "basic",
+      "frequency": "high",
+      "last_updated": "2025-09-11",
+      "source": "textile_handbook_2024"
+    }
+  }
+}
