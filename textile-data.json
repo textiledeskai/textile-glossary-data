@@ -1,44 +1,338 @@
 {
-  "cotton": {
-    "definitions": {
-      "english": "A soft, white fibrous substance obtained from the seed hairs of cotton plants, widely used in textile manufacturing for its breathability, absorbency, and comfort.",
-      "bangla": "তুলা একটি নরম, সাদা তন্তুযুক্ত পদার্থ যা তুলা গাছের বীজের লোম থেকে প্রাপ্ত হয়।"
-    },
-    "category": "raw_materials",
-    "subcategory": "natural_fibers",
-    "tags": ["fiber", "plant", "breathable", "absorbent", "natural"],
-    "relationships": {
-      "related": ["linen", "hemp", "jute", "ramie"],
-      "synonyms": ["cotton_fiber", "gossypium"],
-      "children": ["organic_cotton", "egyptian_cotton", "pima_cotton"],
-      "parent": "plant_fibers"
-    },
-    "metadata": {
-      "difficulty": "basic",
-      "frequency": "high",
-      "last_updated": "2024-01-15",
-      "source": "textile_handbook_2024"
-    }
-  },
-  "mulberry_silk": {
-    "definitions": {
-      "english": "The most common type of silk, produced by silkworms fed exclusively on mulberry leaves, known for its uniform texture and superior quality.",
-      "bangla": "তুঁত পাতা খেয়ে বেড়ে ওঠা রেশম কীটের উৎপাদিত উচ্চমানের রেশম।"
-    },
-    "category": "raw_materials",
-    "subcategory": "natural_fibers",
-    "tags": ["silk", "luxury", "protein_fiber", "smooth", "lustrous"],
-    "relationships": {
-      "related": ["tussar_silk", "eri_silk", "muga_silk"],
-      "synonyms": ["cultivated_silk", "bombyx_mori_silk"],
-      "parent": "silk",
-      "children": ["grade_a_mulberry_silk", "grade_b_mulberry_silk"]
-    },
-    "metadata": {
-      "difficulty": "intermediate",
-      "frequency": "high",
-      "last_updated": "2024-01-15",
-      "source": "silk_industry_guide_2024"
-    }
-  }
+"cotton\_fiber": {
+"definitions": {
+"english": "A soft, white cellulosic fiber harvested from the seed hairs of Gossypium species. Cotton fibers are staple-length, highly breathable, and absorbent, making them ideal for apparel, home textiles, and technical goods. They can be carded, combed, spun into yarn, and finished with chemical or mechanical treatments to modify strength, dyeability, and hand. Cotton's cellulosic chemistry permits wet processing, mercerization, and enzymatic treatments for specialized performance.",
+"bangla": "তুলা হলো গসিপিয়াম প্রজাতির বীজের লোম থেকে প্রাপ্ত একটি নরম, সেলুলোজযুক্ত তন্তু, যা পোশাক ও গৃহস্থালী বস্ত্র তৈরিতে বহুল ব্যবহৃত।"
+},
+"category": "raw\_materials",
+"subcategory": "natural\_fibers",
+"tags": \["fiber", "plant", "cellulosic", "absorbent", "natural"],
+"relationships": {
+"related": \["linen\_fiber", "hemp\_fiber", "pima\_cotton"],
+"synonyms": \["cotton", "gossypium"],
+"children": \["organic\_cotton", "egyptian\_cotton", "pima\_cotton"],
+"parent": "plant\_fibers"
+},
+"metadata": {
+"difficulty": "basic",
+"frequency": "high",
+"last\_updated": "2025-09-11",
+"source": "textile\_handbook\_2024"
+}
+},
+"wool\_fiber": {
+"definitions": {
+"english": "A protein-based animal fiber obtained primarily from sheep (Ovis aries) but also from goats (cashmere), camelids, and other animals. Wool fibers have a complex scaly surface and crimp that impart bulk, resilience, and insulating properties. They are hygroscopic, retaining warmth when damp, and can be carded, combed, worsted, or woollen spun into various yarn types. Wool requires careful wet-processing and may be treated to reduce felting or to produce machine-washable variants.",
+"bangla": "উল হলো প্রধানত ভেড়া থেকে প্রাপ্ত প্রোটিনভিত্তিক তন্তু, যা তাপ নিয়ন্ত্রণ এবং নমনীয়তা প্রদান করে।"
+},
+"category": "raw\_materials",
+"subcategory": "animal\_fibers",
+"tags": \["fiber", "animal", "protein", "insulating", "natural"],
+"relationships": {
+"related": \["cashmere", "alpaca", "mohair"],
+"synonyms": \["wool\_fleece", "sheep\_wool"],
+"children": \["merino\_wool", "lambswool"],
+"parent": "animal\_fibers"
+},
+"metadata": {
+"difficulty": "basic",
+"frequency": "medium",
+"last\_updated": "2025-09-11",
+"source": "textile\_handbook\_2024"
+}
+},
+"silk\_fiber": {
+"definitions": {
+"english": "A natural protein filament produced by silk-producing larvae, most notably Bombyx mori. Silk fibers are continuous filaments with high tensile strength, smooth surface, natural luster, and excellent drape. Silk is processed through reeling, throwing, and weaving or knitting into luxury fabrics; it responds well to dyeing due to its amino-acid based chemistry. Because of its delicate cell structure, silk requires specialized finishing, careful wet processing, and may be blended to improve durability or reduce cost.",
+"bangla": "রেশম হলো বাম্বাইক্স মোরি প্রজাতির লার্ভা দ্বারা সৃষ্ট একটি প্রাকৃতিক প্রোটিন ফিলামেন্ট, যা মসৃণ এবং ঝকঝকে।"
+},
+"category": "raw\_materials",
+"subcategory": "animal\_fibers",
+"tags": \["fiber", "animal", "protein", "luxury", "continuous\_filament"],
+"relationships": {
+"related": \["silk\_twist", "silk\_noil"],
+"synonyms": \["mulberry\_silk", "bombyx\_silk"],
+"children": \["mulberry\_silk", "tussah\_silk"],
+"parent": "filament\_fibers"
+},
+"metadata": {
+"difficulty": "intermediate",
+"frequency": "medium",
+"last\_updated": "2025-09-11",
+"source": "textile\_handbook\_2024"
+}
+},
+"polyester\_fiber": {
+"definitions": {
+"english": "A synthetic polymer fiber primarily composed of polyethylene terephthalate (PET) used extensively in apparel, home textiles, industrial fabrics, and technical textiles. Polyester fibers are engineered for strength, dimensional stability, wrinkle resistance, rapid drying, and resistance to biological degradation. They can be produced as staple or filament, textured for bulk, and modified (e.g., hollow, bicomponent) to alter hand, insulating properties, or dye affinity. Polyester is often blended with natural fibers to combine performance characteristics.",
+"bangla": "পলিয়েস্টার হলো প্রধানত পিইটি ভিত্তিক একটি সিন্থেটিক ফাইবার, যা শক্তিশালী এবং দাগভেদ্য প্রতিরোধী।"
+},
+"category": "raw\_materials",
+"subcategory": "synthetic\_fibers",
+"tags": \["fiber", "synthetic", "polymer", "durable", "thermoplastic"],
+"relationships": {
+"related": \["nylon\_fiber", "acrylic\_fiber", "spandex\_fiber"],
+"synonyms": \["polyester", "pet\_fiber"],
+"children": \["textured\_polyester", "microfiber\_polyester"],
+"parent": "man\_made\_fibers"
+},
+"metadata": {
+"difficulty": "basic",
+"frequency": "high",
+"last\_updated": "2025-09-11",
+"source": "textile\_handbook\_2024"
+}
+},
+"nylon\_fiber": {
+"definitions": {
+"english": "A synthetic polyamide fiber known for high tensile strength, excellent abrasion resistance, and good elasticity. Nylon was one of the first fully synthetic textile fibers and is used in hosiery, carpets, industrial textiles, and performance apparel. It can be produced as filament or staple, textured for bulk, and blended to improve recovery and durability. Nylon's chemistry allows heat setting and dyeing with disperse dyes; considerations include hydrolysis sensitivity and static buildup which may be mitigated with finishes.",
+"bangla": "নাইলন হলো একটি সিন্থেটিক পলিয়ামাইড ফাইবার, যা উচ্চ বহনক্ষমতা ও আগড় প্রতিরোধে দক্ষ।"
+},
+"category": "raw\_materials",
+"subcategory": "synthetic\_fibers",
+"tags": \["fiber", "synthetic", "polyamide", "strong", "elastic"],
+"relationships": {
+"related": \["polyester\_fiber", "spandex\_fiber"],
+"synonyms": \["nylon", "polyamide"],
+"children": \["nylon\_6", "nylon\_6\_6"],
+"parent": "man\_made\_fibers"
+},
+"metadata": {
+"difficulty": "intermediate",
+"frequency": "medium",
+"last\_updated": "2025-09-11",
+"source": "textile\_handbook\_2024"
+}
+},
+"linen\_fiber": {
+"definitions": {
+"english": "A natural bast fiber obtained from the stem of the flax plant (Linum usitatissimum). Linen fibers are longer and stiffer than cotton, providing excellent strength, moisture wicking, and cooling properties. They are used for apparel, household textiles, and specialty technical fabrics. Processing includes retting, scutching, hackling, and spinning; linen requires specific wet and mechanical treatments to soften and improve drape. Its cellulosic composition allows conventional dyeing and finishing processes.",
+"bangla": "লিনেন বা ফ্ল্যাক্স তন্তু হলো লিনাম উদ্ভিদের ডাল থেকে প্রাপ্ত একটি শক্তিশালী বস্ত্রতন্তু, যা শীতলকর ও শোষণশক্তিসম্পন্ন।"
+},
+"category": "raw\_materials",
+"subcategory": "natural\_fibers",
+"tags": \["fiber", "plant", "bast", "cooling", "durable"],
+"relationships": {
+"related": \["cotton\_fiber", "hemp\_fiber", "ramie\_fiber"],
+"synonyms": \["flax\_fiber", "linen"],
+"children": \["bleached\_linen", "slub\_linen"],
+"parent": "plant\_fibers"
+},
+"metadata": {
+"difficulty": "intermediate",
+"frequency": "medium",
+"last\_updated": "2025-09-11",
+"source": "textile\_handbook\_2024"
+}
+},
+"spinning": {
+"definitions": {
+"english": "The mechanical and sometimes chemical process of converting staple fibers or filaments into yarn by drafting, twisting, and winding. Spinning encompasses preparatory operations (carding, combing, drawing), the core spinning step (ring, rotor, air-jet, or friction spinning), and post-spinning processes (winding, doubling). Parameters such as twist per inch, draft ratio, and spindle speed directly affect yarn strength, evenness, hairiness, and end-use suitability across woven and knitted goods.",
+"bangla": "স্পিনিং হলো ফাইবারকে আঁচড়িয়া টুইস্ট ও ওয়াইন্ড করে ইয়র্নে রূপান্তর করার প্রক্রিয়া।"
+},
+"category": "processes",
+"subcategory": "yarn\_production",
+"tags": \["process", "yarn", "twist", "carding", "spinning\_machine"],
+"relationships": {
+"related": \["carding", "combing", "ring\_spinning", "rotor\_spinning"],
+"synonyms": \["yarn\_production", "yarn\_spinning"],
+"children": \["ring\_spinning", "rotor\_spinning", "air\_jet\_spinning"],
+"parent": "yarn\_manufacturing"
+},
+"metadata": {
+"difficulty": "intermediate",
+"frequency": "high",
+"last\_updated": "2025-09-11",
+"source": "textile\_handbook\_2024"
+}
+},
+"weaving": {
+"definitions": {
+"english": "A textile process in which two distinct sets of yarns — the warp (longitudinal) and the weft (transverse) — are interlaced at right angles on a loom to form fabric. Weaving includes preparatory steps such as warping, sizing, and drawing-in, and uses loom types ranging from handlooms to high-speed rapier, air-jet, and water-jet looms. Weave structure, yarn count, and tension control determine fabric properties such as drape, strength, porosity, and surface appearance.",
+"bangla": "বোনা বা উইভিং হলো লুমে ওয়াপ ও বীফ স্পর্শ করে কাপড় তৈরি করার প্রক্রিয়া।"
+},
+"category": "processes",
+"subcategory": "fabric\_production",
+"tags": \["process", "loom", "warp", "weft", "weave\_pattern"],
+"relationships": {
+"related": \["knitting", "warp", "weft", "plain\_weave", "twill\_weave"],
+"synonyms": \["loom\_weaving", "fabric\_weaving"],
+"children": \["plain\_weave", "twill\_weave", "satin\_weave"],
+"parent": "fabric\_manufacturing"
+},
+"metadata": {
+"difficulty": "intermediate",
+"frequency": "high",
+"last\_updated": "2025-09-11",
+"source": "textile\_handbook\_2024"
+}
+},
+"knitting": {
+"definitions": {
+"english": "A method of fabric formation where yarns are looped together to form intermeshing loops (stitches), producing knitted fabrics that are generally more extensible and elastic than woven fabrics. Knitting can be performed by hand or by machine (weft knitting or warp knitting) and yields structures such as jersey, rib, interlock, and tricot. Parameters like stitch length, yarn properties, and machine gauge influence hand, recovery, dimensional stability, and end-use performance.",
+"bangla": "নিটিং হলো এমন একটি প্রক্রিয়া যেখানে একটার পর একটি লুপ গঠন করে ফ্যাব্রিক তৈরি করা হয়, যা সাধারণত বোনা কাপড়ের তুলনায় নমনীয়।"
+},
+"category": "processes",
+"subcategory": "fabric\_production",
+"tags": \["process", "looped\_structure", "weft\_knitting", "warp\_knitting"],
+"relationships": {
+"related": \["weaving", "jersey", "interlock"],
+"synonyms": \["knit\_fabric\_production", "stitching"],
+"children": \["weft\_knitting", "warp\_knitting"],
+"parent": "fabric\_manufacturing"
+},
+"metadata": {
+"difficulty": "intermediate",
+"frequency": "high",
+"last\_updated": "2025-09-11",
+"source": "textile\_handbook\_2024"
+}
+},
+"dyeing": {
+"definitions": {
+"english": "A wet-processing operation that imparts color to fibers, yarns, or fabrics through the application of dyes and auxiliaries under controlled conditions of temperature, pH, and time. Dyeing methods include batch (exhaust), continuous, pad-dyeing, and garment dyeing. Selection of dye class (reactive, vat, disperse, basic, acid) depends on fiber chemistry; process variables affect color fastness, penetration, leveling, and environmental impact due to effluent composition and auxiliary use.",
+"bangla": "রঞ্জন বা ডাইং হলো তন্তু, ইয়র্ন কিংবা কাপড়ে রং প্রয়োগের ভেজা-প্রক্রিয়া, যা ফাইবারের রসায়নের উপর ভিত্তি করে বিভিন্ন ডাই ক্লাস ব্যবহার করে।"
+},
+"category": "processes",
+"subcategory": "wet\_processing",
+"tags": \["process", "coloration", "dyes", "fastness", "wet\_processing"],
+"relationships": {
+"related": \["printing", "finishing", "reactive\_dye", "vat\_dye"],
+"synonyms": \["coloration", "coloration\_process"],
+"children": \["yarn\_dyeing", "piece\_dyeing", "garment\_dyeing"],
+"parent": "wet\_processing"
+},
+"metadata": {
+"difficulty": "intermediate",
+"frequency": "high",
+"last\_updated": "2025-09-11",
+"source": "textile\_handbook\_2024"
+}
+},
+"mercerization": {
+"definitions": {
+"english": "A chemical treatment applied to cellulosic fibers (commonly cotton) involving alkali (sodium hydroxide) under tension to alter fiber morphology, increase luster, enhance dye uptake, and improve tensile strength and dimensional stability. The process causes swelling, rearrangement of cellulose chains, and improved fibril orientation. Controlled rinsing and neutralization follow; process parameters such as concentration, tension, and dwell time determine the degree of mercerization and its effects on hand and performance.",
+"bangla": "মার্সারাইজেশন হলো সেলুলোজিক তন্তু, প্রধানত তুলা, উপর ক্ষারীয় চিকিৎসা, যা ফাইবারের ঝকঝকে ভাব ও রঞ্জক গ্রহণযোগ্যতা বাড়ায়।"
+},
+"category": "finishes",
+"subcategory": "chemical\_finishes",
+"tags": \["finish", "chemical", "cotton", "luster", "alkali\_treatment"],
+"relationships": {
+"related": \["singeing", "bleaching", "cotton\_fiber"],
+"synonyms": \["caustic\_treatment", "mercerising"],
+"children": \["full\_mercerization", "tension\_mercerization"],
+"parent": "cellulosic\_finishes"
+},
+"metadata": {
+"difficulty": "advanced",
+"frequency": "medium",
+"last\_updated": "2025-09-11",
+"source": "textile\_handbook\_2024"
+}
+},
+"warp": {
+"definitions": {
+"english": "The set of yarns held longitudinally and under tension on a loom during weaving; warp yarns form the longitudinal structure of woven fabric and must possess appropriate strength, evenness, and low elongation to withstand sizing, shedding, and beating-up. Warp preparation processes include warping, sizing, and drawing-in. Warp yarn count, twist, and type (singles, ply) critically influence fabric stability, surface appearance, and mechanical performance in the final textile.",
+"bangla": "ওয়াপ হলো বীচাপথের দিক ধরে লুমে দীর্ঘকালের জন্য টান সাপেক্ষে রাখা ইয়র্নগুলোর সেট, যা বোনা কাপড়ের লম্বা অক্ষ গঠন করে।"
+},
+"category": "processes",
+"subcategory": "weaving\_components",
+"tags": \["yarn", "loom", "longitudinal", "tension", "preparation"],
+"relationships": {
+"related": \["weft", "warping", "sizing"],
+"synonyms": \["warp\_yarn", "warp\_set"],
+"children": \["primary\_warp", "secondary\_warp"],
+"parent": "weaving\_components"
+},
+"metadata": {
+"difficulty": "basic",
+"frequency": "high",
+"last\_updated": "2025-09-11",
+"source": "textile\_handbook\_2024"
+}
+},
+"weft": {
+"definitions": {
+"english": "The transverse yarns inserted across the warp during weaving to interlace and form the fabric structure. Weft yarns are generally less tensioned than warp yarns and can be inserted by shuttle, rapier, projectile, or jet systems. Weft properties—count, twist, filament/staple nature, and texture—influence fabric weight, cover, extensibility, and surface. Proper control of weft insertion rate and tension is essential to avoid defects such as selvage distortion and float-related issues.",
+"bangla": "বীফ হলো বোনা প্রক্রিয়ায় ওয়াপের উপর খাড়া ভাবে সন্নিবেশিত ট্রান্সভার্স ইয়র্ন, যা কাপড়ের বুনন সম্পন্ন করে।"
+},
+"category": "processes",
+"subcategory": "weaving\_components",
+"tags": \["yarn", "transverse", "insertion", "weft\_insertion", "fabric\_structure"],
+"relationships": {
+"related": \["warp", "weaving", "selvage"],
+"synonyms": \["weft\_yarn", "filling"],
+"children": \["single\_weft", "double\_weft"],
+"parent": "weaving\_components"
+},
+"metadata": {
+"difficulty": "basic",
+"frequency": "high",
+"last\_updated": "2025-09-11",
+"source": "textile\_handbook\_2024"
+}
+},
+"plain\_weave": {
+"definitions": {
+"english": "The simplest and most common basic weave structure in which each weft yarn alternately passes over and under successive warp yarns (1/1 interlacement), producing a balanced, stable fabric with good dimensional stability and abrasion resistance. Plain weave yields tight interlacing, limits long floats, and can be produced with a wide range of yarn counts and fiber types. Variations include basket weave (multiple ends/picks grouped) and can be finished to achieve diverse surface properties.",
+"bangla": "প্লেইন উইভ হল সবচেয়ে সাধারণ বুনন কাঠামো যেখানে প্রতিটি বীফ ইয়র্ন ধারাবাহিকভাবে ওয়াপ ইয়র্নের উপর ও নিচে যায়, ফলে একটি স্থিতিশীল কাপড় তৈরি হয়।"
+},
+"category": "fabrics",
+"subcategory": "weave\_structures",
+"tags": \["weave\_pattern", "balanced", "stable", "plain\_weave", "basic\_structure"],
+"relationships": {
+"related": \["twill\_weave", "satin\_weave", "basket\_weave"],
+"synonyms": \["tabby\_weave", "plain\_weave\_structure"],
+"children": \["balanced\_plain", "unbalanced\_plain", "basket\_variation"],
+"parent": "weave\_structures"
+},
+"metadata": {
+"difficulty": "basic",
+"frequency": "high",
+"last\_updated": "2025-09-11",
+"source": "textile\_handbook\_2024"
+}
+},
+"yarn\_count": {
+"definitions": {
+"english": "A numerical expression that defines the linear density or thickness of a yarn, expressed using various systems such as English (cotton count, Ne), Metric (tex, denier), and Worsted (Nm). Yarn count impacts fabric weight, cover, strength, and hand; it also dictates processing parameters in spinning, warping, and weaving. Accurate conversion and specification of yarn count are essential for recipe matching, production planning, and achieving intended fabric performance in end-use applications.",
+"bangla": "ইয়র্ন কাউন্ট হলো ইয়র্নের লিনিয়ার ঘনত্ব ব্যাখ্যা করে এমন একটি সংখ্যাসূচক মান, যা টেক্স বা কাউন্ট সিস্টেমে প্রকাশ করা হয়।"
+},
+"category": "quality\_control",
+"subcategory": "measurement",
+"tags": \["measurement", "yarn", "count", "tex", "denier"],
+"relationships": {
+"related": \["yarn\_tension", "yarn\_twist", "fabric\_gsm"],
+"synonyms": \["yarn\_linear\_density", "yarn\_size"],
+"children": \["cotton\_count\_ne", "tex", "denier"],
+"parent": "yarn\_specification"
+},
+"metadata": {
+"difficulty": "intermediate",
+"frequency": "high",
+"last\_updated": "2025-09-11",
+"source": "textile\_handbook\_2024"
+}
+},
+"singeing": {
+"definitions": {
+"english": "A preparatory finishing process where the protruding fiber ends (hairiness) on the surface of woven or knitted fabric or yarn are burned off quickly by exposure to a gas or electrically heated plate to produce a smooth appearance and reduce pilling. Singeing improves subsequent processes such as calendaring and printing by reducing surface fibers that can trap contaminants or cause uneven finishes. Process control is critical to avoid scorch and fiber damage.",
+"bangla": "সিঞ্জিং হলো ফ্যাব্রিক বা ইয়র্নের ওপর থাকা খসখসে উঁচু তন্তু দ্রুত জ্বালিয়ে ফেলা এক প্রক্রিয়া, যা পৃষ্ঠটি মসৃণ করে।"
+},
+"category": "finishes",
+"subcategory": "mechanical\_finishes",
+"tags": \["finish", "surface", "hairiness", "preparation", "singeing"],
+"relationships": {
+"related": \["desizing", "scouring", "calendaring"],
+"synonyms": \["flame\_singeing", "plate\_singeing"],
+"children": \["gas\_singeing", "plate\_singeing"],
+"parent": "preparatory\_finishes"
+},
+"metadata": {
+"difficulty": "intermediate",
+"frequency": "medium",
+"last\_updated": "2025-09-11",
+"source": "textile\_handbook\_2024"
+}
+}
 }
